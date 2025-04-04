@@ -20,7 +20,7 @@ USE_MAXIMUM_POWER = False
 
 # Desired number of configurations to fetch.
 # This is used only if USE_MAXIMUM_POWER is False.
-SPECIFIC_CONFIG_COUNT = 200
+SPECIFIC_CONFIG_COUNT = 2000
 
 # Dictionary of protocols to enable or disable.
 # Set each protocol to True to enable, False to disable.
@@ -36,4 +36,4 @@ ENABLED_PROTOCOLS = {
 
 # Maximum age of configurations in days.
 # Configurations older than this will be considered invalid.
-MAX_CONFIG_AGE_DAYS = 14
+MAX_CONFIG_AGE_DAYS = 365
