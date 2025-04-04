@@ -20,6 +20,10 @@ vless://0398bf98-40fc-5f3a-ad3e-81ab26894bc2@45.89.55.188:8880?mode=gun&security
 
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.112.62:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram
 
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.51.226.58:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.51.8.163:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram
+
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.61.66.87:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#@VIProxys
 
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.135.60.220:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram
@@ -42,13 +46,13 @@ vless://0644ddf4-92ed-4159-a47d-a3dc96ae0a9e@whatismyipaddress.com:2096?security
 
 vless://0644ddf4-92ed-4159-a47d-a3dc96ae0a9e@whatismyipaddress.com:2096?security=tls&type=ws&headerType=&path=&host=wwwspeedtestnetwhiteberinsistomd6625996s29.elitemizban.ir&sni=wwwspeedtestnetwhiteberinsistomd6625996s29.elitemizban.ir&fp=#telegram 🎯 DailyV2ry
 
-vless://0644ddf4-92ed-4159-a47d-a3dc96ae0a9e@whatismyipaddress.com:2096?security=tls&type=ws&headerType=&path=&host=wwwspeedtestnetwhiteberinsistomd6625996s30.elitemizban.ir&sni=wwwspeedtestnetwhiteberinsistomd6625996s30.elitemizban.ir&fp=#telegram 🎪 DailyV2ry
+vless://0644ddf4-92ed-4159-a47d-a3dc96ae0a9e@whatismyipaddress.com:2096?security=tls&type=ws&headerType=&path=&host=wwwspeedtestnetwhiteberinsistomd6625996s30.elitemizban.ir&sni=wwwspeedtestnetwhiteberinsistomd6625996s30.elitemizban.ir&fp=#telegram 🎯 DailyV2ry
 
-vless://0644ddf4-92ed-4159-a47d-a3dc96ae0a9e@whatismyipaddress.com:2096?security=tls&type=ws&headerType=&path=&host=wwwspeedtestnetwhiteberinsistomd6625996s31.elitemizban.ir&sni=wwwspeedtestnetwhiteberinsistomd6625996s31.elitemizban.ir&fp=#telegram 🎪 DailyV2ry
+vless://0644ddf4-92ed-4159-a47d-a3dc96ae0a9e@whatismyipaddress.com:2096?security=tls&type=ws&headerType=&path=&host=wwwspeedtestnetwhiteberinsistomd6625996s31.elitemizban.ir&sni=wwwspeedtestnetwhiteberinsistomd6625996s31.elitemizban.ir&fp=#telegram 🍊 DailyV2ry
 
 vless://0644ddf4-92ed-4159-a47d-a3dc96ae0a9e@whatismyipaddress.com:2096?security=tls&type=ws&headerType=&path=&host=wwwspeedtestnetwhiteberinsistomd6625996s32.elitemizban.ir&sni=wwwspeedtestnetwhiteberinsistomd6625996s32.elitemizban.ir&fp=#@meli_proxyy
 
-vless://0644ddf4-92ed-4159-a47d-a3dc96ae0a9e@whatismyipaddress.com:2096?security=tls&type=ws&headerType=&path=&host=wwwspeedtestnetwhiteberinsistomd6625996s32.elitemizban.ir&sni=wwwspeedtestnetwhiteberinsistomd6625996s32.elitemizban.ir&fp=#telegram 🎪 DailyV2ry
+vless://0644ddf4-92ed-4159-a47d-a3dc96ae0a9e@whatismyipaddress.com:2096?security=tls&type=ws&headerType=&path=&host=wwwspeedtestnetwhiteberinsistomd6625996s32.elitemizban.ir&sni=wwwspeedtestnetwhiteberinsistomd6625996s32.elitemizban.ir&fp=#telegram 🎯 DailyV2ry
 
 vless://0644ddf4-92ed-4159-a47d-a3dc96ae0a9e@whatismyipaddress.com:2096?security=tls&type=ws&headerType=&path=&host=wwwspeedtestnetwhiteberinsistomd6625996s33.elitemizban.ir&sni=wwwspeedtestnetwhiteberinsistomd6625996s33.elitemizban.ir&fp=#telegram 🎪 DailyV2ry
 
@@ -56,11 +60,7 @@ vless://06df626b-5662-4339-8d5a-83f2f03bac5e@108.162.192.85:443?encryption=none&
 
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@trevor.ns.cloudflare.com:443/?type=ws&channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-encryption=none&host=cv.dong2025.cfd&path=%2F%3Fed%3D2560&security=tls&sni=cv.dong2025.cfd#%20%40vpn_v2rang_box
 
-vless://06f23464-b2d8-4344-a16f-dca7cf81a0a2@g.soskom.ir:11045?encryption=none&security=none&sni=yahoo.com&type=grpc#Join%20to%20%40AcccrdNet
-
 vless://0a44145f-59dc-4e5b-a233-677b97f5114c@51.81.18.62:443?security=tls&sni=147135011033.sec21org.com&fp=chrome&type=tcp&encryption=none
-
-vless://0a44145f-59dc-4e5b-a233-677b97f5114c@51.81.36.78:443?encryption=none&security=tls&sni=147135011033.sec21org.com&alpn=h2%2Chttp%2F1.1&type=tcp&headerType=none#@VIProxys
 
 vless://0c885b48-8225-5ed3-bbe1-f40de3c977f9@140.248.145.144:443?security=tls&sni=bwdraper.faculty.ucdavis.edu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=harifet-manam-70.com&encryption=none#Rayan%20-%20SSM%20-%20FL%20-%20F-70%20-%20IL%20-%20I%20-%20%F0%9F%8C%8D%20t.me/Rayan_Config
 
@@ -368,6 +368,8 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIjkiLA0KICAiYWRkIjogIm9mZmljZS5mYXJzb25s
 
 vmess://ewogICAgImFkZCI6ICIxMDQuMjEuOTQuMTY4IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiaG1zMTkuYmVzdC10aXppLnRvcCIsCiAgICAiaWQiOiAiNjJhYTVmODAtMDMyOC00MDA0LWEzNzUtN2Y1YTU5ZGY0MDIyIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL2xpbmt3cyIsCiAgICAicG9ydCI6IDQ0MywKICAgICJwcyI6ICLwn4+BUkVMQVktMTA0LjIxLjk0LjE2OC03NDQ4IiwKICAgICJ0bHMiOiAidGxzIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
 
+vmess://ewogICAgImFkZCI6ICIxNzIuNjcuMTUzLjE1NiIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogInVzd3V4aWFuLnBhaTUwMjg4LnVrIiwKICAgICJpZCI6ICJjMzEzNjA2Zi05OGMyLTRkN2ItYmE3NC00OGI5NGY2MWIxMWQiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvIiwKICAgICJwb3J0IjogODQ0MywKICAgICJwcyI6ICLwn4+BUkVMQVktMTcyLjY3LjE1My4xNTYtMDMwNyIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
+
 vmess://ewogICAgImFkZCI6ICIxNzIuNjcuNzEuMTYwIiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAib2JkaWkuY2ZkIiwKICAgICJpZCI6ICIwNTY0MWNmNS01OGQyLTRiYTQtYTlmMS1iM2NkYTBiMWZiMWQiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvbGlua3dzIiwKICAgICJwb3J0IjogNDQzLAogICAgInBzIjogIvCfj4FSRUxBWS0xNzIuNjcuNzEuMTYwLTc3MzkiLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IGZhbHNlLAogICAgInNuaSI6ICJvYmRpaS5jZmQiCn0=
 
 vmess://ewogICAgImFkZCI6ICJ1c3d1eGlhbi5wYWk1MDI4OC51ayIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogInVzd3V4aWFuLnBhaTUwMjg4LnVrIiwKICAgICJpZCI6ICJjMzEzNjA2Zi05OGMyLTRkN2ItYmE3NC00OGI5NGY2MWIxMWQiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvIiwKICAgICJwb3J0IjogODQ0MywKICAgICJwcyI6ICLwn4+BUkVMQVktMTcyLjY3LjE1My4xNTYtMDI4NSIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogZmFsc2UsCiAgICAic25pIjogInVzd3V4aWFuLnBhaTUwMjg4LnVrIgp9
@@ -413,8 +415,6 @@ vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJ0ZWxlZ3JhbSDwn4yfIERhaWx5VjJyeSIsCiAgImFk
 vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJ0ZWxlZ3JhbSDwn4yfIERhaWx5VjJyeSIsCiAgImFkZCI6ICIxNTQuMjYuMTUzLjE3MyIsCiAgInBvcnQiOiAyODY4NiwKICAiaWQiOiAiNmRmN2Q1NmYtNDk1My00YTEwLWJlMmUtYTg4Y2M5Zjk0ZTQ4IiwKICAic2N5IjogImF1dG8iLAogICJuZXQiOiAidGNwIiwKICAidHlwZSI6ICJub25lIiwKICAidGxzIjogIm5vbmUiCn0=
 
 vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJ0ZWxlZ3JhbSDwn4yfIERhaWx5VjJyeSIsCiAgImFkZCI6ICIxOTMuMTA4LjExOC4xMzYiLAogICJwb3J0IjogMTU3MTMsCiAgImlkIjogImY3NGUyNzdlLTg0YjMtNDZhMi04YWJkLTI3NzdmYTVlNGFmOSIsCiAgInNjeSI6ICJhdXRvIiwKICAibmV0IjogInRjcCIsCiAgInR5cGUiOiAibm9uZSIsCiAgInRscyI6ICJub25lIgp9
-
-vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJ0ZWxlZ3JhbSDwn4yfIERhaWx5VjJyeSIsCiAgImFkZCI6ICIzOC4xMDkuMjI4LjIxNCIsCiAgInBvcnQiOiAxNDg1NCwKICAiaWQiOiAiZjBhMjE0YmEtMmE0Zi00ZjIyLWIzNDItMDMxMjM3MjZhYjI3IiwKICAic2N5IjogImF1dG8iLAogICJuZXQiOiAidGNwIiwKICAidHlwZSI6ICJub25lIiwKICAidGxzIjogIm5vbmUiCn0=Daily
 
 vmess://eyJhZGQiOiI0Ni4yNTAuMjUzLjIzNCIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiI3NjJiMzkyMy01ODg1LTRjNWYtODg2Zi1lNjI3ODg1MTIzMzgiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjI4ODcyIiwicHMiOiLwn5SSIFZNLVRDUC1OQSDwn4es8J+HpyBHQi00Ni4yNTAuMjUzLjIzNDoyODg3MiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 
