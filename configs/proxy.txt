@@ -60,7 +60,7 @@ vless://0ac50e14-b3a2-4a7d-b881-61d5178e56e1@ca.foxmaster.ir:443?security=realit
 
 vless://0ac50e14-b3a2-4a7d-b881-61d5178e56e1@ca.foxmaster.ir:443?security=reality&type=grpc&headerType=&serviceName=&authority=&mode=gun&sni=CaNVa.com&fp=chrome&pbk=1hdF2ghIgrvTH9rf493hDR8y1ZEjKqW8U6sg2gt-jAk&sid=6036be4e05b3c4f4&spx=%2Fstatic%2Fassets#@meli_proxyy
 
-vless://0ac50e14-b3a2-4a7d-b881-61d5178e56e1@de.carefreemob2.com:3661?security=reality&type=tcp&headerType=&path=&host=&sni=icloud.com&fp=chrome&pbk=f8TgqVBYK3tmhip3lJ-r8D0i6fqEF1Zy-zAfEhS-Cl8&sid=67a1a8bb9ff0ed21#%F0%9F%87%A9%F0%9F%87%AA%20l%20Germany%20
+vless://0ac50e14-b3a2-4a7d-b881-61d5178e56e1@de.carefreemob2.com:3661?security=reality&type=tcp&headerType=&path=&host=&sni=icloud.com&fp=chrome&pbk=f8TgqVBYK3tmhip3lJ-r8D0i6fqEF1Zy-zAfEhS-Cl8&sid=67a1a8bb9ff0ed21#@M4Dvpn
 
 vless://0f99161f-5dd2-5f7f-89e7-9f09165ec820@5.253.30.11:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=5.253.30.11&encryption=none#Rayan%20-%20SSO%20-%20WSCT-120%20-%20US%20-%20I%20-%20%E2%9A%BE%EF%B8%8F%20t.me/Rayan_Config
 
