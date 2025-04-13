@@ -46,8 +46,6 @@ vless://0d4438b4-d7b5-4837-ae6c-c4851c2f30ca@173.245.59.132:8080?type=httpupgrad
 
 vless://0f99161f-5dd2-5f7f-89e7-9f09165ec820@5.253.30.11:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=5.253.30.11&encryption=none#Rayan%20-%20SSO%20-%20WSCT-120%20-%20US%20-%20I%20-%20%E2%9A%BE%EF%B8%8F%20t.me/Rayan_Config
 
-vless://10d9df89-9a20-4110-9711-bca119490ee9@104.16.209.110:443?path=JOKERRVPNJoin_Bade_Channel%40JOKERRVPN%2F%3Fed%3D2560&security=tls&encryption=none&host=masaleini.mahsaamini.dpdns.org&fp=random&type=ws&sni=masaleini.mahsaamini.dpdns.org#%40v2ray313%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86%20%F0%9F%94%A5
-
 vless://1133fb71-5fd0-4cb1-8a2e-28708dd82f31@45.136.117.8:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#%40vpnfail_bot%20free%v2ray🤯 Get 1 year premium VPN (100 tokens) for just $0.03 👉 @vpnfail_bot
 
 vless://15298f41-e80b-463a-b85b-0c903258a1c8@162.159.1.33:443/?type=ws&encryption=none&host=cr7.medicaltreatment.ir&path=%2FJOKERRVPNTELEGRAM----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN&security=tls&sni=cr7.medicaltreatment.ir&fp=chrome#%F0%9F%8D%9248%40oneclickvpnkeys
@@ -344,6 +342,8 @@ vless://1688039e-a45f-499e-b9f4-c098c87d3b32@173.245.49.15:443?security=tls&sni=
 
 vless://1688039e-a45f-499e-b9f4-c098c87d3b32@173.245.49.208:443?security=tls&sni=cr7777.rayan.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=cr7777.rayan.dpdns.org&encryption=none#Rayan%20-%20CF%20-%20WSCT-101%20-%20C-04%20-%20%F0%9F%8C%93%20t.me/Rayan_Config
 
+vless://1688039e-a45f-499e-b9f4-c098c87d3b32@173.245.49.214:443?security=tls&sni=cr77.rayan.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=cr77.rayan.dpdns.org&encryption=none#Rayan%20-%20CF%20-%20WSCT-101%20-%20C-02%20-%20%F0%9F%8C%93%20t.me/Rayan_Config
+
 hysteria2://a914681a-8dda-4c98-8468-c313f5539b14@213.35.99.16:2056?insecure=1&sni=sg3.eyucdn.xyz#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%B8%F0%9F%87%AC%20SG-213.35.99.16:2056
 
 hysteria2://dee29869-ae36-4504-89f5-8f06b7dc7a6a@94.159.107.136:1443?sni=de2.587458.xyz#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%A9%F0%9F%87%AA%20DE-94.159.107.136:1443
@@ -380,8 +380,6 @@ vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMTI5
 
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMTQwLjI0NS40OS4yNTAiLCJwb3J0IjoiMjM0NTIiLCJ0eXBlIjoibm9uZSIsImlkIjoiNjBkYjZjY2ItZDNhOS00OTcxLTllNmEtMDI1MTdmMThlYWQzIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6IlwvIiwiaG9zdCI6Indlc3RzZzItZGRucy5vcmFjbGVuYXQuY2MiLCJ0bHMiOiIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==
 
-vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMTcyLjIzMy4xNjAuMjQ5IiwicG9ydCI6IjQ0MyIsInR5cGUiOiJub25lIiwiaWQiOiI5NTBkYjZhYS00OTI2LTQ2MTYtODE2ZS1lYzAzMTJkY2I4N2IiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9saW5rd3MiLCJob3N0IjoiamFoZmtqaGEuY2ZkIiwidGxzIjoidGxzIn0=
-
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiY2xvdWRnZXRzZXJ2aWNlLm1jbG91ZHNlcnZpY2Uuc2l0ZSIsInBvcnQiOjQ0MywiaWQiOiIzY2Y1ODYwNi01ZjJhLTQ2MDktOWFiZC00MDRmNjMzYmQ3ZTAiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJtYVhORXRWSVAtdXNBLVZQMy5uRVRLSDMuU2lURSIsInBhdGgiOiJcL2xpbmt3cz9lZD0yNTYwIiwidGxzIjoidGxzIn0=
 
 vmess://eyJhZGQiOiAiMzcuMjIxLjEyNS4xNTkiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogIjM1M2UwNzg3LTcxYmMtNDQyZC05YzlkLTkwMmY5MDM1OWViNSIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiMzM5NDAiLCAicHMiOiAiXHVkODNkXHVkZDEyIFZNLVRDUC1OQSBcdWQ4M2NcdWRkZWNcdWQ4M2NcdWRkZTcgR0ItMzcuMjIxLjEyNS4xNTk6MzM5NDAiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIiLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWV9
@@ -403,6 +401,8 @@ vmess://eyJhZGQiOiI0NS4xMi4xMTQuMTUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9z
 vmess://eyJhZGQiOiI0NS4xMi4xMTQuMTUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiOWRjNWJmZjgtYmNiYi00NzAzLWIwZmUtNGY5MWJhNTE3NDAyIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIyMDc3OSIsInBzIjoi8J+Hp/Cfh7tAdnBuX2lvc3Mg4pm777iPINi52LbZiCDYtNmIIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 
 vmess://eyJhZGQiOiI0NS4xMi4xMzMuNDMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMWJlOGVkZGItNGY4Yy00NWQwLWIyYTEtZTUzOGViM2FiZDM5IiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiMjg0NDQiLCJwcyI6IjMwMNqv24zaryAzOdiqISDYqtiz2KrigIzYsdin24zar9in2Ybwn6Sp8J+RiPCfj7tUaWNrVjJib3RAIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+
+vmess://eyJhZGQiOiI0NS4xMi4xMzMuNDMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMWJlOGVkZGItNGY4Yy00NWQwLWIyYTEtZTUzOGViM2FiZDM5IiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiMjg0NDQiLCJwcyI6IkBBcnRlbWlzdnBuMSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 
 vmess://eyJhZGQiOiI1MS44MS4yMDMuNTciLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiMTc4NDQ5N2QtMDNhMS00MGJiLWJiOGItZGU0ZmZhYzdjNTljIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIyODg2MCIsInBzIjoi8J+UkiBWTS1UQ1AtTk9ORSDwn4e68J+HuCBVUy01MS44MS4yMDMuNTc6Mjg4NjAiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 
