@@ -4,6 +4,10 @@
 //support-url: https://t.me/Chat_Support_Configs
 //profile-web-page-url: https://t.me/Rayan_Config
 
+vless://%31%35%37%66%32%65%33%36%2d%64%35%31%31%2d%34%30%39%38%2d%61%63%66%62%2d%37%35%38%66%37%30%64%65%64%35%61%66@104.17.148.22:80?Telegram=@V2RayTz,@V2RayTz&security=&type=ws&path=/@S%68hP%72oxy%2d---%40Shh%5fPro%78y--%2d-@S%68hP%72oxy%2d---%40Shh%5fPro%78y--%2d-@S%68hP%72oxy%2d---%40Shh%5fPro%78y--%2d-@S%68hP%72oxy%2d---%40Shh%5fPro%78y--%2d-@S%68hP%72oxy%2d---%40Shh%5fPro%78y--%2d-@S%68hP%72oxy%2d---%40Shh%5fPro%78y?e%64=20%348&host=Www%2espe%65dte%73t.n%65t.d%65vel%6fpsp%2eir.&encryption=none#%5B%E2%9D%97%EF%B8%8F%5D+%E2%9E%A0+%40V2RayTz+%7C+34814</code></blockquote>
+
+vless://%34%64%61%63%33%61%62%35%2d%32%36%31%37%2d%34%34%32%66%2d%61%33%63%36%2d%62%32%32%38%61%37%34%30%32%34%33%63@151.101.130.228:80?Telegram=@V2RayTz,@V2RayTz&security=&type=ws&path=/@S%68h_P%72oxy%2d---%40Shh%5fPro%78y--%2d-@S%68h_P%72oxy%2d---%40Shh%5fPro%78y--%2d-@S%68h_P%72oxy%2d---%40Shh%5fPro%78y--%2d-@S%68h_P%72oxy%2d---%40Shh%5fPro%78y--%2d-@S%68h_P%72oxy%2d---%40Shh%5fPro%78y--%2d-@S%68h_P%72oxy%2d---%40Shh%5fPro%78y?e%64=20%348&host=joi%6eshh%70rox%79bed%65eee%65ee.%69r&encryption=none#%5B%F0%9F%87%BA%F0%9F%87%B8%5D+%E2%9E%A0+%40V2RayTz+%7C+34813</code></blockquote>
+
 vless://%54%45%4C%45%47%52%41%4D%2D%53%65%72%76%65%72%4E%65%74%74@[2a01:4f8:1c1b:2411::1]:31086?security=none&encryption=none&headerType=none&type=tcp#@meli_proxyy
 
 vless://%74%65%6c%65%67%72%61%6d%2d%41%72%56%32%72%61%79@151.101.64.155:80?Telegram=@V2RayTz,@V2RayTz&path=/-A%72V2r%79@Ar%562ry%2dTEL%2d-@A%72V2r%79-TE%4c--@%41rV2%72y-T%45L--%40ArV%32ry-%4aOIN%2d@Ar%562ry%2dTEL%2d-@A%72V2r%79-JO%49N-@%41rV2%72y-T%45L-@%41rV2%72y-T%45L--%40ArV%32ry-%4aOIN%2d@Ar%562ry%2dTEL%2d-@A%72V2r%79?ed%3d204%38&security=none&encryption=none&host=mar%64.an%6babo%74i.c%6fm.&type=ws#%5B%F0%9F%87%BA%F0%9F%87%B8%5D+%E2%9E%A0+%40V2RayTz+%7C+34812`</code></blockquote>
@@ -19,8 +23,6 @@ vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@162.159.44.188:443?path=%2F&securit
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@185.133.35.242:443?path=%2F%3Fed%3D%23TELEGRAM-MTMVPN%3Fed%3D512&security=tls&encryption=none&host=vb.ylks0033.dpdns.org&type=ws&sni=vb.ylks0033.dpdns.org#@meli_proxyy
 
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@185.133.35.242:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=vb.ylks0033.dpdns.org&type=ws&sni=vb.ylks0033.dpdns.org#@meli_proxyy
-
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@185.16.110.111:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=vb.ylks0033.dpdns.org&type=ws&sni=vb.ylks0033.dpdns.org#%F0%9F%87%A8%F0%9F%87%AD+%40V2ran+%E2%AC%85%EF%B8%8F%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D9%87%D8%A7%DB%8C+%D9%82%D9%88%DB%8C%D8%AA%D8%B1
 
 vless://07988212-5150-59de-ace6-83fb35ed6360@5.180.46.21:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=5.180.46.21&encryption=none#Rayan%20-%20SSO%20-%20WSCT-117%20-%20KZ%20-%20I%20-%20%E2%9A%BE%EF%B8%8F%20t.me/Rayan_Config
 
@@ -48,17 +50,19 @@ vless://0eb83f3e-7b95-427a-8952-abedfca1869f@tgju.org:8080?path=%2F%3Fed%3D2048&
 
 vless://0f0662bb-c802-4d56-bd3d-f6f28291fe41@tgju.org:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=rQ.GxqOHKoilU.aNtenspORtS.coM.&type=ws#telegram 🍊 DailyV2ry
 
-vless://0f38c3a9-e0c0-47ba-c619-0f16933f1d18@speedtest.net:80?encryption=none&security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D1024#@meli_proxyy
-
-vless://0f38c3a9-e0c0-47ba-c619-0f16933f1d18@zmaoz.faculty.ucdavis.edu:80?encryption=none&security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D1024#@meli_proxyy
-
 vless://0f85e96a-4ef0-4d16-b008-6d0aa36a0247@85.209.158.11:8443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=85.209.158.11&encryption=none#Rayan%20-%20VPH%20-%20WSCT-106%20-%20HK%20-%20I%20-%20%F0%9F%8F%80%20t.me/Rayan_Config
 
+vless://102e5f34-1913-4dd3-a1f2-f831d891a490@104.16.186.41:443?path=%2Fsinavm-sinavm%2F%3Fed%3D2560&security=tls&encryption=none&host=cr7.traneh.dpdns.org&type=ws&sni=cr7.traneh.dpdns.org#%F0%9F%87%AB%F0%9F%87%AE%40HTTPinjectorcustom%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88
+
 vless://102e5f34-1913-4dd3-a1f2-f831d891a490@104.16.187.41:443/?type=ws&encryption=none&host=cr7.traneh.dpdns.org&path=%2F&security=tls&sni=cr7.traneh.dpdns.org#%40vpn_v2rang_box
+
+vless://102e5f34-1913-4dd3-a1f2-f831d891a490@104.16.187.41:443?path=%2Fsinavm-sinavm%2F%3Fed%3D2560flow%3D-udp443&security=tls&encryption=none&host=cr7.traneh.dpdns.org&type=ws&sni=cr7.traneh.dpdns.org#%F0%9F%87%BA%F0%9F%87%B8%40HTTPinjectorcustom%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88
 
 vless://102e5f34-1913-4dd3-a1f2-f831d891a490@104.16.189.41:443?sni=cr7.traneh.dpdns.org&type=ws&host=cr7.traneh.dpdns.org&path=sinavm-sinavm/?ed=2560flow=-udp443&security=tls#telegram 🎯 DailyV2ry
 
 vless://102e5f34-1913-4dd3-a1f2-f831d891a490@104.16.190.41:443?path=%2F&security=tls&encryption=none&host=cr7.traneh.dpdns.org&fp=chrome&type=ws&sni=cr7.traneh.dpdns.org#%D8%B3%D8%B1%D9%88%D8%B1%20%D9%87%D8%A7%DB%8C%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20%D8%AF%D8%B1%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20satellitenewspersian%40%E2%9C%85
+
+vless://10d9df89-9a20-4110-9711-bca119490ee9@104.16.209.110:443?security=tls&encryption=none&host=masaleini.mahsaamini.dpdns.org&fp=random&type=ws&sni=masaleini.mahsaamini.dpdns.org#%F0%9F%87%B3%F0%9F%87%B1%40HTTPinjectorcustom%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88
 
 vless://10d9df89-9a20-4110-9711-bca119490ee9@104.16.209.110:443?security=tls&sni=masaleini.mahsaamini.dpdns.org&fp=chrome&type=ws&host=masaleini.mahsaamini.dpdns.org&encryption=none#%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.16.209.110:443
 
@@ -68,11 +72,7 @@ vless://10d9df89-9a20-4110-9711-bca119490ee9@104.16.209.110:443?security=tls&sni
 
 vless://12b6fb4e-91a5-4b9c-b23f-aaf7917488fd@www.visa.com:8880/?type=ws&encryption=none&host=0108.9ro3grfw.workers.dev&path=%2F#%40vpn_v2rang_box
 
-vless://12f34bdd-5f05-48ed-b040-7be3962bf84a@104.19.54.50:8080?path=%2F%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy%3Fed%3D2048&security=none&encryption=none&host=www.speedtest.net.www.zula.ir.cloudflare.com.www.parsvds.ir.svgspeedtest.net.&type=ws#%40V2rayNGVPN
-
 vless://15298f41-e80b-463a-b85b-0c903258a1c8@162.159.1.33:443?security=tls&encryption=none&host=cr7.medicaltreatment.ir&fp=chrome&type=ws&sni=cr7.medicaltreatment.ir#%40meli_proxyy
-
-vless://15298f41-e80b-463a-b85b-0c903258a1c8@162.159.1.33:443?security=tls&encryption=none&host=cr7.medicaltreatment.ir&fp=chrome&type=ws&sni=cr7.medicaltreatment.ir#%F0%9F%87%BA%F0%9F%87%BE%40vpn_ioss%20%E2%99%BB%EF%B8%8F%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88
 
 vless://1688039e-a45f-499e-b9f4-c098c87d3b32@104.16.120.9:443?security=tls&sni=cr777.rayan.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=cr777.rayan.dpdns.org&encryption=none#Rayan%20-%20CF%20-%20WSCT-101%20-%20C-03%20-%20%F0%9F%8C%93%20t.me/Rayan_Config
 
@@ -430,9 +430,9 @@ vmess://eyJhZGQiOiIxNzIuNjcuMTM4LjE0MCIsImFpZCI6IjAiLCJob3N0IjoiamFoZmtqaGEuY2Zk
 
 vmess://eyJhZGQiOiIxNzIuNjcuMTUzLjE1NiIsImFpZCI6IjAiLCJob3N0IjoidXN3dXhpYW4ucGFpNTAyODgudWsiLCJpZCI6ImMzMTM2MDZmLTk4YzItNGQ3Yi1iYTc0LTQ4Yjk0ZjYxYjExZCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiODQ0MyIsInBzIjoi8J+UkiBWTS1XUy1UTFMg8J+PtOKAjeKYoO+4jyBOQS0xNzIuNjcuMTUzLjE1Njo4NDQzIiwic2N5IjoiYXV0byIsInNuaSI6InVzd3V4aWFuLnBhaTUwMjg4LnVrIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
 
-vmess://eyJhZGQiOiIyMy4xNjIuMjAwLjIyNyIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9saW5rdndzIiwicG9ydCI6NDQzLCJwcyI6Ilx1MjY5Y1x1ZmUwZlRlbGVncmFtOkBJUF9DRiIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=
-
-vmess://eyJhZGQiOiJ6dWxhLmlyIiwiYWlkIjowLCJob3N0IjoiZXUtMi5oaWh1Lm5ldCIsImlkIjoiMTg3YTg4NTAtMTcxMi0xMWYwLWI3MzAtMjA1YzZkNWY1ZDc4IiwibmV0Ijoid3MiLCJwYXRoIjoiXC9rZ2QxYnMwZSNAQnVnRnJlZU5ldC1AQnVnRnJlZU5ldC1AQnVnRnJlZU5ldC1AQnVnRnJlZU5ldC1AQnVnRnJlZU5ldC1AQnVnRnJlZU5ldC1AQnVnRnJlZU5ldC1AQnVnRnJlZU5ldC1AQnVnRnJlZU5ldC1AQnVnRnJlZU5ldC1AQnVnRnJlZU5ldC1AQnVnRnJlZU5ldC1AQnVnRnJlZU5ldC1AQnVnRnJlZU5ldCIsInBvcnQiOjQ0MywicHMiOiJcdTI2OWNcdWZlMGZUZWxlZ3JhbTpASVBfQ0YiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
-
 vmess://eyJhZGQiOiJiaWlpYS12cG4td2hhbC5mYXN0Lmhvc3RpbmctaXAuY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJjYXQuSVIuIiwiaWQiOiJpZDQ1LS0tQHZwbi13aGFsIiwibmV0Ijoid3MiLCJwYXRoIjoiLz9lZFx1MDAzZDIwNTYvI2lkLXRlbGVncmFtOi0tLVx1MDAzZUB2cG5fd2hhbFx1MDAzYy0tLSIsInBvcnQiOiI4MCIsInBzIjoiQG1lbGlfcHJveHl5Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
+
+vmess://eyJhZGQiOiJibG9nLnRlbGUtc2hvcC10b28uc3R1ZGlvIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJKT0tFUlJWUE5fSk9LRVJSVlBOIiwiaWQiOiIyNmNmNTYyNC1mZmYwLTRhNjYtOTg0OC1kMmEwNzI1Mjk3YjIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjMzMTU3IiwicHMiOiLinIXYs9ix2YjYsdmH2KfbjNio24zYtNiq2LHYr9ix2qnYp9mG2KfZhDpwcnJvZmlsZV9wdXJwbGVA4pyFIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+
+vmess://eyJhZGQiOiJibG9nLnRlbGUtc2hvcC10b28uc3R1ZGlvIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJKT0tFUlJWUE5fSk9LRVJSVlBOIiwiaWQiOiIyNmNmNTYyNC1mZmYwLTRhNjYtOTg0OC1kMmEwNzI1Mjk3YjIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjMzMTU3IiwicHMiOiLwn4ep8J+HqkB2cG5faW9zcyDimbvvuI8g2LnYttmIINi02YgiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 
