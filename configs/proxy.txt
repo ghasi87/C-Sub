@@ -248,8 +248,6 @@ vless://2ee4051f-7f5a-4376-9a53-ac3167666eab@ca-1-rvp.rayan-dns.dpdns.org:443?se
 
 vless://2f46c3a7-5308-527f-b7b4-59c31d420389@88.218.95.7:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=88.218.95.7&encryption=none#Rayan%20-%20SSO%20-%20WSCT-113%20-%20ZA%20-%20I%20-%20%E2%9A%AA%EF%B8%8F%20t.me/Rayan_Config
 
-vless://31a27ed1-2ec6-4ab5-95b6-3e213e59e0a9@185.146.173.37:2087?security=tls&sni=Tp180H605g.HhHsHsHs.CoM&alpn=h2http/1.1&fp=chrome&type=ws&path=/&host=Tp180H605g.HhHsHsHs.CoM&encryption=none#%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%87%B8%F0%9F%87%AA%20SE-185.146.173.37:2087
-
 vless://32662031-3d77-4261-961a-65e2202d08e1@103.21.244.51:443?security=tls&sni=se-1-ssm.rayan-dns.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=se-1-ssm.rayan-dns.dpdns.org&encryption=none#Rayan%20-%20SSM%20-%20WSCT-116%20-%20SE%20-%20I%20-%20%F0%9F%A5%8E%20t.me/Rayan_Config
 
 vless://32662031-3d77-4261-961a-65e2202d08e1@104.16.107.101:443?security=tls&sni=se-1-ssm.rayan-dns.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=se-1-ssm.rayan-dns.dpdns.org&encryption=none#Rayan%20-%20SSM%20-%20WSCT-116%20-%20SE%20-%20I%20-%20%F0%9F%A5%8E%20t.me/Rayan_Config
@@ -291,8 +289,6 @@ vless://32662031-3d77-4261-961a-65e2202d08e1@188.114.96.84:443?security=tls&sni=
 vless://32662031-3d77-4261-961a-65e2202d08e1@198.41.220.40:443?security=tls&sni=se-1-ssm.rayan-dns.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=se-1-ssm.rayan-dns.dpdns.org&encryption=none#Rayan%20-%20SSM%20-%20WSCT-116%20-%20SE%20-%20I%20-%20%F0%9F%A5%8E%20t.me/Rayan_Config
 
 vless://32662031-3d77-4261-961a-65e2202d08e1@iplocation.net:443?security=tls&sni=se-1-ssm.rayan-dns.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=se-1-ssm.rayan-dns.dpdns.org&encryption=none#Rayan%20-%20SSM%20-%20WSCT-116%20-%20SE%20-%20I%20-%20%F0%9F%A5%8E%20t.me/Rayan_Config
-
-vless://35730674-20fe-4e01-88f9-5214633c75e0@104.24.35.181:2087?security=tls&sni=ca-1-cbt.rayan-dns.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=ca-1-cbt.rayan-dns.dpdns.org&encryption=none#Rayan%20-%20CBT%20-%20WSCT-101%20-%20CA%20-%20I%20-%20%E2%9A%BD%EF%B8%8F%20t.me/Rayan_Config
 
 vless://35730674-20fe-4e01-88f9-5214633c75e0@digitalocean.com:2087?security=tls&sni=ca-1-cbt.rayan-dns.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=ca-1-cbt.rayan-dns.dpdns.org&encryption=none#Rayan%20-%20CBT%20-%20WSCT-101%20-%20CA%20-%20I%20-%20%E2%9A%BD%EF%B8%8F%20t.me/Rayan_Config
 
@@ -343,6 +339,10 @@ vless://46e486d3-0545-50cc-91da-b1f06b98a33a@104.21.214.96:443?security=tls&sni=
 vless://46e486d3-0545-50cc-91da-b1f06b98a33a@104.22.66.18:443?security=tls&sni=lu-1-ssm.rayan-dns.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=lu-1-ssm.rayan-dns.dpdns.org&encryption=none#Rayan%20-%20SSM%20-%20WSCT-114%20-%20LU%20-%20I%20-%20%F0%9F%A5%8E%20t.me/Rayan_Config
 
 vless://46e486d3-0545-50cc-91da-b1f06b98a33a@104.24.36.113:443?security=tls&sni=lu-1-ssm.rayan-dns.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=lu-1-ssm.rayan-dns.dpdns.org&encryption=none#Rayan%20-%20SSM%20-%20WSCT-114%20-%20LU%20-%20I%20-%20%F0%9F%A5%8E%20t.me/Rayan_Config
+
+vless://46e486d3-0545-50cc-91da-b1f06b98a33a@104.27.201.194:443?security=tls&sni=lu-1-ssm.rayan-dns.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=lu-1-ssm.rayan-dns.dpdns.org&encryption=none#Rayan%20-%20SSM%20-%20WSCT-114%20-%20LU%20-%20I%20-%20%F0%9F%A5%8E%20t.me/Rayan_Config
+
+vless://46e486d3-0545-50cc-91da-b1f06b98a33a@104.27.33.27:443?security=tls&sni=lu-1-ssm.rayan-dns.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=lu-1-ssm.rayan-dns.dpdns.org&encryption=none#Rayan%20-%20SSM%20-%20WSCT-114%20-%20LU%20-%20I%20-%20%F0%9F%A5%8E%20t.me/Rayan_Config
 
 hysteria2://NBua4Lsqbi@40.160.228.249:443?obfs=salamander&obfs-password=hamid@0011&insecure=1&sni=www.whatsapp.com,www.bing.com#hysteria2-11578
 
