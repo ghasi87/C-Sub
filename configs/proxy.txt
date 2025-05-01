@@ -68,8 +68,6 @@ vless://0df96bf9-43af-45a1-9e16-2aa12db8b2c8@198.41.221.148:2087?security=tls&sn
 
 vless://0df96bf9-43af-45a1-9e16-2aa12db8b2c8@www.speedtest.net:2087?security=tls&sni=fr-1-cbt.rayan-dns.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=fr-1-cbt.rayan-dns.dpdns.org&encryption=none#Rayan%20-%20CBT%20-%20WSCT-102%20-%20FR%20-%20I%20-%20%E2%9A%BD%EF%B8%8F%20t.me/Rayan_Config
 
-vless://0eb83f3e-7b95-427a-8952-abedfca1869f@tgju.org:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=QW.VU6d72nt9y.zULaiR.orG.&type=ws#Free%2062%20%28%40proxy_kafee%29
-
 vless://102e5f34-1913-4dd3-a1f2-f831d891a490@104.16.190.41:443?allowInsecure=0&sni=cr7.traneh.dpdns.org&type=ws&host=cr7.traneh.dpdns.org&path=/sinavm-sinavm/?ed=2560security=tls#@meli_proxyy
 
 vless://102e5f34-1913-4dd3-a1f2-f831d891a490@104.16.190.41:443?allowInsecure=0&sni=cr7.traneh.dpdns.org&type=ws&host=cr7.traneh.dpdns.org&path=/sinavm-sinavm/?ed=2560security=tls#telegram 🍀 DailyV2ry
@@ -113,6 +111,8 @@ vless://15298f41-e80b-463a-b85b-0c903258a1c8@199.34.228.185:443?security=tls&sni
 vless://15298f41-e80b-463a-b85b-0c903258a1c8@fonts.net:443?security=tls&sni=d5.medicaltreatment.ir&fp=chrome&type=ws&path=sinavm-sinavm/?ed%3D2560&host=d5.medicaltreatment.ir&encryption=none#%F0%9F%87%B3%F0%9F%87%B1%20@HajmVPN%F0%9F%91%88%F0%9F%8F%BB%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
 
 vless://15298f41-e80b-463a-b85b-0c903258a1c8@fonts.net:443?security=tls&sni=d5.medicaltreatment.ir&fp=chrome&type=ws&path=sinavm-sinavm/?ed%3D2560&host=d5.medicaltreatment.ir&encryption=none#@Daily_Configs
+
+vless://17529038-9f09-4a66-a601-9c1550fc3b2b@67.219.108.235:8080?type=ws&security=none&path=%2F#telegram 🌈 DailyV2ry
 
 vless://19418b81-a26c-48e5-8d79-50f1ca18c759@103.21.244.138:2087?security=tls&sni=us-1-cbt.rayan-dns.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=us-1-cbt.rayan-dns.dpdns.org&encryption=none#Rayan%20-%20CBT%20-%20WSCT-106%20-%20US%20-%20I%20-%20%E2%9A%BD%EF%B8%8F%20t.me/Rayan_Config
 
