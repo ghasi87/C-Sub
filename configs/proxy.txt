@@ -94,8 +94,6 @@ vless://119be77d-ec91-4e16-b2c1-85c9fcb5c8f0@45.32.174.10:8080?type=ws&security=
 
 vless://11a7e347-0a78-4d07-970c-070d920a3c90@tgju.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=coUrAGEOus-pLaCE.oneeaT.CO.&type=ws#telegram 🚀 DailyV2ry
 
-vless://129248fd-44f9-4106-bb41-ade47ddb565b@tgju.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=jOViaL-cAt.OneeAt.cO.&type=ws#@meli_proxyy
-
 vless://129248fd-44f9-4106-bb41-ade47ddb565b@tgju.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=jOViaL-cAt.OneeAt.cO.&type=ws#telegram 🚀 DailyV2ry
 
 vless://15298f41-e80b-463a-b85b-0c903258a1c8@104.16.41.28:443?security=tls&sni=d5.medicaltreatment.ir&fp=chrome&type=ws&path=sinavm-sinavm/?ed%3D2560&host=d5.medicaltreatment.ir&encryption=none#%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.16.41.28:443
@@ -183,6 +181,8 @@ vless://1e72dd12-fd1a-4702-9c13-a809064050f6@190.93.245.2:8443?security=tls&sni=
 vless://1e72dd12-fd1a-4702-9c13-a809064050f6@85.209.158.11:8443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=85.209.158.11&encryption=none#Rayan%20-%20VPH%20-%20WSCT-106%20-%20HK%20-%20I%20-%20%F0%9F%94%B4%20t.me/Rayan_Config
 
 vless://1e72dd12-fd1a-4702-9c13-a809064050f6@fonts.net:8443?security=tls&sni=hk-1-vph.rayan-dns.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=hk-1-vph.rayan-dns.dpdns.org&encryption=none#Rayan%20-%20VPH%20-%20WSCT-115%20-%20HK%20-%20I%20-%20%F0%9F%8F%80%20t.me/Rayan_Config
+
+vless://1f00f565-bc74-4d80-9d41-e31832cd1c30@95.179.178.229:8080?type=ws&security=none&path=%2F#telegram 🎪 DailyV2ry
 
 vless://22acab09-97f3-4406-967b-046a82bbed7b@us-1-rvp.rayan-dns.dpdns.org:443?security=tls&sni=us-1-rvp.rayan-dns.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=us-1-rvp.rayan-dns.dpdns.org&encryption=none#Rayan%20-%20RVP%20-%20WSCT-127%20-%20US%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
 
