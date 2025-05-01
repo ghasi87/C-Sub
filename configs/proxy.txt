@@ -72,8 +72,6 @@ vless://0df96bf9-43af-45a1-9e16-2aa12db8b2c8@198.41.221.148:2087?security=tls&sn
 
 vless://0df96bf9-43af-45a1-9e16-2aa12db8b2c8@www.speedtest.net:2087?security=tls&sni=fr-1-cbt.rayan-dns.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=fr-1-cbt.rayan-dns.dpdns.org&encryption=none#Rayan%20-%20CBT%20-%20WSCT-102%20-%20FR%20-%20I%20-%20%E2%9A%BD%EF%B8%8F%20t.me/Rayan_Config
 
-vless://0eb83f3e-7b95-427a-8952-abedfca1869f@tgju.org:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=QW.VU6d72nt9y.zULaiR.orG.&type=ws#Free%2062%20%28%40proxy_kafee%29
-
 vless://102e5f34-1913-4dd3-a1f2-f831d891a490@104.16.190.41:443?allowInsecure=0&sni=cr7.traneh.dpdns.org&type=ws&host=cr7.traneh.dpdns.org&path=/sinavm-sinavm/?ed=2560security=tls#@meli_proxyy
 
 vless://102e5f34-1913-4dd3-a1f2-f831d891a490@104.16.190.41:443?allowInsecure=0&sni=cr7.traneh.dpdns.org&type=ws&host=cr7.traneh.dpdns.org&path=/sinavm-sinavm/?ed=2560security=tls#telegram 🍀 DailyV2ry
@@ -89,6 +87,8 @@ vless://10d9df89-9a20-4110-9711-bca119490ee9@104.16.209.110:443?security=tls&sni
 vless://10d9df89-9a20-4110-9711-bca119490ee9@104.16.209.110:443?security=tls&sni=masaleini.mahsaamini.dpdns.org&fp=random&type=ws&path=/&host=masaleini.mahsaamini.dpdns.org&encryption=none#@Daily_Configs
 
 vless://10d9df89-9a20-4110-9711-bca119490ee9@104.16.209.110:443?security=tls&sni=masaleini.mahsaamini.dpdns.org&fp=random&type=ws&path=/TELEGRAM-MARAMBASHI_MARAMBASHI?ed%3D512&host=masaleini.mahsaamini.dpdns.org&encryption=none#@Daily_Configs
+
+vless://10d9df89-9a20-4110-9711-bca119490ee9@104.21.64.1:80?path=%2FTM%40AZAFBAYJAB1&security=none&encryption=none&host=masaleini.mahsaamini.dpdns.org&type=ws#%F0%9F%9F%A3%F0%9F%94%A5%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%B3%D8%B1%D9%88%D8%B1%20%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C%20%D8%A8%D8%A7%20%D8%B3%D8%B1%D8%B9%D8%AA%20%D8%A8%D8%A7%D9%84%D8%A7%20%D8%AA%D8%B6%D9%85%DB%8C%D9%86%DB%8C%20%40Outlinev_2rayNG
 
 vless://10d9df89-9a20-4110-9711-bca119490ee9@188.114.97.33:443?security=tls&encryption=none&host=masaleini.mahsaamini.dpdns.org&fp=chrome&type=ws&sni=masaleini.mahsaamini.dpdns.org#@meli_proxyy
 
