@@ -12,6 +12,8 @@ vless://01d68a9b-be48-4c7b-b4f9-71b29c4cfaca@95.217.206.161:443?security=tls&enc
 
 vless://028b8bdf-5831-4dc6-92c4-030ac151f587@tgju.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=CLEAR-heADED-DAy.oNeeAt.Co.&type=ws#telegram 🍀 DailyV2ry
 
+vless://073c70d3-0fe1-47ee-83ef-94a4353bf877@tgju.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=AdoRAble-CHilD.ONEEaT.Co.&type=ws#telegram 🎯 DailyV2ry
+
 vless://0979aac5-ad53-4080-ba9b-bbccad1a7461@194.182.79.119:17958?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85🍕
 
 vless://0a44145f-59dc-4e5b-a233-677b97f5114c@15.204.187.172:443?security=tls&sni=147135011033.sec21org.com&fp=chrome&type=tcp&encryption=none
@@ -306,6 +308,8 @@ vless://2b5a137b-1ea4-40a1-a812-f68c6e5b0642@198.41.204.214:2087?security=tls&sn
 
 vless://2b5a137b-1ea4-40a1-a812-f68c6e5b0642@digitalocean.com:2087?security=tls&sni=ca-1-cbt.rayan-dns.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=ca-1-cbt.rayan-dns.dpdns.org&encryption=none#Rayan%20-%20CBT%20-%20WSCT-101%20-%20CA%20-%20I%20-%20%E2%9A%BD%EF%B8%8F%20t.me/Rayan_Config
 
+vless://2bfd73d4-06d8-4e30-be53-7ba4a210abcc@tgju.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=cANdiD-AdVEnTuRE.oneeAT.cO.&type=ws#telegram 🎪 DailyV2ry
+
 vless://2c84cbb1-3563-415a-9494-5b50ba39c1c4@104.17.26.11:2087?security=tls&sni=uk-1-cbt.rayan-dns.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=uk-1-cbt.rayan-dns.dpdns.org&encryption=none#Rayan%20-%20CBT%20-%20WSCT-105%20-%20UK%20-%20I%20-%20%E2%9A%BD%EF%B8%8F%20t.me/Rayan_Config
 
 vless://2c84cbb1-3563-415a-9494-5b50ba39c1c4@104.19.74.15:2087?security=tls&sni=uk-1-cbt.rayan-dns.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=uk-1-cbt.rayan-dns.dpdns.org&encryption=none#Rayan%20-%20CBT%20-%20WSCT-105%20-%20UK%20-%20I%20-%20%E2%9A%BD%EF%B8%8F%20t.me/Rayan_Config
@@ -339,10 +343,6 @@ vless://2c84cbb1-3563-415a-9494-5b50ba39c1c4@141.101.114.75:2087?security=tls&sn
 vless://2c84cbb1-3563-415a-9494-5b50ba39c1c4@141.101.115.187:2087?security=tls&sni=uk-1-cbt.rayan-dns.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=uk-1-cbt.rayan-dns.dpdns.org&encryption=none#Rayan%20-%20CBT%20-%20WSCT-105%20-%20UK%20-%20I%20-%20%E2%9A%BD%EF%B8%8F%20t.me/Rayan_Config
 
 vless://2c84cbb1-3563-415a-9494-5b50ba39c1c4@162.159.10.164:2087?security=tls&sni=uk-1-cbt.rayan-dns.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=uk-1-cbt.rayan-dns.dpdns.org&encryption=none#Rayan%20-%20CBT%20-%20WSCT-105%20-%20UK%20-%20I%20-%20%E2%9A%BD%EF%B8%8F%20t.me/Rayan_Config
-
-vless://2c84cbb1-3563-415a-9494-5b50ba39c1c4@162.159.194.95:2087?security=tls&sni=uk-1-cbt.rayan-dns.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=uk-1-cbt.rayan-dns.dpdns.org&encryption=none#Rayan%20-%20CBT%20-%20WSCT-105%20-%20UK%20-%20I%20-%20%E2%9A%BD%EF%B8%8F%20t.me/Rayan_Config
-
-vless://2c84cbb1-3563-415a-9494-5b50ba39c1c4@162.159.249.219:2087?security=tls&sni=uk-1-cbt.rayan-dns.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=uk-1-cbt.rayan-dns.dpdns.org&encryption=none#Rayan%20-%20CBT%20-%20WSCT-105%20-%20UK%20-%20I%20-%20%E2%9A%BD%EF%B8%8F%20t.me/Rayan_Config
 
 hysteria2://b72ba5d5-2d5e-45b7-93b5-236d343baa7c@64.181.204.186:47262?insecure=1&sni=www.bing.com#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%BA%F0%9F%87%B8%20US-64.181.204.186:47262
 
@@ -400,7 +400,7 @@ vmess://eyJ2IjoiMiIsInBzIjoiMnzwn4e68J+HuDExMyB8ICAzLjhNQi9zIiwiYWRkIjoiODdiMTM0
 
 vmess://eyJ2IjoiMiIsInBzIjoiMnzwn4e68J+HuDg1IHwgIDMuM01CL3MiLCJhZGQiOiIxNTcuMTQ4Ljk2LjkyIiwicG9ydCI6IjUyMjgiLCJ0eXBlIjoibm9uZSIsImlkIjoiNmFkYTE2MjItZTAxOC0xMWVjLWJiNzQtZjIzYzkxNjRjYTVkIiwiYWlkIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwiaG9zdCI6IiIsInRscyI6IiJ9
 
-vmess://eyJ2IjoiMiIsInBzIjoiMnzwn4ev8J+HtTIwIHwgIDMuM01CL3MiLCJhZGQiOiIxMzgwNjkwNy1zdmMxczAtc3d5NmxpLXRuaTIuY201LnA1cHYuY29tIiwicG9ydCI6IjE3MjMzIiwidHlwZSI6Im5vbmUiLCJpZCI6IjVlMmY4ODhjLTY4ZWYtMTFlZi05NmNhLWYyM2M5MTY0Y2E1ZCIsImFpZCI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsImhvc3QiOiIxMzgwNjkwNy1zdmMxczAtc3d5NmxpLXRuaTIuY201LnA1cHYuY29tIiwidGxzIjoiIn0=
+vmess://eyJ2IjoiMiIsInBzIjoiX+S4reWbvSIsImFkZCI6IjVkMzg1MzFmLXN1bTRnMC1zdnE4b2stZWJ4ci5jdS5wbGViYWkubmV0IiwicG9ydCI6IjUyMjkiLCJ0eXBlIjoibm9uZSIsImlkIjoiNWNmZGU3ZmEtZWQxYi0xMWVmLWI1ZDktZjIzYzkxNjRjYTVkIiwiYWlkIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwiaG9zdCI6IjVkMzg1MzFmLXN1bTRnMC1zdnE4b2stZWJ4ci5jdS5wbGViYWkubmV0IiwidGxzIjoiIn0=
 
 vmess://eyJhZGQiOiI0Ni4yNTAuMjM0LjMyIiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6ImIyODM2MzY5LTIyMGItNDg0MC04MGM0LThjZjkwNGM3MzVlZSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDUzMTciLCJwcyI6IvCflJIgVk0tVENQLU5BIPCfh7jwn4esIFNHLTQ2LjI1MC4yMzQuMzI6NDUzMTciLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 
