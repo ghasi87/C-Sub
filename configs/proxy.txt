@@ -36,8 +36,6 @@ vless://10d9df89-9a20-4110-9711-bca119490ee9@104.16.209.110:443?security=tls&sni
 
 vless://10d9df89-9a20-4110-9711-bca119490ee9@104.16.209.110:443?security=tls&sni=masaleini.mahsaamini.dpdns.org&fp=random&type=ws&path=/TELEGRAM-MARAMBASHI_MARAMBASHI?ed%3D512&host=masaleini.mahsaamini.dpdns.org&encryption=none#@Daily_Configs
 
-vless://10d9df89-9a20-4110-9711-bca119490ee9@104.21.112.1:80?path=%2FTel-%40V2ray_Alpha&security=none&encryption=none&host=masaleini.mahsaamini.dpdns.org&type=ws&sni=masaleini.mahsaamini.dpdns.org#%40v2ray313%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86%20%E2%98%B9%EF%B8%8F
-
 vless://10d9df89-9a20-4110-9711-bca119490ee9@104.21.112.1:80?path=%2FTel-%40V2ray_Alpha&security=none&encryption=none&host=masaleini.mahsaamini.dpdns.org&type=ws&sni=masaleini.mahsaamini.dpdns.org#@meli_proxyy
 
 vless://10d9df89-9a20-4110-9711-bca119490ee9@104.21.64.1:80?path=%2FTM%40AZAFBAYJAB1&security=none&encryption=none&host=masaleini.mahsaamini.dpdns.org&type=ws#%F0%9F%9F%A3%F0%9F%94%A5%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%B3%D8%B1%D9%88%D8%B1%20%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C%20%D8%A8%D8%A7%20%D8%B3%D8%B1%D8%B9%D8%AA%20%D8%A8%D8%A7%D9%84%D8%A7%20%D8%AA%D8%B6%D9%85%DB%8C%D9%86%DB%8C%20%40Outlinev_2rayNG
@@ -61,6 +59,8 @@ vless://15298f41-e80b-463a-b85b-0c903258a1c8@104.16.41.28:443?security=tls&sni=d
 vless://15298f41-e80b-463a-b85b-0c903258a1c8@fonts.net:443?security=tls&sni=d5.medicaltreatment.ir&fp=chrome&type=ws&path=sinavm-sinavm/?ed%3D2560&host=d5.medicaltreatment.ir&encryption=none#%F0%9F%87%B3%F0%9F%87%B1%20@HajmVPN%F0%9F%91%88%F0%9F%8F%BB%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
 
 vless://15298f41-e80b-463a-b85b-0c903258a1c8@fonts.net:443?security=tls&sni=d5.medicaltreatment.ir&fp=chrome&type=ws&path=sinavm-sinavm/?ed%3D2560&host=d5.medicaltreatment.ir&encryption=none#@Daily_Configs
+
+vless://1545c177-3908-4cea-bf64-fff107dbbc75@138.68.26.51:49205?type=ws&security=none&path=%2F#telegram 🎯 DailyV2ry
 
 vless://15cc8d40-f0c0-4e5c-9f43-da04c368353c@104.24.251.4:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=66.sgfc.dpdns.org&type=ws&sni=66.sgfc.dpdns.org#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%BA%F0%9F%87%B8
 
@@ -184,6 +184,8 @@ vless://1ebdb351-110d-4918-c4e6-1a0fbddf116b@78.141.195.105:8080?type=ws&securit
 
 vless://1f06edc2-aebf-40b2-84bd-8dc0f04533be@194.124.250.4:8443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=194.124.250.4&encryption=none#Rayan%20-%20VPH%20-%20WSCT-102%20-%20AT%20-%20I%20-%20%F0%9F%94%B4%20t.me/Rayan_Config
 
+vless://1fb465ac-60fb-4b77-b4a6-cc590ee6124e@172.67.217.31:443?encryption=none&security=tls&sni=freedom3.pacica4041.workers.dev&type=ws&host=freedom3.pacica4041.workers.dev&path=%2F#%40Golestan_VPN%20-%20%F0%9F%91%88%20%D8%AE%D8%B1%DB%8C%D8%AF%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF
+
 vless://202027fd-3380-4eb7-8624-1ffcc7518950@144.202.69.47:8080?type=ws&security=none&path=%2F#telegram 🎯 DailyV2ry
 
 vless://2287f5e4-714e-4631-8d29-650d90173b38@tgju.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=cOoL-GENeRaTIOn.onEeaT.co.&type=ws#telegram 🎯 DailyV2ry
@@ -217,8 +219,6 @@ vless://255cea39-8e76-48e4-a017-55c0761460c2@198.41.192.181:2087?security=tls&sn
 vless://255cea39-8e76-48e4-a017-55c0761460c2@198.41.198.112:2087?security=tls&sni=pl-1-gss.rayan-dns.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=pl-1-gss.rayan-dns.dpdns.org&encryption=none#Rayan%20-%20GSS%20-%20WSCT-113%20-%20PL%20-%20I%20-%20%E2%98%A2%EF%B8%8F%20t.me/Rayan_Config
 
 vless://255cea39-8e76-48e4-a017-55c0761460c2@digg.com:2087?security=tls&sni=pl-1-gss.rayan-dns.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=pl-1-gss.rayan-dns.dpdns.org&encryption=none#Rayan%20-%20GSS%20-%20WSCT-113%20-%20PL%20-%20I%20-%20%E2%98%A2%EF%B8%8F%20t.me/Rayan_Config
-
-vless://266e000c-ba2f-43f2-9187-f27caf69f41e@tgju.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=VIvAcIOUs-cHallenGe.oNeeAT.CO.&type=ws#telegram 🎪 DailyV2ry
 
 vless://2b5a137b-1ea4-40a1-a812-f68c6e5b0642@104.16.127.227:2087?security=tls&sni=ca-1-cbt.rayan-dns.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=ca-1-cbt.rayan-dns.dpdns.org&encryption=none#Rayan%20-%20CBT%20-%20WSCT-101%20-%20CA%20-%20I%20-%20%E2%9A%BD%EF%B8%8F%20t.me/Rayan_Config
 
@@ -352,6 +352,8 @@ hysteria2://dongtaiwang.com@108.181.5.130:65232?security=tls&insecure=1&sni=appl
 
 hysteria2://dongtaiwang.com@hy2-1.694463.xyz:4489?security=tls&insecure=1&sni=www.bing.com#@meli_proxyy
 
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkBHb2xlc3Rhbl9WUE4gLSBcdUQ4M0RcdURDNDggXHUwNjJFXHUwNjMxXHUwNkNDXHUwNjJGIFx1MDZBOVx1MDYyN1x1MDY0Nlx1MDY0MVx1MDZDQ1x1MDZBRiIsDQogICJhZGQiOiAiMTQyLjQuMTE2LjE3NyIsDQogICJwb3J0IjogIjUwMDA5IiwNCiAgImlkIjogIjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsDQogICJhaWQiOiAiNjQiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIvIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiDQp9
+
 vmess://ewogICAgImFkZCI6ICIxMDQuMjEuODAuMSIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogInJhazIuODkwNjAxLnh5eiIsCiAgICAiaWQiOiAiMDI0NWMyZDQtMGFkMS00ZjBmLWViOWMtZmJkNWYxYzQ3YmU3IiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLyIsCiAgICAicG9ydCI6IDIwNTMsCiAgICAicHMiOiAi8J+PgVJFTEFZLTEwNC4yMS44MC4xLTEwMzciLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
 
 vmess://eyJ2IjogIjIiLCAicHMiOiAiM3zwn4e68J+HuDMgfCAgMS44TUIvcyIsICJhZGQiOiAiODExNjcwNDItc3ZobHMwLXN3eTZsaS10bmkyLmN1LnBsZWJhaS5uZXQiLCAicG9ydCI6IDUyMjgsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICI1ZTJmODg4Yy02OGVmLTExZWYtOTZjYS1mMjNjOTE2NGNhNWQifQ==
@@ -366,7 +368,7 @@ vmess://eyJ2IjoiMiIsInBzIjoi8J+Hq/Cfh7fms5Xlm70xIHwg4qyH77iPIDIuM01CL3MiLCJhZGQi
 
 vmess://eyJ2IjoiMiIsInBzIjoi8J+Hq/Cfh7fms5Xlm70yIHwg4qyH77iPIDQuMU1CL3MiLCJhZGQiOiIxMDQuMTkuMzIuMCIsInBvcnQiOjQ0MywiaWQiOiI5M2VhNDg2YS1iYWRhLTQyYTQtYWMzOC1kMDg4YjMyMGZhMWUiLCJ0eXBlIjoiIiwiYWlkIjowLCJuZXQiOiJ3cyIsInRscyI6InRscyIsInNuaSI6InhtaXZpZGVvLmNmZCIsInBhdGgiOiIvbGlua3dzIiwiaG9zdCI6InhtaXZpZGVvLmNmZCJ9
 
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HrfCfh7Ag6aaZ5rivNnxAcmlwYW9qaWVkaWFuIiwiYWRkIjoiMTIwLjIzMi4xNTMuNDAiLCJwb3J0IjoiMzY2MDkiLCJ0eXBlIjoibm9uZSIsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwiYWlkIjoiNjQiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsImhvc3QiOiIiLCJ0bHMiOiIifQ==
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh7Mg5LiK5rW35biCIOenu+WKqCIsImFkZCI6InRrLmh6bHQudGtkZG5zLnh5eiIsInBvcnQiOiIyMjY0MiIsInR5cGUiOiJub25lIiwiaWQiOiI5OGU5NmM5Zi00YmIzLTM5ZDQtOWEyYy1mYWMwNDI1N2Y3YzciLCJhaWQiOiIyIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsImhvc3QiOiJ6eGpwLWIudGtvbmcuY2MiLCJ0bHMiOiJ0bHMifQ==
 
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HrfCfh7DpppnmuK80IHwg4qyH77iPIDEuMU1CL3MiLCJhZGQiOiJoazIubHJ6ZHgudWsiLCJwb3J0Ijo0NDMsImlkIjoiZGI2OWQ1YmMtZDM2Yy00OTAzLWY0NzEtNzRiOThjNWNlZmU1IiwidHlwZSI6IiIsImFpZCI6MCwibmV0Ijoid3MiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJoazIubHJ6ZHgudWsiLCJwYXRoIjoiL3JlZ2lzdGVyIn0=
 
@@ -404,9 +406,7 @@ vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7jnvo7lm70yNiB8IOKsh++4jyAzLjJNQi9zIiwiYWRk
 
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7jnvo7lm70yNyB8IOKsh++4jyAxLjRNQi9zIiwiYWRkIjoidGltZS5pcyIsInBvcnQiOjQ0MywiaWQiOiJiNTI2OTI2ZC0xNDc0LTRmNDEtOTg1ZS04Yjg3N2NiODQwY2QiLCJ0eXBlIjoiIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwidGxzIjoidGxzIiwic25pIjoidGltZS5pcyIsInBhdGgiOiIvIiwiaG9zdCI6InNoczExMS5rZWppeGlhb3FpNjY2LnN0b3JlIn0=
 
-vmess://eyJ2IjoiMiIsInBzIjoiIDEuOE1CXC9zXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiODExNjcwNDItc3ZobHMwLXN3eTZsaS10bmkyLmN1LnBsZWJhaS5uZXQiLCJwb3J0Ijo1MjI4LCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInRscyI6IiIsImlkIjoiNWUyZjg4OGMtNjhlZi0xMWVmLTk2Y2EtZjIzYzkxNjRjYTVkIn0=
-
-vmess://eyJ2IjoiMiIsInBzIjoiIDMuOE1CXC9zXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMWMyNjU5MDgtc3ZuNXMwLXQyOGI2by1lZjQ4LmN1LnBsZWJhaS5uZXQiLCJwb3J0Ijo1MjI4LCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInRscyI6IiIsImlkIjoiY2IxNTEyM2EtMDg0Yy0xMWYwLThlYWItZjIzYzkxY2ZiYmM5In0=
+vmess://eyJ2IjoiMiIsInBzIjoiM3zwn4er8J+HtzcgfCAgMy4xTUIvcyIsImFkZCI6Ijc5ZTg5MmYyLXN2MnNnMC10NmVnNmstMXBja2cuY201LnA1cHYuY29tIiwicG9ydCI6IjE3MjM1IiwidHlwZSI6Im5vbmUiLCJpZCI6IjUyNmExMTI4LTc0ODctMTFlZS05YmNhLWYyM2M5MTNjOGQyYiIsImFpZCI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsImhvc3QiOiI3OWU4OTJmMi1zdjJzZzAtdDZlZzZrLTFwY2tnLmNtNS5wNXB2LmNvbSIsInRscyI6IiJ9
 
 vmess://eyJhZGQiOiI0Ni4yNTAuMjM0LjMyIiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6ImIyODM2MzY5LTIyMGItNDg0MC04MGM0LThjZjkwNGM3MzVlZSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDUzMTciLCJwcyI6IvCflJIgVk0tVENQLU5BIPCfh7jwn4esIFNHLTQ2LjI1MC4yMzQuMzI6NDUzMTciLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 
