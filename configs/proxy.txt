@@ -16,6 +16,8 @@ vless://061c8e17-ce4b-4eda-baaa-2ef056d7626b@tgju.org:80?path=%2F%3Fed%3D2048&se
 
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@185.133.35.181:443?path=%2F%3Fed&security=tls&encryption=none&host=sz.ylks0033.dpdns.org&type=ws&sni=sz.ylks0033.dpdns.org#%40vpnfail_bot%20free%v2ray🤯 Get 1 year premium VPN (100 tokens) for just $0.03 👉 @vpnfail_bot
 
+vless://08111b5d-1eb3-4178-b8d1-6c4c22a8fe89@V2RayMizban2.iranigamepars.ir:443?security=reality&encryption=none&pbk=oDHdhbvtMCXmEpcRuxDLJsRxzs79FnfwPOgJrdkeOmE&headerType=&fp=chrome&spx=%2F&type=tcp&sni=tgju.org&sid=4f#@meli_proxyy
+
 vless://0a44145f-59dc-4e5b-a233-677b97f5114c@15.204.187.172:443?security=tls&sni=147135011033.sec21org.com&fp=chrome&type=tcp&encryption=none
 
 vless://0a44145f-59dc-4e5b-a233-677b97f5114c@51.81.36.78:443?security=tls&sni=147135011033.sec21org.com&alpn=h2,http/1.1&fp=chrome&type=tcp&encryption=none#%F0%9F%94%92%20VL-TCP-TLS%20%F0%9F%87%BA%F0%9F%87%B8%20US-51.81.36.78:443
@@ -207,8 +209,6 @@ vless://1b63f1a2-5ba8-4718-8eca-b4d028697e03@198.41.222.146:8443?security=tls&sn
 vless://1b63f1a2-5ba8-4718-8eca-b4d028697e03@zula.ir:8443?security=tls&sni=at-1-vph.rayan-dns.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=at-1-vph.rayan-dns.dpdns.org&encryption=none#Rayan%20-%20VPH%20-%20WSCT-111%20-%20AT%20-%20I%20-%20%F0%9F%8F%80%20t.me/Rayan_Config
 
 vless://1b905c6c-9041-4e72-82dd-7b70aa2466e6@146.59.239.223:2087?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=146.59.239.223&encryption=none#Rayan%20-%20CBT%20-%20WSCT-102%20-%20FR%20-%20I%20-%20%E2%9A%AB%EF%B8%8F%20t.me/Rayan_Config
-
-vless://1c9773b4-a866-42b7-8089-bf886b4a2643@free.fastly80.hosting-ip.com:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=germn1yforvipq.com&type=ws#%40NETMelliAnti%20%D8%AA%D9%88%20%DA%86%D9%86%D9%84%20%D8%B3%D8%B1%D8%B9%D8%AA%DB%8C%20%D8%AA%D8%B1%20%D9%87%D8%B3%D8%AA
 
 vless://1cda20ea-34f6-4dc3-82c6-c3adebe82049@sg-1-rvp.rayan-dns.dpdns.org:443?security=tls&sni=sg-1-rvp.rayan-dns.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=sg-1-rvp.rayan-dns.dpdns.org&encryption=none#Rayan%20-%20RVP%20-%20WSCT-125%20-%20SG%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
 
@@ -420,8 +420,6 @@ hysteria2://dongtaiwang.com@46.17.41.5:12904?insecure=1&sni=apple.com#%F0%9F%94%
 
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkBHb2xlc3Rhbl9WUE4gLSBcdUQ4M0RcdURDNDggXHUwNjJFXHUwNjMxXHUwNkNDXHUwNjJGIFx1MDZBOVx1MDYyN1x1MDY0Nlx1MDY0MVx1MDZDQ1x1MDZBRiIsDQogICJhZGQiOiAiMTA0LjIxLjY0LjEiLA0KICAicG9ydCI6ICIyMDk2IiwNCiAgImlkIjogIjhmNzhlNzA5LTJjNWYtNGMxOS05ZjQ0LWI1YjVmODBhYjc0YyIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiY2MyZDEuOTg4OTg4LnNob3AiLA0KICAicGF0aCI6ICIvIiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogImNjMmQxLjk4ODk4OC5zaG9wIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0=
 
-vmess://ewogICAgImFkZCI6ICI2OTAzZTBiZi1zdjB4czAtdDNiNHczLXl3bXMuaGsucDVwdi5jb20iLAogICAgImFpZCI6IDIsCiAgICAiaG9zdCI6ICI2OTAzZTBiZi1zdjB4czAtdDNiNHczLXl3bXMuaGsucDVwdi5jb20iLAogICAgImlkIjogImJmMTA5ZTFhLTJiOTktMTFlZC1iYjc0LWYyM2M5MTY0Y2E1ZCIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi8iLAogICAgInBvcnQiOiA4MCwKICAgICJwcyI6ICLwn4et8J+HsEhLLTEuNjUuMjE4LjE4Ny02MzcxIiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
-
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMnzwn4e68J+HuDEwNiB8ICA0LjFNQi9zIiwgImFkZCI6ICIzMDA5ZTM2ZC1zdm41czAtdDFibmpxLTFrcnRiLmN1LnBsZWJhaS5uZXQiLCAicG9ydCI6IDUyMjksICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICI2MGY2YjRjNC05ZDcwLTExZWQtYTRkMi1mMjNjOTE2NGNhNWQifQ==
 
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMnzwn4e68J+HuDExMyB8ICAzLjhNQi9zIiwgImFkZCI6ICI4N2IxMzRlMy1zdmMxczAtdDI4YjZvLWVmNDguY3UucGxlYmFpLm5ldCIsICJwb3J0IjogNTIyOCwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogImNiMTUxMjNhLTA4NGMtMTFmMC04ZWFiLWYyM2M5MWNmYmJjOSJ9
@@ -473,6 +471,8 @@ vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7jnvo7lm70yNyB8IOKsh++4jyAxLjRNQi9zIiwiYWRk
 vmess://eyJ2IjoiMiIsInBzIjoiIDQuMU1CXC9zXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMzAwOWUzNmQtc3ZuNXMwLXQxYm5qcS0xa3J0Yi5jdS5wbGViYWkubmV0IiwicG9ydCI6NTIyOSwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJ0bHMiOiIiLCJpZCI6IjYwZjZiNGM0LTlkNzAtMTFlZC1hNGQyLWYyM2M5MTY0Y2E1ZCJ9
 
 vmess://eyJ2IjoiMiIsInBzIjoiX+S4reWbvSIsImFkZCI6IjEyMC4yMzIuMTUzLjQwIiwicG9ydCI6IjM2NjA5IiwidHlwZSI6Im5vbmUiLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsImFpZCI6IjY0IiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJob3N0IjoiIiwidGxzIjoiIn0=
+
+vmess://eyJ2IjoiMiIsInBzIjoiX+S4reWbvSIsImFkZCI6ImIzZTFhNTc3LXN2amdnMC10MWJuanEtMWtydGIuY3UucGxlYmFpLm5ldCIsInBvcnQiOiI1MjI5IiwidHlwZSI6Im5vbmUiLCJpZCI6IjYwZjZiNGM0LTlkNzAtMTFlZC1hNGQyLWYyM2M5MTY0Y2E1ZCIsImFpZCI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsImhvc3QiOiJiM2UxYTU3Ny1zdmpnZzAtdDFibmpxLTFrcnRiLmN1LnBsZWJhaS5uZXQiLCJ0bHMiOiIifQ==
 
 vmess://eyJhZGQiOiI0NS4xMi4xMzguODIiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiY2RlOWYwNzQtYzkzMC00YWEzLWE1NTgtNDZiYmM5ZDBhNWExIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI1NDc1NyIsInBzIjoi8J+UkiBWTS1UQ1AtTkEg8J+HqPCfh74gQ1ktNDUuMTIuMTM4LjgyOjU0NzU3Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 
