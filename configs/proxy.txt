@@ -8,8 +8,6 @@ vless://%56%32%52%41%58@84.234.28.183:6666?mode=gun&type=grpc&serviceName=%2F%40
 
 vless://01d68a9b-be48-4c7b-b4f9-71b29c4cfaca@95.217.206.161:443?security=tls&encryption=none&headerType=none&type=tcp&sni=api.chandplus.com#%40vpnfail_bot%20free%v2ray🤯 Get 1 year premium VPN (100 tokens) for just $0.03 👉 @vpnfail_bot
 
-vless://01d68a9b-be48-4c7b-b4f9-71b29c4cfaca@95.217.206.161:443?security=tls&encryption=none&headerType=none&type=tcp&sni=api.chandplus.com#@meli_proxyy
-
 vless://01d68a9b-be48-4c7b-b4f9-71b29c4cfaca@95.217.206.161:443?security=tls&sni=api.chandplus.com&fp=chrome&type=tcp&encryption=none#%F0%9F%94%92%20VL-TCP-TLS%20%F0%9F%87%AB%F0%9F%87%AE%20FI-95.217.206.161:443
 
 vless://061c8e17-ce4b-4eda-baaa-2ef056d7626b@tgju.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=bELOveD-AcTIoN.ONeEAT.co.&type=ws#telegram 🎪 DailyV2ry
@@ -29,8 +27,6 @@ vless://0d083787-080d-4eaa-a741-e78c8fcd9547@zmaoz.faculty.ucdavis.edu:80?encryp
 vless://0e90aa87-5fa9-4037-b25b-b78761517776@fr-2-rvp.rayan-dns.dpdns.org:443?security=tls&sni=fr-2-rvp.rayan-dns.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=fr-2-rvp.rayan-dns.dpdns.org&encryption=none#Rayan%20-%20RVP%20-%20WSCT-118%20-%20FR%20-%20II%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
 
 vless://0eb83f3e-7b95-427a-8952-abedfca1869f@104.26.15.85:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=QW.VU6d72nt9y.zULaiR.orG.&type=ws#%40v2ray313%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86%20%F0%9F%92%8B
-
-vless://0eb83f3e-7b95-427a-8952-abedfca1869f@104.26.15.85:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=QW.VU6d72nt9y.zULaiR.orG.&type=ws#Channel%20id%3A%20%40ShadowProxy66
 
 vless://0eb83f3e-7b95-427a-8952-abedfca1869f@tgju.org:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=QW.VU6d72nt9y.zULaiR.orG.&type=ws#Free%2062%20%28%40proxy_kafee%29
 
@@ -206,6 +202,12 @@ vless://1f06edc2-aebf-40b2-84bd-8dc0f04533be@194.124.250.4:8443?security=tls&sni
 
 vless://1f439b3b-b4af-4c14-9b15-30ae39d3764a@tgju.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=cOolheadEd-familY.oneeaT.CO.&type=ws#telegram 🍀 DailyV2ry
 
+vless://2084deb2-fb34-4fd5-9f74-f6e2c5360206@168.119.248.187:223?security=reality&encryption=none&pbk=JOKX-kH_SOPrdPG26TdJzO6YSDItrRGXKhtv70Bn81o&headerType=none&fp=chrome&spx=%2FJOKERRVPNJoin_Bade_Channel@JOKERRVPN&type=tcp&sni=ms.sodogodping.ir&sid=c7f175a94bd79f8d#@meli_proxyy
+
+vless://2084deb2-fb34-4fd5-9f74-f6e2c5360206@168.119.248.187:8880?mode=auto&security=reality&encryption=none&pbk=C8T_rENHVHgvklynPdF0oVbovX6rFi_6tA3MwI6vMn4&fp=chrome&spx=%2FJOKERRVPNJoin_Bade_Channel@JOKERRVPN&type=xhttp&sni=www.stackoverflow.com&sid=8c6a044199a51b22#@meli_proxyy
+
+vless://2084deb2-fb34-4fd5-9f74-f6e2c5360206@WWW.SPEEDTEST.NET:2095?path=%2F&security=none&encryption=none&host=PM.SODOGODPING.IR&type=httpupgrade#@meli_proxyy
+
 vless://20afb0d4-7879-4f14-9dd8-39d8a026f75e@germany.gamingbazirani.ir:3993?path=%3Fed%3D2084&security=tls&encryption=none&fp=chrome&type=ws&sni=marzban.negintel.xyz#%40NETMelliAnti%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%A8%D8%AF%D9%87
 
 vless://20afb0d4-7879-4f14-9dd8-39d8a026f75e@germany.gamingbazirani.ir:3993?path=%3Fed%3D2084&security=tls&encryption=none&fp=chrome&type=ws&sni=marzban.negintel.xyz#@meli_proxyy
@@ -217,8 +219,6 @@ vless://20afb0d4-7879-4f14-9dd8-39d8a026f75e@italy.gamingbazirani.ir:443?securit
 vless://20afb0d4-7879-4f14-9dd8-39d8a026f75e@poland.gamingbazirani.ir:600?security=tls&encryption=none&headerType=none&type=tcp&sni=marzban.negintel.xyz#%40NETMelliAnti%20%3A%20%DA%86%D9%86%D9%84%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF
 
 vless://20afb0d4-7879-4f14-9dd8-39d8a026f75e@poland.gamingbazirani.ir:600?security=tls&encryption=none&headerType=none&type=tcp&sni=marzban.negintel.xyz#@meli_proxyy
-
-vless://20eae954-ca8f-44ae-8a40-be1576f4b218@p7.punchline.ir:37507?mode=auto&path=%2Fv2raybluecrystal&security=reality&encryption=none&pbk=SASKx9HUPAFXwGt3_jtYYFz2th0mKyb_RhYgfuihRGQ&fp=chrome&spx=%2F&type=xhttp&sni=www.microsoft.com&sid=894627b631e4314c#%40v2ray313%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86%20%F0%9F%98%A6
 
 vless://2127b978-c320-4d31-8045-dfb9a643fd54@104.19.54.50:8080?security=&fp=chrome&type=ws&path=/@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy?ed%3D2048&host=www.speedtest.net.www.zula.ir.cloudflare.com.developsp.ir.svgspeedtest.net.&encryption=none#%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.19.54.50:8080
 
@@ -454,6 +454,8 @@ vmess://eyJ2IjoiMiIsInBzIjoi8J+Hs/Cfh7EgX+iNt+WFsCIsImFkZCI6IjQ1LjE0Ny4yMDEuMjMx
 
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuPCfh6zmlrDliqDlnaEyIHwg4qyH77iPIDEuN01CL3MiLCJhZGQiOiJhLjg4Njk2OC54eXoiLCJwb3J0IjoyMTM2OSwiaWQiOiIxNTExODdiMS1jOGYzLTRjMzItYWM3Mi0zNjc5ZTI2NGE3YTMiLCJ0eXBlIjoiIiwiYWlkIjowLCJuZXQiOiJ3cyIsInRscyI6InRscyIsInNuaSI6ImEuODg2OTY4Lnh5eiIsInBhdGgiOiIvd2ZkZWYiLCJob3N0IjoiYS44ODY5NjgueHl6In0=
 
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7gg576O5Zu9IENsb3VkRmxhcmXoioLngrkiLCJhZGQiOiIxMDQuMjEuNjQuMSIsInBvcnQiOiIyMDg3IiwidHlwZSI6Im5vbmUiLCJpZCI6IjAyNDVjMmQ0LTBhZDEtNGYwZi1lYjljLWZiZDVmMWM0N2JlNyIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwiaG9zdCI6InJhazIuODkwNjAzLnh5eiIsInRscyI6InRscyJ9
+
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7gg576O5Zu9IENsb3VkRmxhcmXoioLngrkiLCJhZGQiOiJyYWsxLjk4Njk4Ni5zaG9wIiwicG9ydCI6IjIwODMiLCJ0eXBlIjoibm9uZSIsImlkIjoiYTI5ZTIzODYtNzQ0NS00MjRkLTliZTEtNTAxZjJiMmI0ZDRlIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJob3N0IjoicmFrMW0yLjk4Njk4Ni5zaG9wIiwidGxzIjoidGxzIn0=
 
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggX+e+juWbvSIsImFkZCI6IjEwNC4xOC4xNDkuNzUiLCJwb3J0IjoiNDQzIiwidHlwZSI6Im5vbmUiLCJpZCI6ImNhZTk3YjFjLTM1ZTgtNGNmMi1kYzFiLTUyMDMyYzNkM2ZhNyIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwiaG9zdCI6IiIsInRscyI6IiJ9
@@ -465,8 +467,6 @@ vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7jnvo7lm70xMCB8IOKsh++4jyA0LjlNQi9zIiwiYWRk
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7jnvo7lm70xMSB8IOKsh++4jyAyLjhNQi9zIiwiYWRkIjoidTguaHV2aWNsb3VkLmNvbSIsInBvcnQiOjQ0MywiaWQiOiI2Nzk2NjExYi0yNjBlLTRkNjMtOTAxNi0yMGMyN2IxMmU0MjAiLCJ0eXBlIjoiIiwiYWlkIjowLCJuZXQiOiJ3cyIsInRscyI6InRscyIsInNuaSI6InU4Lmh1dmljbG91ZC5jb20iLCJwYXRoIjoiLzY3OTY2MTFiLTI2MGUtNGQ2My05MDE2LTIwYzI3YjEyZTQyMCIsImhvc3QiOiJ1OC5odXZpY2xvdWQuY29tIn0=
 
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7jnvo7lm70xMiB8IOKsh++4jyAzLjRNQi9zIiwiYWRkIjoieGNmMDI5LmZhY2FpMjAyNC5jb20iLCJwb3J0Ijo0NDMsImlkIjoiOWNlNDUyNmEtYzUwMC00YzY2LTk5YjAtMDQ4ZTRiNmI1NjYzIiwidHlwZSI6IiIsImFpZCI6MCwibmV0Ijoid3MiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJ4Y2YwMjkuZmFjYWkyMDI0LmNvbSIsInBhdGgiOiIvOWNlNDUyNmEiLCJob3N0IjoieGNmMDI5LmZhY2FpMjAyNC5jb20ifQ==
-
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7jnvo7lm70xMyB8IOKsh++4jyAxLjhNQi9zIiwiYWRkIjoieGMxMjUtMS5tZWl6aWJhNTU2Ni5jb20iLCJwb3J0Ijo0NDMsImlkIjoiNmI5NWQzNDAtMzBhNS00N2JkLWFjNTMtNDk1ODRlNWQ0ZGRmIiwidHlwZSI6IiIsImFpZCI6MCwibmV0Ijoid3MiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJ4YzEyNS0xLm1laXppYmE1NTY2LmNvbSIsInBhdGgiOiIvNmI5NWQzNDAiLCJob3N0IjoieGMxMjUtMS5tZWl6aWJhNTU2Ni5jb20ifQ==
 
 vmess://eyJhZGQiOiI0NS4xMi4xMzguODIiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiY2RlOWYwNzQtYzkzMC00YWEzLWE1NTgtNDZiYmM5ZDBhNWExIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI1NDc1NyIsInBzIjoi8J+UkiBWTS1UQ1AtTkEg8J+HqPCfh74gQ1ktNDUuMTIuMTM4LjgyOjU0NzU3Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 
