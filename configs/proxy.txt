@@ -4,8 +4,6 @@
 //support-url: https://t.me/Chat_Support_Configs
 //profile-web-page-url: https://t.me/Rayan_Config
 
-vless://01d68a9b-be48-4c7b-b4f9-71b29c4cfaca@95.217.206.161:443?security=tls&encryption=none&headerType=none&type=tcp&sni=api.chandplus.com#%40vpnfail_bot%20free%v2ray🤯 Get 1 year premium VPN (100 tokens) for just $0.03 👉 @vpnfail_bot
-
 vless://01d68a9b-be48-4c7b-b4f9-71b29c4cfaca@95.217.206.161:443?security=tls&sni=api.chandplus.com&fp=chrome&type=tcp&encryption=none#%F0%9F%94%92%20VL-TCP-TLS%20%F0%9F%87%AB%F0%9F%87%AE%20FI-95.217.206.161:443
 
 vless://052e510d-d892-4dc4-a686-8986a01535cd@172.66.44.100:443?path=%2FTelegram%40MTMVPN---MTMVPN%2F%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=spring-hall-14ef.woozy-chamois2822.workers.dev&fp=randomized&type=ws&sni=SprING-HaLl-14EF.WOOzY-cHAmOis2822.WorkERs.DEv#@meli_proxyy
@@ -29,6 +27,8 @@ vless://0d083787-080d-4eaa-a741-e78c8fcd9547@zmaoz.faculty.ucdavis.edu:80?encryp
 vless://0e90aa87-5fa9-4037-b25b-b78761517776@fr-2-rvp.rayan-dns.dpdns.org:443?security=tls&sni=fr-2-rvp.rayan-dns.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=fr-2-rvp.rayan-dns.dpdns.org&encryption=none#Rayan%20-%20RVP%20-%20WSCT-118%20-%20FR%20-%20II%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
 
 vless://0eb83f3e-7b95-427a-8952-abedfca1869f@tgju.org:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=QW.VU6d72nt9y.zULaiR.orG.&type=ws#Free%2062%20%28%40proxy_kafee%29
+
+vless://0f2e0501-5a4f-45b7-bd5e-209169cd34f9@37.152.173.139:8464?security=none&encryption=none&host=2picrszy.divarcdn.com%2F%3FJOKERRVPNCopy-az-chahnnel-JOKERRVPN&headerType=http&type=tcp#@meli_proxyy
 
 vless://0ffb3a7d-d1c1-4ea1-8d40-e1b407ddce6a@194.124.251.11:8443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=194.124.251.11&encryption=none#Rayan%20-%20VPH%20-%20WSCT-103%20-%20BE%20-%20I%20-%20%F0%9F%94%B4%20t.me/Rayan_Config
 
@@ -242,8 +242,6 @@ vless://2a1c791e-40b3-4033-942a-914763a53908@83.147.18.150:443?security=reality&
 
 vless://2a1c791e-40b3-4033-942a-914763a53908@83.147.18.150:443?security=reality&encryption=none&pbk=NVyURHRuwh2Y4RxejiTR0tczjPM2pBVWkc6D7FCUkxA&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=snapp.ir&sid=0126b9#%40v2ray313%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86%20%F0%9F%98%9E
 
-vless://2a1c791e-40b3-4033-942a-914763a53908@83.147.18.150:443?security=reality&encryption=none&pbk=NVyURHRuwh2Y4RxejiTR0tczjPM2pBVWkc6D7FCUkxA&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=snapp.ir&sid=0126b9#%F0%9F%9A%80%F0%9F%87%A9%F0%9F%87%AA%5BAll%5D%20%D9%82%D8%B7%D8%B9%20%D8%B4%D8%AF%DB%8C%20%D8%A8%DB%8C%D8%A7%20%DA%86%D9%86%D9%84%20%40NETMelliAnti
-
 vless://2a8adf15-1688-4c2a-bde5-94b0f0c0078f@tgju.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=WEIrd-FIELD.oNeeAt.CO.&type=ws#telegram 🎯 DailyV2ry
 
 vless://2b5a137b-1ea4-40a1-a812-f68c6e5b0642@104.16.127.227:2087?security=tls&sni=ca-1-cbt.rayan-dns.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=ca-1-cbt.rayan-dns.dpdns.org&encryption=none#Rayan%20-%20CBT%20-%20WSCT-101%20-%20CA%20-%20I%20-%20%E2%9A%BD%EF%B8%8F%20t.me/Rayan_Config
@@ -276,17 +274,19 @@ vless://2d41742e-5e10-4884-a9dd-4eeb5389f1f5@194.182.79.202:39049?mode=gun&secur
 
 vless://2e7a7846-00b8-4aca-b8f4-3103d153f3de@194.55.137.16:8443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=194.55.137.16&encryption=none#Rayan%20-%20VPH%20-%20WSCT-105%20-%20DE%20-%20I%20-%20%F0%9F%94%B4%20t.me/Rayan_Config
 
-vless://2e85c7df-eb92-4d5a-9aa8-4ea828f044d8@www.sanctionscanner.com:2095?path=%2Ferfani%401404-marz46wx-%40sim2akaade345z-%40wertoopb467frgrtu%3Fed%3D2560&security=&encryption=none&host=www.sciencedirect.com.www.esgtoday.com.speedtest.net.dert.bunny.com.dash.cloudflare.com--dv385wertyhjtvtnqi4htawuoijrgq47dsgyhfb.fastbrokencompony.com.&type=httpupgrade#@meli_proxyy
-
 vless://2f46c3a7-5308-527f-b7b4-59c31d420389@88.218.95.7:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=88.218.95.7&encryption=none#Rayan%20-%20SSO%20-%20WSCT-113%20-%20ZA%20-%20I%20-%20%E2%9A%AA%EF%B8%8F%20t.me/Rayan_Config
 
 vless://2fd18148-ef55-461c-bd5d-c9f5c851d467@104.24.83.107:443?security=tls&sni=wk.625229.xyz&fp=chrome&type=ws&host=wk.625229.xyz&encryption=none#%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.24.83.107:443
 
-vless://3091880b-13e7-4c1f-8211-f2a79428671d@[2a01:4f8:1c1b:11e::1]:20000?security=reality&encryption=none&pbk=PHP5Ibb_VceW-qb5RXLn-lKMHoqMTZbhrjwCMtsJZiQ&host=%2FJOKERRVPNTELEGRAM----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN&headerType=none&fp=chrome&spx=%2FJOKERRVPNJoinBadeChannel%40JOKERRVPN&type=tcp&sni=fontawesome.com&sid=49d5a3bd8cd3e6b6#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85🍅
+vless://31a27ed1-2ec6-4ab5-95b6-3e213e59e0a9@185.148.106.56:2087?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=Tp3993VbRi.ScOrPiOnBiGpLaY.oRg&fp=chrome&type=ws&sni=Tp3993VbRi.ScOrPiOnBiGpLaY.oRg#%40meli_proxyy%D8%B3%D8%B1%D9%88%D8%B1%D8%A7%DB%8C%E2%80%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1
+
+vless://31a27ed1-2ec6-4ab5-95b6-3e213e59e0a9@185.148.106.56:2087?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=Tp3993VbRi.ScOrPiOnBiGpLaY.oRg&fp=chrome&type=ws&sni=Tp3993VbRi.ScOrPiOnBiGpLaY.oRg#%40v2ray313%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86%20%F0%9F%99%88
 
 vless://3377fe5d-1dcb-4e14-816f-d9ead60d7406@de-1-rvp.rayan-dns.dpdns.org:443?security=tls&sni=de-1-rvp.rayan-dns.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=de-1-rvp.rayan-dns.dpdns.org&encryption=none#Rayan%20-%20RVP%20-%20WSCT-123%20-%20DE%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
 
 vless://337f33aa-2cb2-4a3e-8edf-ffe56878fc12@128.140.59.104:2083?security=tls&sni=google.com&alpn=h3,h2,http/1.1&fp=chrome&type=tcp&flow=xtls-rprx-vision&encryption=none#%F0%9F%94%92%20VL-TCP-TLS%20%F0%9F%87%A9%F0%9F%87%AA%20DE-128.140.59.104:2083
+
+vless://347af837-5960-4c03-be09-9576461eb0c2@tgju.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=UNusUaL-praCticE.ONeEAt.co.&type=ws#telegram 🚀 DailyV2ry
 
 vless://35d08555-633c-4832-adcf-64cd39e22d30@uk-2-rvp.rayan-dns.dpdns.org:443?security=tls&sni=uk-2-rvp.rayan-dns.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=uk-2-rvp.rayan-dns.dpdns.org&encryption=none#Rayan%20-%20RVP%20-%20WSCT-111%20-%20UK%20-%20II%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
 
