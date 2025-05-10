@@ -24,8 +24,6 @@ vless://0e90aa87-5fa9-4037-b25b-b78761517776@fr-2-rvp.rayan-dns.dpdns.org:443?se
 
 vless://0eb83f3e-7b95-427a-8952-abedfca1869f@104.26.15.85:8080?path=%2F%3Fed%3D2048flow%3D-udp443&security=none&encryption=none&host=QW.VU6d72nt9y.zULaiR.orG.&type=ws#%40V2rayNGVPN
 
-vless://0eb83f3e-7b95-427a-8952-abedfca1869f@tgju.org:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=QW.VU6d72nt9y.zULaiR.orG.&type=ws#Free%2062%20%28%40proxy_kafee%29
-
 vless://0f2e0501-5a4f-45b7-bd5e-209169cd34f9@37.152.173.139:8464?security=none&encryption=none&host=2picrszy.divarcdn.com%2F%3FJOKERRVPNCopy-az-chahnnel-JOKERRVPN&headerType=http&type=tcp#@meli_proxyy
 
 vless://0ffb3a7d-d1c1-4ea1-8d40-e1b407ddce6a@194.124.251.11:8443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=194.124.251.11&encryption=none#Rayan%20-%20VPH%20-%20WSCT-103%20-%20BE%20-%20I%20-%20%F0%9F%94%B4%20t.me/Rayan_Config
@@ -333,6 +331,8 @@ vless://3e0b6f83-8c8f-4407-a5bb-3d9a96fbeb38@tgju.org:80?path=%2F%3Fed%3D2048&se
 vless://416bf485-8261-448b-ae76-fb9d93edde13@germany.gamingbazirani.ir:600?security=tls&encryption=none&headerType=none&type=tcp&sni=marzban.negintel.xyz#@meli_proxyy
 
 vless://416bf485-8261-448b-ae76-fb9d93edde13@italy.gamingbazirani.ir:600?security=tls&encryption=none&headerType=none&type=tcp&sni=marzban.negintel.xyz#@meli_proxyy
+
+vless://416bf485-8261-448b-ae76-fb9d93edde13@uk.gamingbazirani.ir:17297?mode=auto&path=%2Funlimite&security=reality&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%201000000%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%7D&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&host=server.ir&fp=chrome&type=xhttp&sni=tgju.org&sid=85978f35bcf139b5#@meli_proxyy
 
 vless://43cd7338-fd35-44a7-a681-c9ef4c5939e4@hk-1-rvp.rayan-dns.dpdns.org:443?security=tls&sni=hk-1-rvp.rayan-dns.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=hk-1-rvp.rayan-dns.dpdns.org&encryption=none#Rayan%20-%20RVP%20-%20WSCT-124%20-%20HK%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
 
