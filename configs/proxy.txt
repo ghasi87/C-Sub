@@ -14,8 +14,6 @@ vless://05bf0981-e760-4675-b9e6-b5d81714d530@tgju.org:80?path=%2F%3Fed%3D2048&se
 
 vless://064e95f6-c83b-4ed4-a25e-b9c804a1020e@194.55.137.16:8443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=194.55.137.16&encryption=none#Rayan%20-%20VPH%20-%20WSDR-105%20-%20DE%20-%20I%20-%20%F0%9F%94%B4%20t.me/Rayan_Config
 
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.123.255.30:443?path=%2FTelegram%40V2ray_Alpha%3Fed%3D2560&security=tls&encryption=none&host=lx.ylks0033.dpdns.org&type=ws&sni=lx.ylks0033.dpdns.org#@meli_proxyy
-
 vless://0842c5c0-8730-44c7-bbe4-58ab3b02455f@tgju.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=oUTRAgEOus-PERcentaGE.OneEAt.Co.&type=ws#telegram 🌈 DailyV2ry
 
 vless://08fefda4-9bec-4f36-b673-8f8e6e60a8ff@germany.gamingbazirani.ir:600?security=tls&encryption=none&headerType=none&type=tcp&sni=marzban.negintel.xyz#@meli_proxyy
@@ -34,17 +32,11 @@ vless://0eb83f3e-7b95-427a-8952-abedfca1869f@104.26.15.85:8080?path=%2F%3Fed%3D2
 
 vless://0f8fac4e-4d6c-4f6c-8bc6-22a3c065ba6f@tgju.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=DAngeRouS-contacT.oNEeat.Co.&type=ws#telegram 🌟 DailyV2ry
 
-vless://10b59513-ef76-4494-a925-305ec45dd3a4@109.172.94.249:2040?security=reality&encryption=none&pbk=iPjWLvXWt7ABJaSRRwzjgLrvlJlwoYQZN8zF-G3D-Qs&headerType=none&fp=chrome&type=tcp&sni=fr.ign.com&sid=27cfa05000c23cc4#@meli_proxyy
-
 vless://10b59513-ef76-4494-a925-305ec45dd3a4@147.45.221.3:2040?encryption=none&security=reality&sni=cdnjs.com&fp=chrome&pbk=iPjWLvXWt7ABJaSRRwzjgLrvlJlwoYQZN8zF-G3D-Qs&sid=27cfa05000c23cc4&type=tcp&headerType=none#@meli_proxyy
 
 vless://10b59513-ef76-4494-a925-305ec45dd3a4@147.45.221.3:2040?security=reality&encryption=none&pbk=iPjWLvXWt7ABJaSRRwzjgLrvlJlwoYQZN8zF-G3D-Qs&headerType=none&fp=chrome&type=tcp&sni=cdnjs.com&sid=27cfa05000c23cc4#%40NETMelliAnti%20%F0%9F%91%88%F0%9F%8F%BB%F0%9F%91%88%F0%9F%8F%BB%D8%B3%D8%B1%D9%88%D8%B1%D8%AC%D8%AF%DB%8C%D8%AF%20%D8%AF%D8%A7%D8%AE%D9%84%20%DA%86%D9%86%D9%84
 
-vless://10b59513-ef76-4494-a925-305ec45dd3a4@147.45.221.3:2040?security=reality&encryption=none&pbk=iPjWLvXWt7ABJaSRRwzjgLrvlJlwoYQZN8zF-G3D-Qs&headerType=none&fp=chrome&type=tcp&sni=cdnjs.com&sid=27cfa05000c23cc4#@meli_proxyy
-
 vless://10b59513-ef76-4494-a925-305ec45dd3a4@178.22.31.18:2040?security=reality&encryption=none&pbk=iPjWLvXWt7ABJaSRRwzjgLrvlJlwoYQZN8zF-G3D-Qs&headerType=none&fp=chrome&type=tcp&sni=github.com&sid=27cfa05000c23cc4#@meli_proxyy
-
-vless://10b59513-ef76-4494-a925-305ec45dd3a4@83.147.252.63:2040?security=reality&encryption=none&pbk=iPjWLvXWt7ABJaSRRwzjgLrvlJlwoYQZN8zF-G3D-Qs&headerType=none&fp=chrome&type=tcp&sni=fr.ign.com&sid=27cfa05000c23cc4#@meli_proxyy
 
 vless://10d9df89-9a20-4110-9711-bca119490ee9@104.21.16.1:80?security=none&sni=masaleini.mahsaamini.dpdns.org&type=ws&host=masaleini.mahsaamini.dpdns.org&path=/TM@AZAFBAYJAB1#@meli_proxyy
 
@@ -57,8 +49,6 @@ vless://118ddac5-8e9c-5043-91f9-f9c6f85fadd7@140.99.164.177:443?security=tls&sni
 vless://14fa7d10-ba31-4cc2-9cb3-278902e7946a@157.180.75.119:8880?mode=gun&security=&encryption=none&authority=%2FJoin_Bade_Channel%40JOKERRVPN&type=grpc&serviceName=%40cephalon_ai_bot#@meli_peoxyy
 
 vless://14fa7d10-ba31-4cc2-9cb3-278902e7946a@157.180.75.119:8880?mode=gun&security=none&encryption=none&authority=%2FJoin_Bade_Channel%40JOKERRVPN&type=grpc&serviceName=%40cephalon_ai_bot#@meli_proxyy
-
-vless://15298f41-e80b-463a-b85b-0c903258a1c8@104.16.40.28:443?path=Telegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&host=d5.medicaltreatment.ir&fp=chrome&type=ws&sni=d5.medicaltreatment.ir#@meli_proxyy
 
 vless://15298f41-e80b-463a-b85b-0c903258a1c8@104.16.40.28:443?security=tls&sni=d5.medicaltreatment.ir&fp=chrome&type=ws&path=sinavm-sinavm/?ed%3D2560&host=d5.medicaltreatment.ir&encryption=none#%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.16.40.28:443
 
@@ -82,11 +72,21 @@ vless://1792f052-6399-465c-8497-ed28d6dff638@65.109.212.145:36716?security=reali
 
 vless://17d7913a-da39-4e09-8634-8734679a19ae@speedtest.net:80?encryption=none&security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D1024#@meli_proxyy
 
+vless://17d7913a-da39-4e09-8634-8734679a19ae@zmaoz.faculty.ucdavis.edu:80?encryption=none&security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D1024#@meli_proxyy
+
+vless://18a70b59-777a-4ad2-9a57-14f742e7ab76@83.147.18.150:443?security=reality&encryption=none&pbk=NVyURHRuwh2Y4RxejiTR0tczjPM2pBVWkc6D7FCUkxA&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=snapp.ir&sid=0126b9#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85🏅
+
 vless://1a77b1f2-18c2-4673-b975-af5dcb983f1a@194.124.251.11:8443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=194.124.251.11&encryption=none#Rayan%20-%20VPH%20-%20WSDR-103%20-%20BE%20-%20I%20-%20%F0%9F%94%B4%20t.me/Rayan_Config
 
 vless://1c035a21-e733-45a2-a5bc-0fbb14533bdd@fonts.net:8443?security=tls&sni=hk-1-vph.rayan-dns.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=hk-1-vph.rayan-dns.dpdns.org&encryption=none#Rayan%20-%20VPH%20-%20WSCT-115%20-%20HK%20-%20I%20-%20%F0%9F%8F%80%20t.me/Rayan_Config
 
 vless://206a0a10-d045-531c-ae16-b80692dcdfac@g2.com:443?security=tls&sni=tr-1-sso.rayan-dns.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=tr-1-sso.rayan-dns.dpdns.org&encryption=none#Rayan%20-%20SSO%20-%20WSCT-122%20-%20TR%20-%20I%20-%20%E2%9A%BE%EF%B8%8F%20t.me/Rayan_Config
+
+vless://217b2806-44e6-4d84-bd1e-8431a9dcfba5@138.197.168.56:5376?type=tcp&security=reality&pbk=pAkjrjLJqt7c3xA-hkNJlDNUZGut9H8ZpUej1zMoAFI&fp=safari&sni=yoast.com&sid=acf7d7&spx=%2FPOST#telegram 🍊 DailyV2ry
+
+vless://217b2806-44e6-4d84-bd1e-8431a9dcfba5@142.93.158.200:5376?type=tcp&security=reality&pbk=pAkjrjLJqt7c3xA-hkNJlDNUZGut9H8ZpUej1zMoAFI&fp=safari&sni=yoast.com&sid=acf7d7&spx=%2FPOST#telegram 🌟 DailyV2ry
+
+vless://217b2806-44e6-4d84-bd1e-8431a9dcfba5@147.182.150.230:5376?type=tcp&security=reality&pbk=pAkjrjLJqt7c3xA-hkNJlDNUZGut9H8ZpUej1zMoAFI&fp=safari&sni=yoast.com&sid=acf7d7&spx=%2FPOST#telegram 🌟 DailyV2ry
 
 vless://22acab09-97f3-4406-967b-046a82bbed7b@us-1-rvp.rayan-dns.dpdns.org:443?security=tls&sni=us-1-rvp.rayan-dns.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=us-1-rvp.rayan-dns.dpdns.org&encryption=none#Rayan%20-%20RVP%20-%20WSCT-127%20-%20US%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
 
