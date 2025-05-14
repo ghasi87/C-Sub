@@ -36,6 +36,8 @@ vless://15298f41-e80b-463a-b85b-0c903258a1c8@104.16.40.28:443?security=tls&sni=d
 
 vless://15298f41-e80b-463a-b85b-0c903258a1c8@104.16.40.28:443?security=tls&sni=d5.medicaltreatment.ir&fp=chrome&type=ws&path=sinavm-sinavm/?ed%3D2560&host=d5.medicaltreatment.ir&encryption=none#%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.16.40.28:443
 
+vless://15298f41-e80b-463a-b85b-0c903258a1c8@104.16.41.28:443?path=%2F&security=tls&encryption=none&host=d5.medicaltreatment.ir&fp=chrome&type=ws&sni=d5.medicaltreatment.ir#%F0%9F%9F%A3%F0%9F%94%A5%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%B3%D8%B1%D9%88%D8%B1%20%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C%20%D8%A8%D8%A7%20%D8%B3%D8%B1%D8%B9%D8%AA%20%D8%A8%D8%A7%D9%84%D8%A7%20%D8%AA%D8%B6%D9%85%DB%8C%D9%86%DB%8C%20%40Outlinev_2rayNG
+
 vless://15298f41-e80b-463a-b85b-0c903258a1c8@104.16.41.28:443?security=tls&sni=d5.medicaltreatment.ir&fp=chrome&type=ws&path=/&host=d5.medicaltreatment.ir&encryption=none#@Daily_Configs
 
 vless://15298f41-e80b-463a-b85b-0c903258a1c8@104.16.41.28:443?security=tls&sni=d5.medicaltreatment.ir&fp=chrome&type=ws&path=/sinavm-sinavm/?ed%3D2560flow%3D-udp443&host=d5.medicaltreatment.ir&encryption=none#@Daily_Configs
@@ -89,8 +91,6 @@ vless://217b2806-44e6-4d84-bd1e-8431a9dcfba5@159.203.47.220:5376?type=tcp&securi
 vless://217b2806-44e6-4d84-bd1e-8431a9dcfba5@165.22.224.139:5376?type=tcp&security=reality&pbk=pAkjrjLJqt7c3xA-hkNJlDNUZGut9H8ZpUej1zMoAFI&fp=safari&sni=yoast.com&sid=acf7d7&spx=%2FPOST#telegram 🚀 DailyV2ry
 
 vless://217b2806-44e6-4d84-bd1e-8431a9dcfba5@165.227.32.122:5376?type=tcp&security=reality&pbk=pAkjrjLJqt7c3xA-hkNJlDNUZGut9H8ZpUej1zMoAFI&fp=safari&sni=yoast.com&sid=acf7d7&spx=%2FPOST#telegram 🚀 DailyV2ry
-
-vless://217b2806-44e6-4d84-bd1e-8431a9dcfba5@178.128.239.131:5376?type=tcp&security=reality&pbk=pAkjrjLJqt7c3xA-hkNJlDNUZGut9H8ZpUej1zMoAFI&fp=safari&sni=yoast.com&sid=acf7d7&spx=%2FPOST#telegram 🎯 DailyV2ry
 
 vless://22bacfc5-73ff-453e-8703-784d45a4f9a7@ca-1-rvp.rayan-dns.dpdns.org:443?security=tls&sni=ca-1-rvp.rayan-dns.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=ca-1-rvp.rayan-dns.dpdns.org&encryption=none#Rayan%20-%20RVP%20-%20WSCT-122%20-%20CA%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
 
@@ -436,9 +436,9 @@ vmess://ewogICAgImFkZCI6ICJkdjQuNzg5OTAwLnh5eiIsCiAgICAiYWlkIjogMCwKICAgICJob3N0
 
 vmess://ewogICAgImFkZCI6ICJmZDcwYWFmZi1zdjJzZzAtc3Z2ZTEwLWU1eW8uaGszLnA1cHYuY29tIiwKICAgICJhaWQiOiAyLAogICAgImhvc3QiOiAiZmQ3MGFhZmYtc3Yyc2cwLXN2dmUxMC1lNXlvLmhrMy5wNXB2LmNvbSIsCiAgICAiaWQiOiAiOGI2YTA0ODItNGZhMi0xMWVhLWJkY2QtZjIzYzkxNjRjYTVkIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLyIsCiAgICAicG9ydCI6IDgwLAogICAgInBzIjogIvCfh63wn4ewSEstMS42NS4yMTguMTYtNjM2MCIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogZmFsc2UsCiAgICAic25pIjogImJyb2FkY2FzdGx2LmNoYXQuYmlsaWJpbGkuY29tIgp9
 
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDEyIFZNLVRDUC1OQSBcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjggVVMtMTI5LjgwLjE5OS4yMzk6MTcwOTkiLCAiYWRkIjogIjEyOS44MC4xOTkuMjM5IiwgInBvcnQiOiAiMTcwOTkiLCAidHlwZSI6ICJub25lIiwgImlkIjogImUwNjJiMjE3LTViMWQtNGJmZS1iMWZlLWMxYmQ4ZmQ0NDg2MSIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiLyIsICJob3N0IjogIiIsICJ0bHMiOiAiIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlfQ==
+vmess://eyJ2IjogIjIiLCAicHMiOiAiMXzwn4ev8J+HtTEgfCAgMi4zTUIvc3wxMSV8RGlzbmV5fFlvdXQuLi4iLCAiYWRkIjogIjJiYmI3MWFjLXN2ZHdnMC1zdzBuYmotMWFuaG0uY201LnA1cHYuY29tIiwgInBvcnQiOiAxNzIzMywgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogIjNmNThkM2ZlLWY0ZWEtMTFlYi04NjczLWYyM2M5MTY0Y2E1ZCJ9
 
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDEyIFZNLVdTLVRMUyBcdWQ4M2NcdWRkZWRcdWQ4M2NcdWRkZjAgSEstMjAyLjE4MS4yNC44NDoxMDgxIiwgImFkZCI6ICIyMDIuMTgxLjI0Ljg0IiwgInBvcnQiOiAiMTA4MSIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiZGY5Yjc4OGYtOTI5YS00MzQ5LTk3MGEtOGNiYmUxMmQ2YWU4IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9hc2RkIiwgImhvc3QiOiAid2FteG9hLmNvbSIsICJ0bHMiOiAidGxzIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogImhrLWNuLTAxLnl1bWVpZmFuZy5jbiIsICJhbGxvd2luc2VjdXJlIjogMX0=
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDEyIFZNLVRDUC1OQSBcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjggVVMtMTI5LjgwLjE5OS4yMzk6MTcwOTkiLCAiYWRkIjogIjEyOS44MC4xOTkuMjM5IiwgInBvcnQiOiAiMTcwOTkiLCAidHlwZSI6ICJub25lIiwgImlkIjogImUwNjJiMjE3LTViMWQtNGJmZS1iMWZlLWMxYmQ4ZmQ0NDg2MSIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiLyIsICJob3N0IjogIiIsICJ0bHMiOiAiIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlfQ==
 
 vmess://eyJ2IjogIjIiLCAicHMiOiAidGVsZWdyYW0g8J+OqiBEYWlseVYycnkiLCAiYWRkIjogIjY2Ljk0LjExNC4xMjIiLCAicG9ydCI6ICI1MzUwMyIsICJpZCI6ICJjOWI5ZGVhMy01ODY4LTQ3N2YtZTU0ZC0yYzhmMTI0ZjY0N2QiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiIsICJzbmkiOiAiIiwgImFscG4iOiAiIiwgImZwIjogIiJ9
 
