@@ -52,8 +52,6 @@ vless://152e5a3e-8e9e-4e37-f2e9-beac9e372796@45.76.76.152:8080?type=ws&security=
 
 vless://1549e70f-dc57-45e3-ac7c-515f0161db72@104.21.7.147:443?security=tls&sni=XXSe.hUaNGsHaNg.DpdNS.org&alpn=http/1.1&fp=chrome&type=ws&path=/IKLitbwX0RSt1mktNrT&host=xxse.huangshang.dpdns.org&encryption=none
 
-vless://16224e08-aa02-50b9-bb4b-0c97926a3d6a@141.101.122.211:2052?path=%2Fvless&security=none&encryption=none&host=sPeedtest2.sbs.de.v2vless.sitespeedtest.net&type=ws#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%A9%F0%9F%87%AA
-
 vless://16224e08-aa02-50b9-bb4b-0c97926a3d6a@141.101.122.211:2052?security=&fp=chrome&type=ws&path=/vless&host=sPeedtest2.sbs.de.v2vless.sitespeedtest.net&encryption=none
 
 vless://16246364-3ff8-407e-c8b3-32e73b5fe5b8@api.digimobile.top:46830?type=kcp&headerType=wireguard&seed=uH1xwYhsPC&security=none#@meli_proxyy
@@ -90,9 +88,11 @@ vless://217b2806-44e6-4d84-bd1e-8431a9dcfba5@165.22.224.139:5376?type=tcp&securi
 
 vless://217b2806-44e6-4d84-bd1e-8431a9dcfba5@178.128.239.131:5376?type=tcp&security=reality&pbk=pAkjrjLJqt7c3xA-hkNJlDNUZGut9H8ZpUej1zMoAFI&fp=safari&sni=yoast.com&sid=acf7d7&spx=%2FPOST#telegram 🎯 DailyV2ry
 
-vless://21dfbe81-72d4-5ad5-8248-1e8d2cf13f8c@5.180.52.15:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%B3%F0%9F%87%B1
-
 vless://22bacfc5-73ff-453e-8703-784d45a4f9a7@ca-1-rvp.rayan-dns.dpdns.org:443?security=tls&sni=ca-1-rvp.rayan-dns.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=ca-1-rvp.rayan-dns.dpdns.org&encryption=none#Rayan%20-%20RVP%20-%20WSCT-122%20-%20CA%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
+
+vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@www.speedtest.net:8443?encryption=none&security=tls&sni=KeMn02UcWh.AaAzZzAaA-8129.cOm&type=ws&alpn=h3h2&host=KeMn02UcWh.AaAzZzAaA-8129.cOm&path=/#@meli_proxyy
+
+vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@www.speedtest.net:8443?encryption=none&security=tls&sni=KeMn02UcWh.AaAzZzAaA-8129.cOm&type=ws&alpn=h3h2&host=KeMn02UcWh.AaAzZzAaA-8129.cOm&path=/#telegram 🎯 DailyV2ry
 
 vless://27533bb8-a72e-4c65-92de-bb6d76488799@in-1-rvp.rayan-dns.dpdns.org:443?security=tls&sni=in-1-rvp.rayan-dns.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=in-1-rvp.rayan-dns.dpdns.org&encryption=none#Rayan%20-%20RVP%20-%20WSCT-119%20-%20IN%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
 
