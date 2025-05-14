@@ -24,8 +24,6 @@ vless://0eb83f3e-7b95-427a-8952-abedfca1869f@104.26.15.85:8080?security=&fp=chro
 
 vless://0eb83f3e-7b95-427a-8952-abedfca1869f@tgju.org:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=QW.VU6d72nt9y.zULaiR.orG.&type=ws#Free%2062%20%28%40proxy_kafee%29
 
-vless://10d9df89-9a20-4110-9711-bca119490ee9@104.21.16.1:80?security=none&sni=masaleini.mahsaamini.dpdns.org&type=ws&host=masaleini.mahsaamini.dpdns.org&path=/TM@AZAFBAYJAB1#telegram 🚀 DailyV2ry
-
 vless://118ddac5-8e9c-5043-91f9-f9c6f85fadd7@140.99.164.177:443?security=tls&sni=140.99.164.177&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=140.99.164.177&encryption=none#Rayan%20-%20SSO%20-%20WSDR-110%20-%20BR%20-%20I%20-%20%E2%9A%AA%EF%B8%8F%20t.me/Rayan_Config
 
 vless://15298f41-e80b-463a-b85b-0c903258a1c8@104.16.40.28:443?security=tls&sni=d5.medicaltreatment.ir&fp=chrome&type=ws&path=Telegram@V2ray_Alpha/?ed%3D2560&host=d5.medicaltreatment.ir&encryption=none
@@ -70,8 +68,6 @@ vless://18a70b59-777a-4ad2-9a57-14f742e7ab76@83.147.18.150:443?security=reality&
 
 vless://1a2e18c0-6ed5-4146-c31a-fb5075bc7150@64.176.71.198:8080?type=ws&security=none&path=%2F#telegram 🍊 DailyV2ry
 
-vless://1b4dc9c6-ccc8-42c0-b7d2-319fad2f30bc@194.182.79.7:19123?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85👹
-
 vless://1ef553c3-b1b9-49fb-8c7d-09e05915b2bc@us-1-rvp.rayan-dns.dpdns.org:443?security=tls&sni=us-1-rvp.rayan-dns.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=us-1-rvp.rayan-dns.dpdns.org&encryption=none#Rayan%20-%20RVP%20-%20WSCT-127%20-%20US%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
 
 vless://1fc2fd97-0e24-4eaf-fdb8-c18e55abe718@64.176.201.252:8080?type=ws&security=none&path=%2F#telegram 🚀 DailyV2ry
@@ -109,6 +105,10 @@ vless://2bb5e4f9-35c5-45aa-8f84-b81ac8da330d@104.21.96.1:443?security=tls&sni=os
 vless://2ce4da59-28c7-41fa-9411-7dfde437c1cb@mainv2-ray.fast.hosting-ip.com:80?path=%2FTELEGRAM-%40mainv2-ray%2CTELEGRAM-%40mainv2-ray%2CTELEGRAM-%40mainv2-ray%2CTELEGRAM-%40mainv2-ray%2CTELEGRAM-%40mainv2-ray%2CTELEGRAM-%40mainv2-ray%2CTELEGRAM-%40mainv2-ray%2CTELEGRAM-%40mainv2-ray%2CTELEGRAM-%40mainv2-ray%2CTELEGRAM-%40mainv2-ray%2CTELEGRAM-%40mainv2-ray%2CTELEGRAM-%40mainv2-ray%2CTELEGRAM-%40mainv2-ray%2CTELEGRAM-%40mainv2-ray%3Fed%3D2048&security=none&encryption=none&host=namehmain.com&type=ws#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85🍇
 
 vless://2d41742e-5e10-4884-a9dd-4eeb5389f1f5@194.182.79.202:39049?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85🍌
+
+vless://2dac76b3-d1bd-42c2-d2ab-58d6036e8fba@208.83.238.31:8080?type=ws&security=none&path=%2F#telegram 🌟 DailyV2ry
+
+vless://2ee2c33b-cc0f-4ea1-b287-5870f3ee3951@104.18.20.20:443?security=tls&sni=us6s.globals-download.com&type=ws&host=us6s.globals-download.com&path=/pq/us6#telegram 🎯 DailyV2ry
 
 vless://302cf0ef-7081-53a0-9a8b-862f3ac681c6@38.76.247.217:443?security=tls&sni=38.76.247.217&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=38.76.247.217&encryption=none#Rayan%20-%20SSO%20-%20WSDR-121%20-%20SG%20-%20II%20-%20%E2%9A%AA%EF%B8%8F%20t.me/Rayan_Config
 
@@ -426,8 +426,6 @@ vmess://ewogICAgImFkZCI6ICIxNTIuNjcuMjUxLjIzMiIsCiAgICAiYWlkIjogMCwKICAgICJob3N0
 
 vmess://ewogICAgImFkZCI6ICIxNzIuNjYuMTY4LjIwOSIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIm1hWE5FdFZJUC11c0EtVlAzLm5FVEtIMy5TaVRFIiwKICAgICJpZCI6ICI1NDI4ZGNjMi05OTUwLTQ0MDQtYjhhNS05ZGFjODJhY2IyMTAiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvbGlua3dzIiwKICAgICJwb3J0IjogNDQzLAogICAgInBzIjogInRlbGVncmFtIPCfjIggRGFpbHlWMnJ5IiwKICAgICJ0bHMiOiAidGxzIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiBmYWxzZSwKICAgICJzbmkiOiAibWFYTkV0VklQLXVzQS1WUDMubkVUS0gzLlNpVEUiCn0=
 
-vmess://ewogICAgImFkZCI6ICIxNzIuNjYuMTY4LjIwOSIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIm1hWE5FdFZJUC11c0EtVlAzLm5FVEtIMy5TaVRFIiwKICAgICJpZCI6ICI1NDI4ZGNjMi05OTUwLTQ0MDQtYjhhNS05ZGFjODJhY2IyMTAiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvbGlua3dzIiwKICAgICJwb3J0IjogNDQzLAogICAgInBzIjogIvCfj4FSRUxBWS0xNzIuNjYuMTY4LjIwOS0zNTYyIiwKICAgICJ0bHMiOiAidGxzIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiBmYWxzZSwKICAgICJzbmkiOiAibWFYTkV0VklQLXVzQS1WUDMubkVUS0gzLlNpVEUiCn0=
-
 vmess://ewogICAgImFkZCI6ICIxNzIuNjcuMjAwLjEzIiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiMWEyZDUxNGItMzdjZi00OTlmLThkMDgtZDAxN2E5MmFiNWJiLmFzb3VsLWF2YS50b3AiLAogICAgImlkIjogIjVmNzI2ZmUzLWQ4MmUtNGRhNS1hNzExLThhZjBjYmIyYjY4MiIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi9henVtYXNlLnJlbiIsCiAgICAicG9ydCI6IDQ0MywKICAgICJwcyI6ICJ0ZWxlZ3JhbSDwn42AIERhaWx5VjJyeSIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogZmFsc2UsCiAgICAic25pIjogIjFhMmQ1MTRiLTM3Y2YtNDk5Zi04ZDA4LWQwMTdhOTJhYjViYi5hc291bC1hdmEudG9wIgp9
 
 vmess://ewogICAgImFkZCI6ICJhNGU5YzVmNC1zdjB4czAtc3YzN2dtLTgxbnYuaGsucDVwdi5jb20iLAogICAgImFpZCI6IDIsCiAgICAiaG9zdCI6ICJhNGU5YzVmNC1zdjB4czAtc3YzN2dtLTgxbnYuaGsucDVwdi5jb20iLAogICAgImlkIjogIjQ3ZTkxZmI2LTI1YjgtZGY1Mi1iYzE4LTNjZGM4NTQ4MTkyZiIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi8iLAogICAgInBvcnQiOiA4MCwKICAgICJwcyI6ICJ0ZWxlZ3JhbSDwn46vIERhaWx5VjJyeSIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogZmFsc2UsCiAgICAic25pIjogImJyb2FkY2FzdGx2LmNoYXQuYmlsaWJpbGkuY29tIgp9
@@ -471,6 +469,8 @@ vmess://eyJ2IjoiMiIsInBzIjogInRlbGVncmFtIPCfjLogRGFpbHlWMnJ5IiwiYWRkIjoiY2xvdWRn
 vmess://eyJ2IjoiMiIsInBzIjogInRlbGVncmFtIPCfjLogRGFpbHlWMnJ5IiwiYWRkIjoiY2xvdWRnZXRzZXJ2aWNlLm1jbG91ZHNlcnZpY2Uuc2l0ZSIsInBvcnQiOjQ0MywiaWQiOiJhZDJiY2E0ZC1iZTllLTRhYzItYjJlZC00YzgxYWJiNDI0MmYiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJtQXhORXRWaXAtdVNBLVZwNC5uRVRLaDMuc0l0RSIsInBhdGgiOiJcL2xpbmt3cz9lZD0yNTYwIiwidGxzIjoidGxzIn0=Daily
 
 vmess://eyJ2IjoiMiIsInBzIjogInRlbGVncmFtIPCfjLogRGFpbHlWMnJ5IiwiYWRkIjoiY2xvdWRnZXRzZXJ2aWNlLm1jbG91ZHNlcnZpY2Uuc2l0ZSIsInBvcnQiOjQ0MywiaWQiOiJiODdjZWExZC1kMTRjLTQ1YzMtYWY0MC03YWY1ZDNiZTg4ZGEiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJDQU5BRGEtMTk5LkJMYVplY0FOQURBLnNJdGUiLCJwYXRoIjoiXC9saW5rdmt2d3MiLCJ0bHMiOiJ0bHMifQ==Daily
+
+vmess://eyJ2IjoiMiIsInBzIjogInRlbGVncmFtIPCfjLogRGFpbHlWMnJ5IiwiYWRkIjoiZmI3OWJlMjItc3ZmcjQwLXQxYm5qcS0xa3J0Yi5jdS5wbGViYWkubmV0IiwicG9ydCI6IjUyMjkiLCJ0eXBlIjoibm9uZSIsImlkIjoiNjBmNmI0YzQtOWQ3MC0xMWVkLWE0ZDItZjIzYzkxNjRjYTVkIiwiYWlkIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwiaG9zdCI6ImZiNzliZTIyLXN2ZnI0MC10MWJuanEtMWtydGIuY3UucGxlYmFpLm5ldCIsInRscyI6IiJ9
 
 vmess://eyJhZGQiOiI0Ni4yNTAuMjM0LjMyIiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6ImIyODM2MzY5LTIyMGItNDg0MC04MGM0LThjZjkwNGM3MzVlZSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDUzMTciLCJwcyI6IvCflJIgVk0tVENQLU5BIPCfh7jwn4esIFNHLTQ2LjI1MC4yMzQuMzI6NDUzMTciLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 
