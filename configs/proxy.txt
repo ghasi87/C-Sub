@@ -404,6 +404,12 @@ vless://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@108.162.196.75:443?security=tls&sni
 
 vless://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@108.162.196.80:443?security=tls&sni=12.parastoo.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=12.parastoo.dpdns.org&encryption=none#RA---AM---TR---KG---UZ---ARB
 
+hysteria2://0cb527d9-6117-4bcf-a52b-1704b3458cef@107.172.235.75:56381/?sni=dxobg4azmk.gafnode.sbs#LosAngeles-GetAFreeNode
+
+hysteria2://0cb527d9-6117-4bcf-a52b-1704b3458cef@185.126.255.78:53684/?sni=dxobg4azmk.gafnode.sbs#Kyiv-GetAFreeNode
+
+hysteria2://0cb527d9-6117-4bcf-a52b-1704b3458cef@85.235.205.212:56410/?sni=dxobg4azmk.gafnode.sbs#SaintPetersburg-GetAFreeNode
+
 hysteria2://413c8b50-96bf-4457-82f2-54dfa8685f53@107.172.235.75:56381/?sni=dxobg4azmk.gafnode.sbs#LosAngeles-GetAFreeNode
 
 hysteria2://413c8b50-96bf-4457-82f2-54dfa8685f53@185.126.255.78:53684/?sni=dxobg4azmk.gafnode.sbs#Kyiv-GetAFreeNode
