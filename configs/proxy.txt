@@ -62,17 +62,17 @@ vless://4416acdc-6616-41c4-b74d-ac50ec899772@zula.ir:2087?security=tls&sni=de-1-
 
 vless://460ecbbe-0775-41cf-9c62-60c3fbc73c14@zula.ir:2087?security=tls&sni=fr-1-gss.rayan-dns.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=fr-1-gss.rayan-dns.dpdns.org&encryption=none#Rayan%20-%20GSS%20-%20WSCT-110%20-%20FR%20-%20I%20-%20%E2%98%A2%EF%B8%8F%20t.me/Rayan_Config
 
-vless://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@zula.ir:443?security=tls&sni=rayan-1.parastoo.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=rayan-1.parastoo.dpdns.org&encryption=none#@Rayan_Config%20-%20MIX-1
+vless://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@zula.ir:443?security=tls&sni=rayan-10.parastoo.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=rayan-10.parastoo.dpdns.org&encryption=none#@Rayan_Config%20-%20MIX-4
 
-vless://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@zula.ir:443?security=tls&sni=rayan-2.parastoo.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=rayan-2.parastoo.dpdns.org&encryption=none#@Rayan_Config%20-%20MIX-2
+vless://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@zula.ir:443?security=tls&sni=rayan-11.parastoo.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=rayan-11.parastoo.dpdns.org&encryption=none#@Rayan_Config%20-%20MIX-5
 
-vless://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@zula.ir:443?security=tls&sni=rayan-3.parastoo.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=rayan-3.parastoo.dpdns.org&encryption=none#@Rayan_Config%20-%20MIX-3
+vless://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@zula.ir:443?security=tls&sni=rayan-12.parastoo.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=rayan-12.parastoo.dpdns.org&encryption=none#@Rayan_Config%20-%20MIX-6
 
-vless://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@zula.ir:443?security=tls&sni=rayan-4.parastoo.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=rayan-4.parastoo.dpdns.org&encryption=none#@Rayan_Config%20-%20MIX-4
+vless://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@zula.ir:443?security=tls&sni=rayan-7.parastoo.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=rayan-7.parastoo.dpdns.org&encryption=none#@Rayan_Config%20-%20MIX-1
 
-vless://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@zula.ir:443?security=tls&sni=rayan-5.parastoo.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=rayan-5.parastoo.dpdns.org&encryption=none#@Rayan_Config%20-%20MIX-5
+vless://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@zula.ir:443?security=tls&sni=rayan-8.parastoo.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=rayan-8.parastoo.dpdns.org&encryption=none#@Rayan_Config%20-%20MIX-2
 
-vless://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@zula.ir:443?security=tls&sni=rayan-6.parastoo.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=rayan-6.parastoo.dpdns.org&encryption=none#@Rayan_Config%20-%20MIX-6
+vless://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@zula.ir:443?security=tls&sni=rayan-9.parastoo.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=rayan-9.parastoo.dpdns.org&encryption=none#@Rayan_Config%20-%20MIX-3
 
 vless://5351c341-61c3-5457-af37-ab6ba80e9755@38.89.142.153:443?security=tls&sni=38.89.142.153&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=38.89.142.153&encryption=none#Rayan%20-%20SSM%20-%20WSDR-117%20-%20SG%20-%20I%20-%20%F0%9F%9F%A1%20t.me/Rayan_Config
 
@@ -118,17 +118,17 @@ vless://77eba558-94d0-528f-a969-42a2d25e93a2@45.136.117.14:443?security=tls&sni=
 
 vless://77eba558-94d0-528f-a969-42a2d25e93a2@digg.com:443?security=tls&sni=lu-1-sso.rayan-dns.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=lu-1-sso.rayan-dns.dpdns.org&encryption=none#Rayan%20-%20SSO%20-%20WSCT-118%20-%20LU%20-%20I%20-%20%E2%9A%BE%EF%B8%8F%20t.me/Rayan_Config
 
-vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@zula.ir:443?security=tls&sni=rayan-1.leila.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=rayan-1.leila.dpdns.org&encryption=none#@Rayan_Config%20-%20EU-1
+vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@zula.ir:443?security=tls&sni=rayan-10.leila.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=rayan-10.leila.dpdns.org&encryption=none#@Rayan_Config%20-%20EU-4
 
-vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@zula.ir:443?security=tls&sni=rayan-2.leila.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=rayan-2.leila.dpdns.org&encryption=none#@Rayan_Config%20-%20EU-2
+vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@zula.ir:443?security=tls&sni=rayan-11.leila.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=rayan-11.leila.dpdns.org&encryption=none#@Rayan_Config%20-%20EU-5
 
-vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@zula.ir:443?security=tls&sni=rayan-3.leila.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=rayan-3.leila.dpdns.org&encryption=none#@Rayan_Config%20-%20EU-3
+vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@zula.ir:443?security=tls&sni=rayan-12.leila.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=rayan-12.leila.dpdns.org&encryption=none#@Rayan_Config%20-%20EU-6
 
-vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@zula.ir:443?security=tls&sni=rayan-4.leila.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=rayan-4.leila.dpdns.org&encryption=none#@Rayan_Config%20-%20EU-4
+vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@zula.ir:443?security=tls&sni=rayan-7.leila.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=rayan-7.leila.dpdns.org&encryption=none#@Rayan_Config%20-%20EU-1
 
-vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@zula.ir:443?security=tls&sni=rayan-5.leila.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=rayan-5.leila.dpdns.org&encryption=none#@Rayan_Config%20-%20EU-5
+vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@zula.ir:443?security=tls&sni=rayan-8.leila.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=rayan-8.leila.dpdns.org&encryption=none#@Rayan_Config%20-%20EU-2
 
-vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@zula.ir:443?security=tls&sni=rayan-6.leila.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=rayan-6.leila.dpdns.org&encryption=none#@Rayan_Config%20-%20EU-6
+vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@zula.ir:443?security=tls&sni=rayan-9.leila.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=rayan-9.leila.dpdns.org&encryption=none#@Rayan_Config%20-%20EU-3
 
 vless://7bf4e3ba-2e56-4851-a4d2-792c6498829d@zula.ir:8443?security=tls&sni=at-1-vph.rayan-dns.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=at-1-vph.rayan-dns.dpdns.org&encryption=none#Rayan%20-%20VPH%20-%20WSCT-111%20-%20AT%20-%20I%20-%20%F0%9F%8F%80%20t.me/Rayan_Config
 
@@ -323,6 +323,14 @@ hysteria2://45cc0b3a-0adb-4dcc-8f54-4ba3d2cc274e@185.126.255.78:58944/?sni=dxobg
 hysteria2://45cc0b3a-0adb-4dcc-8f54-4ba3d2cc274e@23.132.228.217:38746/?sni=dxobg4azmk.gafnode.sbs#Como-GetAFreeNode
 
 hysteria2://45cc0b3a-0adb-4dcc-8f54-4ba3d2cc274e@85.235.205.212:55182/?sni=dxobg4azmk.gafnode.sbs#SaintPetersburg-GetAFreeNode
+
+hysteria2://4685eb2a-5ddb-4dc6-9e53-f0c90d6124c1@107.172.235.75:22262/?sni=dxobg4azmk.gafnode.sbs#LosAngeles-GetAFreeNode
+
+hysteria2://4685eb2a-5ddb-4dc6-9e53-f0c90d6124c1@185.126.255.78:58944/?sni=dxobg4azmk.gafnode.sbs#Kyiv-GetAFreeNode
+
+hysteria2://4685eb2a-5ddb-4dc6-9e53-f0c90d6124c1@23.132.228.217:38746/?sni=dxobg4azmk.gafnode.sbs#Como-GetAFreeNode
+
+hysteria2://4685eb2a-5ddb-4dc6-9e53-f0c90d6124c1@85.235.205.212:55182/?sni=dxobg4azmk.gafnode.sbs#SaintPetersburg-GetAFreeNode
 
 hysteria2://48c2c901-72e6-46d4-ac78-169d73264cbf@107.172.235.75:22262/?sni=dxobg4azmk.gafnode.sbs#LosAngeles-GetAFreeNode
 
