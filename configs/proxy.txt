@@ -260,6 +260,14 @@ vless://feda7187-aea0-55fa-b778-72bc0bfbb11f@cdnjs.com:443?security=tls&sni=sg-1
 
 vless://fefcafa6-9e2b-4787-91b6-0d3f872b4246@de-1-rvp.rayan-dns.dpdns.org:443?security=tls&sni=de-1-rvp.rayan-dns.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=de-1-rvp.rayan-dns.dpdns.org&encryption=none#Rayan%20-%20RVP%20-%20WSCT-123%20-%20DE%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
 
+hysteria2://07c122ad-50b2-4f61-9435-efcf112bb10b@107.172.235.75:22262/?sni=dxobg4azmk.gafnode.sbs#LosAngeles-GetAFreeNode
+
+hysteria2://07c122ad-50b2-4f61-9435-efcf112bb10b@185.126.255.78:21005/?sni=dxobg4azmk.gafnode.sbs#Kyiv-GetAFreeNode
+
+hysteria2://07c122ad-50b2-4f61-9435-efcf112bb10b@23.132.228.217:38746/?sni=dxobg4azmk.gafnode.sbs#Como-GetAFreeNode
+
+hysteria2://07c122ad-50b2-4f61-9435-efcf112bb10b@85.235.205.212:55182/?sni=dxobg4azmk.gafnode.sbs#SaintPetersburg-GetAFreeNode
+
 hysteria2://0cb527d9-6117-4bcf-a52b-1704b3458cef@107.172.235.75:22262/?sni=dxobg4azmk.gafnode.sbs#LosAngeles-GetAFreeNode
 
 hysteria2://0cb527d9-6117-4bcf-a52b-1704b3458cef@185.126.255.78:21005/?sni=dxobg4azmk.gafnode.sbs#Kyiv-GetAFreeNode
