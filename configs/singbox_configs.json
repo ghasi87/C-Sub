@@ -22,7 +22,7 @@
     ],
     "servers": [
       {
-        "address": "tls://208.67.222.123",
+        "address": "https://1.1.1.1/dns-query",
         "address_resolver": "local-dns",
         "detour": "proxy",
         "tag": "proxy-dns"
