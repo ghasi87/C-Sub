@@ -22,7 +22,7 @@
     ],
     "servers": [
       {
-        "address": "udp://1.1.1.1",
+        "address": "https://1.1.1.1/dns-query",
         "address_resolver": "local-dns",
         "detour": "proxy",
         "tag": "proxy-dns"
