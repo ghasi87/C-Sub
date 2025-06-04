@@ -22,7 +22,7 @@
     ],
     "servers": [
       {
-        "address": "tls://8.8.8.8.8",
+        "address": "tcp://8.8.8.8.8",
         "address_resolver": "local-dns",
         "detour": "proxy",
         "tag": "proxy-dns"
