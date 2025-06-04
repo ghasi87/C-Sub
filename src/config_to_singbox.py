@@ -313,7 +313,7 @@ class ConfigToSingbox:
                         {"clash_mode": "Direct", "server": "direct-dns"}
                     ],
                     "servers": [
-                        {"address": "tls://208.67.222.123", "address_resolver": "local-dns", "detour": "proxy", "tag": "proxy-dns"},
+                        {"address": "https://1.1.1.1/dns-query", "address_resolver": "local-dns", "detour": "proxy", "tag": "proxy-dns"},
                         {"address": "local", "detour": "direct", "tag": "local-dns"},
                         {"address": "rcode://success", "tag": "block"},
                         {"address": "local", "detour": "direct", "tag": "direct-dns"}
