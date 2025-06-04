@@ -313,7 +313,7 @@ class ConfigToSingbox:
                         {"clash_mode": "Direct", "server": "direct-dns"}
                     ],
                     "servers": [
-                        {"address": "https://wbhx6oenr0.cloudflare-gateway.com/dns-query", "address_resolver": "local-dns", "detour": "proxy", "tag": "proxy-dns"},
+                        {"address": "tcp://8.8.8.8", "address_resolver": "local-dns", "detour": "proxy", "tag": "proxy-dns"},
                         {"address": "local", "detour": "direct", "tag": "local-dns"},
                         {"address": "rcode://success", "tag": "block"},
                         {"address": "local", "detour": "direct", "tag": "direct-dns"}
