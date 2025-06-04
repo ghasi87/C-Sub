@@ -22,7 +22,7 @@
     ],
     "servers": [
       {
-        "address": "8.8.8.8",
+        "address": "https://d.adguard-dns.com/dns-query/f8f16c52",
         "address_resolver": "local-dns",
         "detour": "proxy",
         "tag": "proxy-dns"
