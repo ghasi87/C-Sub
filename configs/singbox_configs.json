@@ -22,7 +22,7 @@
     ],
     "servers": [
       {
-        "address": "https://1.1.1.1/dns-query",
+        "address": "tcp://8.8.8.8",
         "address_resolver": "local-dns",
         "detour": "proxy",
         "tag": "proxy-dns"
