@@ -304,14 +304,14 @@
             "type": "vless",
             "server": "check-host.net",
             "server_port": 443,
-            "uuid": "58621af7-5668-41bf-8ae8-8fff583cf08f",
+            "uuid": "d6a1143b-cdf0-41f8-a646-bd8f11663786",
             "network": "tcp",
             "packet_encoding": "",
             "transport": {
                 "early_data_header_name": "Sec-WebSocket-Protocol",
                 "max_early_data": 2560,
                 "headers": {
-                    "Host": "rayan-nb-6.sanaz.dpdns.org"
+                    "Host": "rayan-sb-2.medicalhistory.ir"
                 },
                 "path": "/iCg12pKQfUjwwdUj",
                 "type": "ws"
@@ -327,7 +327,7 @@
                 "alpn": "http/1.1",
                 "enabled": true,
                 "insecure": false,
-                "server_name": "rAYAn-Nb-6.saNaZ.DpdNS.oRG",
+                "server_name": "rAYan-sB-2.meDIcalHIstoRY.iR",
                 "utls": {
                     "enabled": true,
                     "fingerprint": "randomized"
@@ -514,14 +514,14 @@
             "type": "vless",
             "server": "zula.ir",
             "server_port": 443,
-            "uuid": "c13995b8-8a42-4264-b105-9377765de000",
+            "uuid": "d6a1143b-cdf0-41f8-a646-bd8f11663786",
             "network": "tcp",
             "packet_encoding": "",
             "transport": {
                 "early_data_header_name": "Sec-WebSocket-Protocol",
                 "max_early_data": 2560,
                 "headers": {
-                    "Host": "rayan-nb-6.pejman.dpdns.org"
+                    "Host": "rayan-sb-1.medicalhistory.ir"
                 },
                 "path": "/iCg12pKQfUjwwdUj",
                 "type": "ws"
@@ -537,7 +537,7 @@
                 "alpn": "http/1.1",
                 "enabled": true,
                 "insecure": false,
-                "server_name": "RaYan-Nb-6.pEjmAn.dPdNs.oRg",
+                "server_name": "rAyAn-Sb-1.mEdicAlhisTorY.Ir",
                 "utls": {
                     "enabled": true,
                     "fingerprint": "randomized"
