@@ -127,7 +127,7 @@
         {
             "tag": "Rayan - CF - C1 - 443",
             "type": "vless",
-            "server": "zula.ir",
+            "server": "www.speedtest.net",
             "server_port": 443,
             "uuid": "58621af7-5668-41bf-8ae8-8fff583cf08f",
             "network": "tcp",
@@ -151,7 +151,7 @@
             "tls": {
                 "alpn": "http/1.1",
                 "enabled": true,
-                "insecure": false,
+                "insecure": true,
                 "server_name": "RaYAn-Nb-1.SAnaZ.DpdNs.oRg",
                 "utls": {
                     "enabled": true,
@@ -186,7 +186,7 @@
             "tls": {
                 "alpn": "http/1.1",
                 "enabled": true,
-                "insecure": false,
+                "insecure": true,
                 "server_name": "RAYAN-nb-2.SanaZ.DPdnS.OrG",
                 "utls": {
                     "enabled": true,
@@ -221,7 +221,7 @@
             "tls": {
                 "alpn": "http/1.1",
                 "enabled": true,
-                "insecure": false,
+                "insecure": true,
                 "server_name": "rAyAN-Nb-3.SAnAZ.DpdNS.ORG",
                 "utls": {
                     "enabled": true,
@@ -256,7 +256,7 @@
             "tls": {
                 "alpn": "http/1.1",
                 "enabled": true,
-                "insecure": false,
+                "insecure": true,
                 "server_name": "RAyaN-Nb-4.SAnaZ.DpdNS.org",
                 "utls": {
                     "enabled": true,
@@ -291,7 +291,7 @@
             "tls": {
                 "alpn": "http/1.1",
                 "enabled": true,
-                "insecure": false,
+                "insecure": true,
                 "server_name": "RAYAN-Nb-5.sAnaz.DpdnS.Org",
                 "utls": {
                     "enabled": true,
@@ -302,7 +302,7 @@
         {
             "tag": "Rayan - CF - C6 - 443",
             "type": "vless",
-            "server": "check-host.net",
+            "server": "www.speedtest.net",
             "server_port": 443,
             "uuid": "d6a1143b-cdf0-41f8-a646-bd8f11663786",
             "network": "tcp",
@@ -326,7 +326,7 @@
             "tls": {
                 "alpn": "http/1.1",
                 "enabled": true,
-                "insecure": false,
+                "insecure": true,
                 "server_name": "rAYan-sB-2.meDIcalHIstoRY.iR",
                 "utls": {
                     "enabled": true,
@@ -361,7 +361,7 @@
             "tls": {
                 "alpn": "http/1.1",
                 "enabled": true,
-                "insecure": false,
+                "insecure": true,
                 "server_name": "RaYan-Nb-1.pEjmAn.dPdNs.oRg",
                 "utls": {
                     "enabled": true,
@@ -396,7 +396,7 @@
             "tls": {
                 "alpn": "http/1.1",
                 "enabled": true,
-                "insecure": false,
+                "insecure": true,
                 "server_name": "RaYan-Nb-2.pEjmAn.dPdNs.oRg",
                 "utls": {
                     "enabled": true,
@@ -407,7 +407,7 @@
         {
             "tag": "Rayan - CF - C9 - 443",
             "type": "vless",
-            "server": "digg.com",
+            "server": "www.speedtest.net",
             "server_port": 443,
             "uuid": "c13995b8-8a42-4264-b105-9377765de000",
             "network": "tcp",
@@ -431,7 +431,7 @@
             "tls": {
                 "alpn": "http/1.1",
                 "enabled": true,
-                "insecure": false,
+                "insecure": true,
                 "server_name": "RaYan-Nb-3.pEjmAn.dPdNs.oRg",
                 "utls": {
                     "enabled": true,
@@ -466,7 +466,7 @@
             "tls": {
                 "alpn": "http/1.1",
                 "enabled": true,
-                "insecure": false,
+                "insecure": true,
                 "server_name": "RaYan-Nb-4.pEjmAn.dPdNs.oRg",
                 "utls": {
                     "enabled": true,
@@ -501,7 +501,7 @@
             "tls": {
                 "alpn": "http/1.1",
                 "enabled": true,
-                "insecure": false,
+                "insecure": true,
                 "server_name": "RaYan-Nb-5.pEjmAn.dPdNs.oRg",
                 "utls": {
                     "enabled": true,
@@ -512,7 +512,7 @@
         {
             "tag": "Rayan - CF - C12 - 443",
             "type": "vless",
-            "server": "zula.ir",
+            "server": "www.speedtest.net",
             "server_port": 443,
             "uuid": "d6a1143b-cdf0-41f8-a646-bd8f11663786",
             "network": "tcp",
@@ -536,7 +536,7 @@
             "tls": {
                 "alpn": "http/1.1",
                 "enabled": true,
-                "insecure": false,
+                "insecure": true,
                 "server_name": "rAyAn-Sb-1.mEdicAlhisTorY.Ir",
                 "utls": {
                     "enabled": true,
