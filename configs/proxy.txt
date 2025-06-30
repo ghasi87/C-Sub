@@ -100,6 +100,10 @@ vless://d9bb770a-a6b0-4beb-8a72-ccbe1363d3b0@www.speedtest.net:2087?security=tls
 
 vless://e7f02538-0e9e-4a43-aa4d-22380122dcae@uk-1-rvp.medicaldream.ir:443?security=tls&sni=uk-1-rvp.medicaldream.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=uk-1-rvp.medicaldream.ir&encryption=none#Rayan%20-%20RVP%20-%20WSCT-110%20-%20UK%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
 
+hysteria2://07c122ad-50b2-4f61-9435-efcf112bb10b@185.126.255.78:21005/?sni=dxobg4azmk.gafnode.sbs#Kyiv-GetAFreeNode
+
+hysteria2://07c122ad-50b2-4f61-9435-efcf112bb10b@23.132.228.217:26747/?sni=dxobg4azmk.gafnode.sbs#Como-GetAFreeNode
+
 hysteria2://0cb527d9-6117-4bcf-a52b-1704b3458cef@185.126.255.78:21005/?sni=dxobg4azmk.gafnode.sbs#Kyiv-GetAFreeNode
 
 hysteria2://0cb527d9-6117-4bcf-a52b-1704b3458cef@23.132.228.217:26747/?sni=dxobg4azmk.gafnode.sbs#Como-GetAFreeNode
