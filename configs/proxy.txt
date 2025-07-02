@@ -106,10 +106,6 @@ hysteria2://ebbeef45-0fd8-40cd-aca5-1e2ce18abeff@185.126.255.78:37058/?sni=dxobg
 
 hysteria2://ebbeef45-0fd8-40cd-aca5-1e2ce18abeff@23.132.228.217:26747/?sni=dxobg4azmk.gafnode.sbs#Como-GetAFreeNode
 
-hysteria2://f901861b-6491-450c-b500-606b2e921625@185.126.255.78:37058/?sni=dxobg4azmk.gafnode.sbs#Kyiv-GetAFreeNode
-
-hysteria2://f901861b-6491-450c-b500-606b2e921625@23.132.228.217:26747/?sni=dxobg4azmk.gafnode.sbs#Como-GetAFreeNode
-
 vless://0f885cae-ffd5-4603-8a06-68693664d3ab@www.speedtest.net:2087?security=tls&sni=uk-1-cbt.medicaldream.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=uk-1-cbt.medicaldream.ir&encryption=none#Rayan%20-%20CBT%20-%20WSCT-106%20-%20UK%20-%20I%20-%20%E2%9A%BD%EF%B8%8F%20t.me/Rayan_Config
 
 vless://10ba9d07-231c-5250-ae00-dcf0b5ccd5ea@sourceforge.net:443?security=tls&sni=fi-1-sso.medicaldream.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=fi-1-sso.medicaldream.ir&encryption=none#Rayan%20-%20SSO%20-%20WSCT-113%20-%20FI%20-%20I%20-%20%E2%9A%BE%EF%B8%8F%20t.me/Rayan_Config
