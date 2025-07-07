@@ -64,8 +64,6 @@ vless://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@104.17.147.22:443?security=tls&sni=
 
 vless://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@104.17.147.22:443?security=tls&sni=rayan-12.parastoo.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-12.parastoo.dpdns.org&encryption=none#@Rayan_Config%20-%20MIX-6
 
-vless://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@104.17.148.22:443?security=tls&sni=rayan-07.parastoo.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-07.parastoo.dpdns.org&encryption=none#@Rayan_Config%20-%20MIX-1
-
 vless://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@104.17.148.22:443?security=tls&sni=rayan-09.parastoo.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-09.parastoo.dpdns.org&encryption=none#@Rayan_Config%20-%20MIX-3
 
 vless://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@104.17.148.22:443?security=tls&sni=rayan-11.parastoo.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-11.parastoo.dpdns.org&encryption=none#@Rayan_Config%20-%20MIX-5
@@ -75,10 +73,6 @@ vless://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@104.17.148.22:443?security=tls&sni=
 vless://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@104.25.1.74:443?security=tls&sni=rayan-09.parastoo.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-09.parastoo.dpdns.org&encryption=none#@Rayan_Config%20-%20MIX-3
 
 vless://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@162.159.49.46:443?security=tls&sni=rayan-08.parastoo.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-08.parastoo.dpdns.org&encryption=none#@Rayan_Config%20-%20MIX-2
-
-vless://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@172.66.44.111:443?security=tls&sni=rayan-07.parastoo.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-07.parastoo.dpdns.org&encryption=none#@Rayan_Config%20-%20MIX-1
-
-vless://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@198.41.198.242:443?security=tls&sni=rayan-07.parastoo.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-07.parastoo.dpdns.org&encryption=none#@Rayan_Config%20-%20MIX-1
 
 vless://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@198.41.206.102:443?security=tls&sni=rayan-10.parastoo.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-10.parastoo.dpdns.org&encryption=none#@Rayan_Config%20-%20MIX-4
 
@@ -112,8 +106,6 @@ vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@104.17.147.22:443?security=tls&sni=
 
 vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@104.17.147.22:443?security=tls&sni=rayan-12.leila.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-12.leila.dpdns.org&encryption=none#@Rayan_Config%20-%20EU-6
 
-vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@104.17.148.22:443?security=tls&sni=rayan-07.leila.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-07.leila.dpdns.org&encryption=none#@Rayan_Config%20-%20EU-1
-
 vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@104.17.148.22:443?security=tls&sni=rayan-10.leila.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-10.leila.dpdns.org&encryption=none#@Rayan_Config%20-%20EU-4
 
 vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@104.17.148.22:443?security=tls&sni=rayan-11.leila.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-11.leila.dpdns.org&encryption=none#@Rayan_Config%20-%20EU-5
@@ -123,8 +115,6 @@ vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@104.17.148.22:443?security=tls&sni=
 vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@104.24.129.78:443?security=tls&sni=rayan-09.leila.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-09.leila.dpdns.org&encryption=none#@Rayan_Config%20-%20EU-3
 
 vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@104.25.55.212:443?security=tls&sni=rayan-08.leila.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-08.leila.dpdns.org&encryption=none#@Rayan_Config%20-%20EU-2
-
-vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@172.67.200.156:443?security=tls&sni=rayan-07.leila.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-07.leila.dpdns.org&encryption=none#@Rayan_Config%20-%20EU-1
 
 vless://7c8f1ed6-1cac-46a7-a811-a2d6853b0de4@www.speedtest.net:2087?security=tls&sni=uk-1-cbt.medicaldream.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=uk-1-cbt.medicaldream.ir&encryption=none#Rayan%20-%20CBT%20-%20WSCT%20-%20UK%20-%20I%20-%20%E2%9A%BD%EF%B8%8F%20t.me/Rayan_Config
 
@@ -204,7 +194,7 @@ hysteria2://19d9a8e7-bfda-43ff-bf52-62a91f0d0f1a@yjjddg.yunjijd.xyz:26823/?insec
 
 hysteria2://19d9a8e7-bfda-43ff-bf52-62a91f0d0f1a@yjjdels.yunjijd.xyz:26123/?insecure=1&sni=yjjdels.yunjijd.xyz#%E4%BF%84%E7%BD%97%E6%96%AF
 
-hysteria2://19d9a8e7-bfda-43ff-bf52-62a91f0d0f1a@yjjdels.yunjijd.xyz:26123/?insecure=1&sni=yjjdels.yunjijd.xyz#%E5%89%A9%E4%BD%99%E6%B5%81%E9%87%8F%EF%BC%9A153.19%20GB
+hysteria2://19d9a8e7-bfda-43ff-bf52-62a91f0d0f1a@yjjdels.yunjijd.xyz:26123/?insecure=1&sni=yjjdels.yunjijd.xyz#%E5%89%A9%E4%BD%99%E6%B5%81%E9%87%8F%EF%BC%9A130.43%20GB
 
 hysteria2://19d9a8e7-bfda-43ff-bf52-62a91f0d0f1a@yjjdels.yunjijd.xyz:26123/?insecure=1&sni=yjjdels.yunjijd.xyz#%E5%A5%97%E9%A4%90%E5%88%B0%E6%9C%9F%EF%BC%9A2025-08-03
 
@@ -260,7 +250,7 @@ hysteria2://8d43c37a-e57f-48b4-b579-02d3ebde937b@yjjddg.yunjijd.xyz:26823/?insec
 
 hysteria2://8d43c37a-e57f-48b4-b579-02d3ebde937b@yjjdels.yunjijd.xyz:26123/?insecure=1&sni=yjjdels.yunjijd.xyz#%E4%BF%84%E7%BD%97%E6%96%AF
 
-hysteria2://8d43c37a-e57f-48b4-b579-02d3ebde937b@yjjdels.yunjijd.xyz:26123/?insecure=1&sni=yjjdels.yunjijd.xyz#%E5%89%A9%E4%BD%99%E6%B5%81%E9%87%8F%EF%BC%9A458.94%20GB
+hysteria2://8d43c37a-e57f-48b4-b579-02d3ebde937b@yjjdels.yunjijd.xyz:26123/?insecure=1&sni=yjjdels.yunjijd.xyz#%E5%89%A9%E4%BD%99%E6%B5%81%E9%87%8F%EF%BC%9A457.61%20GB
 
 hysteria2://8d43c37a-e57f-48b4-b579-02d3ebde937b@yjjdels.yunjijd.xyz:26123/?insecure=1&sni=yjjdels.yunjijd.xyz#%E5%A5%97%E9%A4%90%E5%88%B0%E6%9C%9F%EF%BC%9A2025-08-03
 
@@ -296,7 +286,7 @@ hysteria2://cd5eb0a9-4f4b-40af-9f94-d4d07e802d6e@yjjddg.yunjijd.xyz:26823/?insec
 
 hysteria2://cd5eb0a9-4f4b-40af-9f94-d4d07e802d6e@yjjdels.yunjijd.xyz:26123/?insecure=1&sni=yjjdels.yunjijd.xyz#%E4%BF%84%E7%BD%97%E6%96%AF
 
-hysteria2://cd5eb0a9-4f4b-40af-9f94-d4d07e802d6e@yjjdels.yunjijd.xyz:26123/?insecure=1&sni=yjjdels.yunjijd.xyz#%E5%89%A9%E4%BD%99%E6%B5%81%E9%87%8F%EF%BC%9A487.08%20GB
+hysteria2://cd5eb0a9-4f4b-40af-9f94-d4d07e802d6e@yjjdels.yunjijd.xyz:26123/?insecure=1&sni=yjjdels.yunjijd.xyz#%E5%89%A9%E4%BD%99%E6%B5%81%E9%87%8F%EF%BC%9A485.67%20GB
 
 hysteria2://cd5eb0a9-4f4b-40af-9f94-d4d07e802d6e@yjjdels.yunjijd.xyz:26123/?insecure=1&sni=yjjdels.yunjijd.xyz#%E5%A5%97%E9%A4%90%E5%88%B0%E6%9C%9F%EF%BC%9A2025-08-04
 
