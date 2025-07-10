@@ -46,25 +46,25 @@ vless://46187d11-d1c3-5e4c-b397-324cfe8c3fbf@www.speedtest.net:443?security=tls&
 
 vless://4beb7608-6bd0-4a40-a74a-47df46bd6f73@uae-01.cloxynode.com:35515?type=tcp&encryption=none&host=&path=&headerType=none&quicSecurity=none&serviceName=&security=&fp=chrome#UAE-Dubai-01
 
-vless://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@104.17.147.22:443?security=tls&sni=rayan-08.parastoo.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-08.parastoo.dpdns.org&encryption=none#@Rayan_Config%20-%20MIX-2
+vless://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@cdnjs.com:443?security=tls&sni=raYaN-yKk.ParAstOo.dPdNS.orG&allowInsecure=1&fp=chrome&type=ws&path=/pyip%3Dus-1.mix-ii.msnegar.eu.org&host=rayan-ykk.parastoo.dpdns.org&encryption=none#@Rayan_Config%20-%20MIX-5
 
-vless://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@104.17.147.22:443?security=tls&sni=rayan-10.parastoo.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-10.parastoo.dpdns.org&encryption=none#@Rayan_Config%20-%20MIX-4
+vless://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@fonts.net:443?security=tls&sni=raYaN-yKk.ParAstOo.dPdNS.orG&allowInsecure=1&fp=chrome&type=ws&path=/pyip%3Deu-4.mix-ii.msnegar.eu.org&host=rayan-ykk.parastoo.dpdns.org&encryption=none#@Rayan_Config%20-%20MIX-4
 
-vless://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@104.17.147.22:443?security=tls&sni=rayan-11.parastoo.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-11.parastoo.dpdns.org&encryption=none#@Rayan_Config%20-%20MIX-5
+vless://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@homestead.com:443?security=tls&sni=raYaN-yKk.ParAstOo.dPdNS.orG&allowInsecure=1&fp=chrome&type=ws&path=/pyip%3Deu-3.mix-ii.msnegar.eu.org&host=rayan-ykk.parastoo.dpdns.org&encryption=none#@Rayan_Config%20-%20MIX-3
 
-vless://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@104.17.147.22:443?security=tls&sni=rayan-12.parastoo.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-12.parastoo.dpdns.org&encryption=none#@Rayan_Config%20-%20MIX-6
+vless://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@jquery.com:443?security=tls&sni=raYaN-yKk.ParAstOo.dPdNS.orG&allowInsecure=1&fp=chrome&type=ws&path=/pyip%3Deu-2.mix-ii.msnegar.eu.org&host=rayan-ykk.parastoo.dpdns.org&encryption=none#@Rayan_Config%20-%20MIX-2
 
-vless://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@104.17.148.22:443?security=tls&sni=rayan-09.parastoo.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-09.parastoo.dpdns.org&encryption=none#@Rayan_Config%20-%20MIX-3
+vless://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@ns1.cloudflare.com:443?security=tls&sni=raYaN-yKk.ParAstOo.dPdNS.orG&allowInsecure=1&fp=chrome&type=ws&path=/pyip%3Dus-2.mix-ii.msnegar.eu.org&host=rayan-ykk.parastoo.dpdns.org&encryption=none#@Rayan_Config%20-%20MIX-6
 
-vless://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@104.17.148.22:443?security=tls&sni=rayan-11.parastoo.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-11.parastoo.dpdns.org&encryption=none#@Rayan_Config%20-%20MIX-5
+vless://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@www.speedtest.net:443?security=tls&sni=raYaN-yKk.ParAstOo.dPdNS.orG&allowInsecure=1&fp=chrome&type=ws&path=/pyip%3Deu-2.mix-ii.msnegar.eu.org&host=rayan-ykk.parastoo.dpdns.org&encryption=none#@Rayan_Config%20-%20MIX-2
 
-vless://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@104.17.148.22:443?security=tls&sni=rayan-12.parastoo.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-12.parastoo.dpdns.org&encryption=none#@Rayan_Config%20-%20MIX-6
+vless://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@www.speedtest.net:443?security=tls&sni=raYaN-yKk.ParAstOo.dPdNS.orG&allowInsecure=1&fp=chrome&type=ws&path=/pyip%3Deu-3.mix-ii.msnegar.eu.org&host=rayan-ykk.parastoo.dpdns.org&encryption=none#@Rayan_Config%20-%20MIX-3
 
-vless://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@104.25.1.74:443?security=tls&sni=rayan-09.parastoo.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-09.parastoo.dpdns.org&encryption=none#@Rayan_Config%20-%20MIX-3
+vless://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@www.speedtest.net:443?security=tls&sni=raYaN-yKk.ParAstOo.dPdNS.orG&allowInsecure=1&fp=chrome&type=ws&path=/pyip%3Deu-4.mix-ii.msnegar.eu.org&host=rayan-ykk.parastoo.dpdns.org&encryption=none#@Rayan_Config%20-%20MIX-4
 
-vless://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@162.159.49.46:443?security=tls&sni=rayan-08.parastoo.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-08.parastoo.dpdns.org&encryption=none#@Rayan_Config%20-%20MIX-2
+vless://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@www.speedtest.net:443?security=tls&sni=raYaN-yKk.ParAstOo.dPdNS.orG&allowInsecure=1&fp=chrome&type=ws&path=/pyip%3Dus-1.mix-ii.msnegar.eu.org&host=rayan-ykk.parastoo.dpdns.org&encryption=none#@Rayan_Config%20-%20MIX-5
 
-vless://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@198.41.206.102:443?security=tls&sni=rayan-10.parastoo.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-10.parastoo.dpdns.org&encryption=none#@Rayan_Config%20-%20MIX-4
+vless://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@www.speedtest.net:443?security=tls&sni=raYaN-yKk.ParAstOo.dPdNS.orG&allowInsecure=1&fp=chrome&type=ws&path=/pyip%3Dus-2.mix-ii.msnegar.eu.org&host=rayan-ykk.parastoo.dpdns.org&encryption=none#@Rayan_Config%20-%20MIX-6
 
 vless://4fa9757f-ab90-53ad-882d-fb528232559c@45.12.139.51:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=45.12.139.51&encryption=none#Rayan%20-%20SSM%20-%20WSDR%20-%20LU%20-%20I%20-%20%F0%9F%9F%A1%20t.me/Rayan_Config
 
@@ -250,7 +250,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YmViNzYwOC02YmQwLTRhNDAtYTc0YS00N2RmNDZiZDZ
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YmViNzYwOC02YmQwLTRhNDAtYTc0YS00N2RmNDZiZDZmNzM@us-01.cloxynode.com:35515#Plan%20expiration%3A%202025-10-07
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YmViNzYwOC02YmQwLTRhNDAtYTc0YS00N2RmNDZiZDZmNzM@us-01.cloxynode.com:35515#Remaining%20data%20traffic%3A%20219.63%20GB
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YmViNzYwOC02YmQwLTRhNDAtYTc0YS00N2RmNDZiZDZmNzM@us-01.cloxynode.com:35515#Remaining%20data%20traffic%3A%20216.82%20GB
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YmViNzYwOC02YmQwLTRhNDAtYTc0YS00N2RmNDZiZDZmNzM@us-01.cloxynode.com:35515#Time%20remaining%20until%20next%20reset%3A%2027%20days
 
@@ -270,7 +270,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ODRmZjdjZi04NmJhLTRhOGQtYWNmMi1mNWU4ODFhNzM
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ODRmZjdjZi04NmJhLTRhOGQtYWNmMi1mNWU4ODFhNzM5MDM@us-01.cloxynode.com:35515#Plan%20expiration%3A%202025-10-07
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ODRmZjdjZi04NmJhLTRhOGQtYWNmMi1mNWU4ODFhNzM5MDM@us-01.cloxynode.com:35515#Remaining%20data%20traffic%3A%20275.63%20GB
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ODRmZjdjZi04NmJhLTRhOGQtYWNmMi1mNWU4ODFhNzM5MDM@us-01.cloxynode.com:35515#Remaining%20data%20traffic%3A%20275.4%20GB
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ODRmZjdjZi04NmJhLTRhOGQtYWNmMi1mNWU4ODFhNzM5MDM@us-01.cloxynode.com:35515#Time%20remaining%20until%20next%20reset%3A%2027%20days
 
@@ -282,7 +282,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5Nzk2YjI3OC03MDljLTRmYTctOWFhNC00YTRkZThkZTk
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5Nzk2YjI3OC03MDljLTRmYTctOWFhNC00YTRkZThkZTk4Mzc@us-01.cloxynode.com:35515#Plan%20expiration%3A%202025-10-07
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5Nzk2YjI3OC03MDljLTRmYTctOWFhNC00YTRkZThkZTk4Mzc@us-01.cloxynode.com:35515#Remaining%20data%20traffic%3A%20265.45%20GB
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5Nzk2YjI3OC03MDljLTRmYTctOWFhNC00YTRkZThkZTk4Mzc@us-01.cloxynode.com:35515#Remaining%20data%20traffic%3A%20264.43%20GB
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5Nzk2YjI3OC03MDljLTRmYTctOWFhNC00YTRkZThkZTk4Mzc@us-01.cloxynode.com:35515#Time%20remaining%20until%20next%20reset%3A%2027%20days
 
