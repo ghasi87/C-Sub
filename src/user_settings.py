@@ -8,7 +8,6 @@ SOURCE_URLS = [
     "https://raw.githubusercontent.com/sorkhi-2/GAFN-ALL/refs/heads/main/configs/proxy_configs.txt",
     "https://raw.githubusercontent.com/GAFN-IVP/GAFN-ALL-II/refs/heads/main/configs/proxy_configs.txt",
     "https://raw.githubusercontent.com/gransa/Temp-Sub/refs/heads/main/configs/proxy_configs.txt",
-    "https://sub.cloxy.io/cloxy?token=5e1c43db0609db0d0cf7337c3952e28d",
     "https://raw.githubusercontent.com/Rayan-Config/HUB/refs/heads/main/H-I",
     "https://raw.githubusercontent.com/Rayan-Config/HUB/refs/heads/main/H-II",
     "https://raw.githubusercontent.com/Rayan-Config/HUB/refs/heads/main/H-III",
