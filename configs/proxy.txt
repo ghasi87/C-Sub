@@ -10,6 +10,18 @@ vless://021c3e15-6361-5107-b463-8062d99dbd79@www.speedtest.net:443?security=tls&
 
 vless://178004b4-2750-4ad6-b4ba-b6a2354b93de@ca-1-rvp.medicaldream.ir:443?security=tls&sni=ca-1-rvp.medicaldream.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=ca-1-rvp.medicaldream.ir&encryption=none#Rayan%20-%20RVP%20-%20WSCT%20-%20CA%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
 
+vless://18449203-c21f-431a-911f-4affde2a321e@de.x8net.world:443?security=reality&sni=www.focus.de&fp=chrome&pbk=olOllT4O_bCsezeLcO2byNkD4Qmu3PTL4WWMFBDotnk&sid=695020d9ce51f041&type=tcp&flow=xtls-rprx-vision&encryption=none#%E2%9C%85%20X8%20Germany%20%20%7C%20exp%202025-07-25
+
+vless://18449203-c21f-431a-911f-4affde2a321e@kz.x8net.world:443?security=reality&sni=krisha.kz&fp=chrome&pbk=olOllT4O_bCsezeLcO2byNkD4Qmu3PTL4WWMFBDotnk&sid=695020d9ce51f041&type=tcp&flow=xtls-rprx-vision&encryption=none#%E2%9C%85%20X8%20Kazakhstan
+
+vless://18449203-c21f-431a-911f-4affde2a321e@nl.x8net.world:443?security=reality&sni=www.kpn.com&fp=chrome&pbk=olOllT4O_bCsezeLcO2byNkD4Qmu3PTL4WWMFBDotnk&sid=695020d9ce51f041&type=tcp&flow=xtls-rprx-vision&encryption=none#%E2%9C%85%20X8%20Netherlands
+
+vless://18449203-c21f-431a-911f-4affde2a321e@ru.x8net.world:443?security=reality&sni=ok.ru&fp=chrome&pbk=olOllT4O_bCsezeLcO2byNkD4Qmu3PTL4WWMFBDotnk&sid=695020d9ce51f041&type=tcp&flow=xtls-rprx-vision&encryption=none#%E2%9C%85%20X8%20Russia
+
+vless://18449203-c21f-431a-911f-4affde2a321e@se.x8net.world:443?security=reality&sni=www.w3.org&fp=chrome&pbk=olOllT4O_bCsezeLcO2byNkD4Qmu3PTL4WWMFBDotnk&sid=695020d9ce51f041&type=tcp&flow=xtls-rprx-vision&encryption=none#%E2%9C%85%20X8%20Sweden%20%20%7C%200%20B%20(150%20GB%20weekly)
+
+vless://18449203-c21f-431a-911f-4affde2a321e@tr.x8net.world:443?security=reality&sni=www.trendyol.com&fp=chrome&pbk=olOllT4O_bCsezeLcO2byNkD4Qmu3PTL4WWMFBDotnk&sid=695020d9ce51f041&type=tcp&flow=xtls-rprx-vision&encryption=none#%E2%9C%85%20X8%20Turkey
+
 vless://1e2c0b2f-bc2c-595a-93e5-2579e980e530@77.91.100.41:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=77.91.100.41&encryption=none#Rayan%20-%20SSM%20-%20WSDR%20-%20BG%20-%20I%20-%20%F0%9F%9F%A1%20t.me/Rayan_Config
 
 vless://1e2c0b2f-bc2c-595a-93e5-2579e980e530@www.speedtest.net:443?security=tls&sni=bg-1-ssm.medicaldream.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=bg-1-ssm.medicaldream.ir&encryption=none#Rayan%20-%20SSM%20-%20WSCT%20-%20BG%20-%20I%20-%20%F0%9F%A5%8E%20t.me/Rayan_Config
