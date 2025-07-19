@@ -9,6 +9,7 @@ SOURCE_URLS = [
     "https://raw.githubusercontent.com/GAFN-IVP/GAFN-ALL-II/refs/heads/main/configs/proxy_configs.txt",
     "https://raw.githubusercontent.com/gransa/Temp-Sub/refs/heads/main/configs/proxy_configs.txt",
     "https://ne997.688997.xyz/api/v1/client/subscribe?token=2d28dacb3976ca80da6d2fb33274746f",
+    "https://loopycloudcfjiasucdn.xx.kg/api/3ae0e6ed6c161aab76b16cfa8bc95c74",
     "https://raw.githubusercontent.com/Rayan-Config/HUB/refs/heads/main/H-I",
     "https://raw.githubusercontent.com/Rayan-Config/HUB/refs/heads/main/H-II",
     "https://raw.githubusercontent.com/Rayan-Config/HUB/refs/heads/main/H-III",
