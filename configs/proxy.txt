@@ -4,12 +4,6 @@
 //support-url: https://t.me/Chat_Support_Configs
 //profile-web-page-url: https://t.me/Rayan_Config
 
-hysteria2://0cb527d9-6117-4bcf-a52b-1704b3458cef@172.252.236.213:56704/?sni=dxobg4azmk.gafnode.sbs#Marseille-GetAFreeNode
-
-hysteria2://0cb527d9-6117-4bcf-a52b-1704b3458cef@185.126.255.78:44594/?sni=dxobg4azmk.gafnode.sbs#Kyiv-GetAFreeNode
-
-hysteria2://0cb527d9-6117-4bcf-a52b-1704b3458cef@23.132.228.217:40449/?sni=dxobg4azmk.gafnode.sbs#Como-GetAFreeNode
-
 hysteria2://1045aedf-053c-4585-875d-e2fc3f3ea6dd@172.252.236.213:56704/?sni=dxobg4azmk.gafnode.sbs#Marseille-GetAFreeNode
 
 hysteria2://1045aedf-053c-4585-875d-e2fc3f3ea6dd@185.126.255.78:44594/?sni=dxobg4azmk.gafnode.sbs#Kyiv-GetAFreeNode
@@ -98,12 +92,6 @@ hysteria2://52816135-d3bc-46bc-a915-09886a2e2b2e@185.126.255.78:44594/?sni=dxobg
 
 hysteria2://52816135-d3bc-46bc-a915-09886a2e2b2e@23.132.228.217:40449/?sni=dxobg4azmk.gafnode.sbs#Como-GetAFreeNode
 
-hysteria2://55ca7a9e-cf90-49df-b14a-9346c59b73b9@172.252.236.213:56704/?sni=dxobg4azmk.gafnode.sbs#Marseille-GetAFreeNode
-
-hysteria2://55ca7a9e-cf90-49df-b14a-9346c59b73b9@185.126.255.78:44594/?sni=dxobg4azmk.gafnode.sbs#Kyiv-GetAFreeNode
-
-hysteria2://55ca7a9e-cf90-49df-b14a-9346c59b73b9@23.132.228.217:40449/?sni=dxobg4azmk.gafnode.sbs#Como-GetAFreeNode
-
 hysteria2://5d28b886-c97e-48bc-b742-488b468d7acb@nexiabx.688997.xyz:20857/?insecure=1&sni=nexiabx.688997.xyz&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#%E5%B7%B4%E8%A5%BF
 
 hysteria2://5d28b886-c97e-48bc-b742-488b468d7acb@nexiadg.688997.xyz:20557/?insecure=1&sni=nexiadg.688997.xyz&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#%E5%BE%B7%E5%9B%BD
@@ -120,7 +108,7 @@ hysteria2://5d28b886-c97e-48bc-b742-488b468d7acb@nexiarb.688997.xyz:20257/?insec
 
 hysteria2://5d28b886-c97e-48bc-b742-488b468d7acb@nexiateq.688997.xyz:20957/?insecure=1&sni=nexiateq.688997.xyz&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#%E5%9C%9F%E8%80%B3%E5%85%B6
 
-hysteria2://5d28b886-c97e-48bc-b742-488b468d7acb@nexiaxg.688997.xyz:20057/?insecure=1&sni=nexiaxg.688997.xyz&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#%E5%89%A9%E4%BD%99%E6%B5%81%E9%87%8F%EF%BC%9A23.59%20GB
+hysteria2://5d28b886-c97e-48bc-b742-488b468d7acb@nexiaxg.688997.xyz:20057/?insecure=1&sni=nexiaxg.688997.xyz&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#%E5%89%A9%E4%BD%99%E6%B5%81%E9%87%8F%EF%BC%9A21%20GB
 
 hysteria2://5d28b886-c97e-48bc-b742-488b468d7acb@nexiaxg.688997.xyz:20057/?insecure=1&sni=nexiaxg.688997.xyz&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#%E5%A5%97%E9%A4%90%E5%88%B0%E6%9C%9F%EF%BC%9A2025-08-18
 
@@ -158,7 +146,7 @@ hysteria2://7e5e92b7-40ef-4438-85e1-e47f2f06024d@nexiarb.688997.xyz:20257/?insec
 
 hysteria2://7e5e92b7-40ef-4438-85e1-e47f2f06024d@nexiateq.688997.xyz:20957/?insecure=1&sni=nexiateq.688997.xyz&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#%E5%9C%9F%E8%80%B3%E5%85%B6
 
-hysteria2://7e5e92b7-40ef-4438-85e1-e47f2f06024d@nexiaxg.688997.xyz:20057/?insecure=1&sni=nexiaxg.688997.xyz&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#%E5%89%A9%E4%BD%99%E6%B5%81%E9%87%8F%EF%BC%9A60.59%20GB
+hysteria2://7e5e92b7-40ef-4438-85e1-e47f2f06024d@nexiaxg.688997.xyz:20057/?insecure=1&sni=nexiaxg.688997.xyz&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#%E5%89%A9%E4%BD%99%E6%B5%81%E9%87%8F%EF%BC%9A58.13%20GB
 
 hysteria2://7e5e92b7-40ef-4438-85e1-e47f2f06024d@nexiaxg.688997.xyz:20057/?insecure=1&sni=nexiaxg.688997.xyz&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#%E5%A5%97%E9%A4%90%E5%88%B0%E6%9C%9F%EF%BC%9A2025-08-16
 
@@ -276,7 +264,7 @@ hysteria2://b7cdbd83-5325-4e3d-bf30-bc01179e5db5@nexiarb.688997.xyz:20257/?insec
 
 hysteria2://b7cdbd83-5325-4e3d-bf30-bc01179e5db5@nexiateq.688997.xyz:20957/?insecure=1&sni=nexiateq.688997.xyz&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#%E5%9C%9F%E8%80%B3%E5%85%B6
 
-hysteria2://b7cdbd83-5325-4e3d-bf30-bc01179e5db5@nexiaxg.688997.xyz:20057/?insecure=1&sni=nexiaxg.688997.xyz&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#%E5%89%A9%E4%BD%99%E6%B5%81%E9%87%8F%EF%BC%9A89.84%20GB
+hysteria2://b7cdbd83-5325-4e3d-bf30-bc01179e5db5@nexiaxg.688997.xyz:20057/?insecure=1&sni=nexiaxg.688997.xyz&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#%E5%89%A9%E4%BD%99%E6%B5%81%E9%87%8F%EF%BC%9A86.77%20GB
 
 hysteria2://b7cdbd83-5325-4e3d-bf30-bc01179e5db5@nexiaxg.688997.xyz:20057/?insecure=1&sni=nexiaxg.688997.xyz&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#%E5%A5%97%E9%A4%90%E5%88%B0%E6%9C%9F%EF%BC%9A2025-08-17
 
