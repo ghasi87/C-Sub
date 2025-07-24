@@ -214,6 +214,8 @@ vless://032a21d1-140a-5f18-ac02-0e23b5b4650d@45.12.132.142:443?security=tls&sni=
 
 vless://032a21d1-140a-5f18-ac02-0e23b5b4650d@www.speedtest.net:443?security=tls&sni=hu-1-ssm.medicaldream.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=hu-1-ssm.medicaldream.ir&encryption=none#Rayan%20-%20SSM%20-%20HU%20-%20I%20-%20%F0%9F%A5%8E%20t.me/Rayan_Config
 
+vless://060e9cb3-7f69-4a2d-9ef7-b9b5e1c1e43e@152.42.139.83:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=152.42.139.83&encryption=none#Rayan%20-%20RVP%20-%20NL%20-%20II%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
+
 vless://13184f5e-3949-5942-a4f9-93090ab85ee0@45.14.247.133:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=45.14.247.133&encryption=none#Rayan%20-%20SSM%20-%20DE%20-%20II%20-%20%F0%9F%9F%A1%20t.me/Rayan_Config
 
 vless://13184f5e-3949-5942-a4f9-93090ab85ee0@www.speedtest.net:443?security=tls&sni=de-2-ssm.medicaldream.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=de-2-ssm.medicaldream.ir&encryption=none#Rayan%20-%20SSM%20-%20DE%20-%20II%20-%20%F0%9F%A5%8E%20t.me/Rayan_Config
@@ -234,6 +236,8 @@ vless://21d8e41e-2463-56c4-b21c-605bea882625@41.216.182.162:443?security=tls&sni
 
 vless://21d8e41e-2463-56c4-b21c-605bea882625@www.speedtest.net:443?security=tls&sni=se-1-ssm.medicaldream.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=se-1-ssm.medicaldream.ir&encryption=none#Rayan%20-%20SSM%20-%20SE%20-%20I%20-%20%F0%9F%A5%8E%20t.me/Rayan_Config
 
+vless://26512491-5b5d-4d23-bfa8-778a29263a5e@167.99.142.150:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=167.99.142.150&encryption=none#Rayan%20-%20RVP%20-%20ES%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
+
 vless://2851f801-7ae6-5090-a76f-15f0783ec746@194.147.35.250:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=194.147.35.250&encryption=none#Rayan%20-%20SSM%20-%20UK%20-%20I%20-%20%F0%9F%9F%A1%20t.me/Rayan_Config
 
 vless://2851f801-7ae6-5090-a76f-15f0783ec746@www.speedtest.net:443?security=tls&sni=uk-1-ssm.medicaldream.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=uk-1-ssm.medicaldream.ir&encryption=none#Rayan%20-%20SSM%20-%20UK%20-%20I%20-%20%F0%9F%A5%8E%20t.me/Rayan_Config
@@ -249,8 +253,6 @@ vless://40ab75a1-9362-5b95-a389-6ba5efdd4920@www.speedtest.net:443?security=tls&
 vless://41e293a6-a6cb-50c2-8bfe-0d56afeff048@38.76.247.230:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=38.76.247.230&encryption=none#Rayan%20-%20SSM%20-%20SG%20-%20II%20-%20%F0%9F%9F%A1%20t.me/Rayan_Config
 
 vless://41e293a6-a6cb-50c2-8bfe-0d56afeff048@www.speedtest.net:443?security=tls&sni=sg-2-ssm.medicaldream.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=sg-2-ssm.medicaldream.ir&encryption=none#Rayan%20-%20SSM%20-%20SG%20-%20II%20-%20%F0%9F%A5%8E%20t.me/Rayan_Config
-
-vless://48cae1f8-87f9-4553-aa68-ac5c58175c3d@167.99.142.150:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=167.99.142.150&encryption=none#Rayan%20-%20RVP%20-%20ES%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
 
 vless://4cdad2c4-b895-54e8-a059-131861f572e7@209.200.246.157:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=209.200.246.157&encryption=none#Rayan%20-%20SSM%20-%20CA%20-%20I%20-%20%F0%9F%9F%A1%20t.me/Rayan_Config
 
@@ -326,7 +328,7 @@ vless://808c65ea-e4c7-506b-b22a-16fb3120a731@185.113.139.103:443?security=tls&sn
 
 vless://808c65ea-e4c7-506b-b22a-16fb3120a731@www.speedtest.net:443?security=tls&sni=lv-1-ssm.medicaldream.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=lv-1-ssm.medicaldream.ir&encryption=none#Rayan%20-%20SSM%20-%20LV%20-%20I%20-%20%F0%9F%A5%8E%20t.me/Rayan_Config
 
-vless://8de686ed-4e2e-46c5-b3b0-380a79d4f6fe@170.64.183.81:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=170.64.183.81&encryption=none#Rayan%20-%20RVP%20-%20AU%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
+vless://8f660649-794b-47dc-8d4e-460ed9cd893f@170.64.183.81:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=170.64.183.81&encryption=none#Rayan%20-%20RVP%20-%20AU%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
 
 vless://8fab5af6-2abe-521f-bcdf-be41b34af266@185.255.178.188:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=185.255.178.188&encryption=none#Rayan%20-%20SSM%20-%20EE%20-%20I%20-%20%F0%9F%9F%A1%20t.me/Rayan_Config
 
@@ -344,8 +346,6 @@ vless://a3177567-466b-569e-b6e2-a434938caec4@38.89.142.153:443?security=tls&sni=
 
 vless://a3177567-466b-569e-b6e2-a434938caec4@www.speedtest.net:443?security=tls&sni=sg-1-ssm.medicaldream.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=sg-1-ssm.medicaldream.ir&encryption=none#Rayan%20-%20SSM%20-%20SG%20-%20I%20-%20%F0%9F%A5%8E%20t.me/Rayan_Config
 
-vless://a35d4915-6c32-4950-a968-fb8f86b00dbc@46.101.237.150:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=46.101.237.150&encryption=none#Rayan%20-%20RVP%20-%20DE%20-%20II%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
-
 vless://a369db42-e12c-48a6-8986-094d50d35860@138.124.15.58:2087?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=138.124.15.58&encryption=none#Rayan%20-%20CBT%20-%20FI%20-%20I%20-%20%E2%9A%AB%EF%B8%8F%20t.me/Rayan_Config
 
 vless://a369db42-e12c-48a6-8986-094d50d35860@www.speedtest.net:2087?security=tls&sni=fi-1-cbt.medicaldream.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=fi-1-cbt.medicaldream.ir&encryption=none#Rayan%20-%20CBT%20-%20FI%20-%20I%20-%20%E2%9A%BD%EF%B8%8F%20t.me/Rayan_Config
@@ -357,8 +357,6 @@ vless://a5b6a7c4-3e51-52ac-950a-d1413297f261@www.speedtest.net:443?security=tls&
 vless://b53963a5-5769-589c-8059-424bd6429b2a@138.124.31.187:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=138.124.31.187&encryption=none#Rayan%20-%20SSM%20-%20FR%20-%20I%20-%20%F0%9F%9F%A1%20t.me/Rayan_Config
 
 vless://b53963a5-5769-589c-8059-424bd6429b2a@www.speedtest.net:443?security=tls&sni=fr-1-ssm.medicaldream.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=fr-1-ssm.medicaldream.ir&encryption=none#Rayan%20-%20SSM%20-%20FR%20-%20I%20-%20%F0%9F%A5%8E%20t.me/Rayan_Config
-
-vless://ba8a679a-e76c-42eb-b22c-1650c9723f8d@152.42.139.83:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=152.42.139.83&encryption=none#Rayan%20-%20RVP%20-%20NL%20-%20II%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
 
 vless://bd9f0c17-5dae-5343-b0ea-d29cea4fe54a@5.39.249.119:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=5.39.249.119&encryption=none#Rayan%20-%20SSM%20-%20DE%20-%20I%20-%20%F0%9F%9F%A1%20t.me/Rayan_Config
 
