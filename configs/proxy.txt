@@ -106,7 +106,7 @@ hysteria2://86373f23-4618-48b8-830e-ec132559f835@hg.dport.top:33656/?insecure=1&
 
 hysteria2://86373f23-4618-48b8-830e-ec132559f835@hl.dport.top:33659/?insecure=1&sni=hl.dport.top&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#%E8%8D%B7%E5%85%B0
 
-hysteria2://86373f23-4618-48b8-830e-ec132559f835@jnd.dport.top:33651/?insecure=1&sni=jnd.dport.top&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#%E5%89%A9%E4%BD%99%E6%B5%81%E9%87%8F%EF%BC%9A578.2%20GB
+hysteria2://86373f23-4618-48b8-830e-ec132559f835@jnd.dport.top:33651/?insecure=1&sni=jnd.dport.top&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#%E5%89%A9%E4%BD%99%E6%B5%81%E9%87%8F%EF%BC%9A577.62%20GB
 
 hysteria2://86373f23-4618-48b8-830e-ec132559f835@jnd.dport.top:33651/?insecure=1&sni=jnd.dport.top&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#%E5%8A%A0%E6%8B%BF%E5%A4%A7
 
@@ -337,14 +337,6 @@ vless://ff839db0-857b-4e79-87e6-f654b70f5653@91.107.188.161:10002?security=&fp=c
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@135.225.124.80:48172#Ainita-Ser-2
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.100.248:48172#Ainita-Serv-3
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@azure-sto.edgeservers.org:48172/?POST%20#Server-1
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@azure-sto.edgeservers.org:48172/?POST%20#Server-2
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@azure-sto.edgeservers.org:48172/?POST%20#Server-3
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@azure-sto.edgeservers.org:48172/?POST%20#Server-4
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3UFBhU3d4cDNMTGdKbVdjcFNjbEs2@85.208.139.158:25607
 
