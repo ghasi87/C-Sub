@@ -4,8 +4,6 @@
 //support-url: https://t.me/Chat_Support_Configs
 //profile-web-page-url: https://t.me/Rayan_Config
 
-vless://06db78c4-fce2-406b-8d40-16f8c644f0ea@gstatic-edge-gw01.cyberscaler.net:2087?security=reality&sni=fonts.gstatic.com&fp=safari&pbk=Zi9WQ3IxyvROG0dBrUVIPoi-3N2qoFQT_pfijQU7iDE&sid=567e&spx=/cdn-assets-v2&type=tcp&encryption=none
-
 vless://074ceb2a-a580-4c86-a10e-39b5b262c6e0@68.183.216.44:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=46.101.237.150&encryption=none#Rayan%20-%20RVP%20-%20DE%20-%20II%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
 
 vless://0aee83e9-2fce-4d16-8fad-8beb619db831@31.169.127.40:2087?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=31.169.127.40&encryption=none#Rayan%20-%20CBT%20-%20DE%20-%20I%20-%20%E2%9A%AB%EF%B8%8F%20t.me/Rayan_Config
@@ -23,8 +21,6 @@ vless://102e5f34-1913-4dd3-a1f2-f831d891a490@mybb.com:443?security=tls&sni=rAyAn
 vless://102e5f34-1913-4dd3-a1f2-f831d891a490@poloniex.com:443?security=tls&sni=rAyAn-cOnFiG-TeLeGrAm-a01.tRaNeH.DpDnS.OrG&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-config-telegram-a01.traneh.dpdns.org&encryption=none#@Rayan_Config%20-%20MIX-T-1
 
 vless://102e5f34-1913-4dd3-a1f2-f831d891a490@www.speedtest.net:443?security=tls&sni=rAyAn-cOnFiG-TeLeGrAm-a04.tRaNeH.DpDnS.OrG&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-config-telegram-a04.traneh.dpdns.org&encryption=none#@Rayan_Config%20-%20MIX-T-4
-
-vless://11402c34-7f90-485f-a218-ade69f314f49@store-static-portal.cyberscaler.net:10082?security=&fp=chrome&type=tcp&path=/&headerType=http&host=cdnjs.cloudflare.com&encryption=none
 
 vless://1688039e-a45f-499e-b9f4-c098c87d3b32@1password.com:443?security=tls&sni=rAyAn-cOnFiG-TeLeGrAm-a02.rAyAn.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-config-telegram-a02.rayan.dpdns.org&encryption=none#@Rayan_Config%20-%20EU-R-2
 
@@ -108,11 +104,7 @@ vless://986783c3-0225-4f4d-9c29-e7c75c8b8c80@static-edge-front.deepcloudview.com
 
 vless://9df6183b-ca47-4d4d-b014-e24aa41d401a@157.230.91.47:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=157.230.91.47&encryption=none#Rayan%20-%20RVP%20-%20US%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
 
-vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@95.164.18.5:8443?security=tls&fp=chrome&type=ws&path=/&encryption=none
-
 vless://9f6b70a1-ae9a-49ac-b9bd-0e41c99ca23c@edge-resources.cyberscaler.net:8280?security=&fp=chrome&type=tcp&headerType=http&host=assets.global.fastly.net&encryption=none
-
-vless://a3151e51-8945-4cd4-9db7-6729bc551c63@cdn-assets-edge.cyberscaler.net:80?security=&fp=chrome&type=tcp&headerType=http&host=cdnjs.cloudflare.com&encryption=none
 
 vless://a8b11fe0-51f0-4ae6-a337-78ce42004879@188.166.150.199:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=188.166.150.199&encryption=none#Rayan%20-%20RVP%20-%20UK%20-%20II%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
 
@@ -128,8 +120,6 @@ vless://c1bbfa35-8326-4b41-9b62-19cb98a289b4@148.113.207.224:443?security=tls&sn
 
 vless://c2e5afa0-907f-4b26-a2e2-2c8f17d332de@185.58.115.104:2087?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=185.58.115.104&encryption=none#Rayan%20-%20CBT%20-%20SE%20-%20I%20-%20%E2%9A%AB%EF%B8%8F%20t.me/Rayan_Config
 
-vless://c30fee5c-a1ba-4828-8c6b-ac509d7342e3@store-static-portal.cyberscaler.net:10082?security=&fp=chrome&type=tcp&path=/&headerType=http&host=cdnjs.cloudflare.com&encryption=none
-
 vless://c6b88243-a3fc-57a1-a78f-c989a84476b7@41.216.182.162:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=41.216.182.162&encryption=none#Rayan%20-%20SSM%20-%20SE%20-%20I%20-%20%F0%9F%9F%A1%20t.me/Rayan_Config
 
 vless://cc9bd61b-9c4f-5ace-8a93-f23a868d6ee9@38.76.247.230:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=38.76.247.230&encryption=none#Rayan%20-%20SSM%20-%20SG%20-%20II%20-%20%F0%9F%9F%A1%20t.me/Rayan_Config
@@ -137,8 +127,6 @@ vless://cc9bd61b-9c4f-5ace-8a93-f23a868d6ee9@38.76.247.230:443?security=tls&sni=
 vless://d78ac0ca-96fa-4b01-9b6d-b40284b5dfb2@68.183.234.52:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=15.235.146.5&encryption=none#Rayan%20-%20RVP%20-%20SG%20-%20II%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
 
 vless://d7ef1a6d-a2da-4d43-87d8-f110b13163c7@datafiles.cyberscaler.net:443?security=reality&sni=ssl.gstatic.com&fp=chrome&pbk=b-jISQAdIIxv6MeoirMHu_MSRdUCriKY5v8vvszN6BA&sid=3b7c99b709e4a19e&spx=/images/icons/1x1.png&type=tcp&encryption=none
-
-vless://da70ccc8-4da5-4f04-aa4c-3c7f31e57ff7@cdn-assets-edge.cyberscaler.net:80?security=&fp=chrome&type=tcp&headerType=http&host=cdnjs.cloudflare.com&encryption=none
 
 vless://de765eb2-92d9-4730-885a-7f63985cffbe@simonil.zarghamportal.ir:8080?security=&fp=chrome&type=httpupgrade&path=/&host=shole.zarghamportal.ir&encryption=none
 
@@ -201,8 +189,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@20.91.252.21:4
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.100.248:48172#Ain-3
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.106.151:48172#AA-1
-
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@38.54.57.90:989
 
 vmess://eyJhZGQiOiI1Ny4xMjkuMjQuMTI1IiwiYWlkIjoiMCIsImhvc3QiOiJ3cm1lbG13eGxmLmdrdGV2bHJxem53cXFvenkuZmFicGZzNjZnaXptbm9qaGN2cXh3bC5reXRyY2Z6cWxhODdndmd2czZjN2tqbnJ1YnVoLmNjIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6IiIsInNjeSI6ImF1dG8iLCJzbmkiOiJ3cm1lbG13eGxmLmdrdGV2bHJxem53cXFvenkuZmFicGZzNjZnaXptbm9qaGN2cXh3bC5reXRyY2Z6cWxhODdndmd2czZjN2tqbnJ1YnVoLmNjIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
 
