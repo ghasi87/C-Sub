@@ -38,7 +38,7 @@ vless://3498b967-319f-436a-9edd-12f6ede84572@sourceforge.net:443?security=tls&sn
 
 vless://3498b967-319f-436a-9edd-12f6ede84572@www.speedtest.net:443?security=tls&sni=rAyAn-cOnFiG-01.rAyAn.dNs-dYnAmIc.nEt&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-config-01.rayan.dns-dynamic.net&encryption=none#@Rayan_Config%20-%20EU-R-NS-1
 
-vless://3821b50f-4389-43d7-b08f-7b9e2861bb95@www.visaeurope.ch:2095?security=&fp=chrome&type=ws&path=@Rayan_Config&host=rAyAn-cOnFiG-TeLeGrAm-pRo-6.rAyAn-6.cLoUdNs.pRo&encryption=none#@Rayan_Config%20-%20EU-80-NS-6
+vless://3821b50f-4389-43d7-b08f-7b9e2861bb95@www.visaeurope.ch:2086?security=&fp=chrome&type=ws&path=@Rayan_Config&host=rAyAn-cOnFiG-TeLeGrAm-pRo-6.rAyAn-6.cLoUdNs.pRo&encryption=none#@Rayan_Config%20-%20EU-80-NS-6
 
 vless://4056f359-d0b1-4aed-8368-8455bc759ed8@68.183.234.52:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#Rayan%20-%20RVP%20-%20SG%20-%20II%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
 
@@ -51,6 +51,8 @@ vless://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@tfl.gov.uk:443?security=tls&sni=rAy
 vless://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@www.visaeurope.ch:443?security=tls&sni=rAyAn-cOnFiG-TeLeGrAm-a01.pArAsToO.DpDnS.OrG&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-config-telegram-a01.parastoo.dpdns.org&encryption=none#@Rayan_Config%20-%20MIX-P-1
 
 vless://5aebb705-2521-49b6-87f0-17dc1d53e77f@143.198.15.103:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#Rayan%20-%20RVP%20-%20US%20-%20II%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
+
+vless://5c9d0b1b-4075-40d0-baf0-85cb03722586@medium.com:2095?security=&fp=chrome&type=ws&path=@Rayan_Config&host=rAyAn-cOnFiG-TeLeGrAm-cLuB-1.RaYaN-1.ClOuDnS.ClUb&encryption=none#@Rayan_Config%20-%20MIX-80-NS-1
 
 vless://5da52d2d-1ab8-48d0-8421-8354fd6ce7d3@jquery.com:443?security=tls&sni=rAyAn-cOnFiG-05.rAyAn-iI.DnS-DyNaMiC.NeT&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-config-05.rayan-ii.dns-dynamic.net&encryption=none#@Rayan_Config%20-%20EU-R-NS-5
 
@@ -74,6 +76,8 @@ vless://7e6bc431-d7b5-4664-811e-8ac2b08ad25e@139.59.209.171:443?security=tls&sni
 
 vless://7f8fa84c-6c40-4787-b0b9-a2b3e7420a26@209.38.20.147:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#Rayan%20-%20RVP%20-%20AU%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
 
+vless://8225c631-a11e-46a3-b35d-25e9a6b23bf1@mybb.com:8880?security=&fp=chrome&type=ws&path=@Rayan_Config&host=rAyAn-cOnFiG-TeLeGrAm-cLuB-4.RaYaN-4.ClOuDnS.ClUb&encryption=none#@Rayan_Config%20-%20MIX-80-NS-4
+
 vless://846e7df6-a3a0-4133-be03-c588fe070d0d@check-host.net:2082?security=&fp=chrome&type=ws&path=@Rayan_Config&host=rAyAn-cOnFiG-TeLeGrAm-pRo-5.rAyAn-5.cLoUdNs.pRo&encryption=none#@Rayan_Config%20-%20EU-80-NS-5
 
 vless://9094dfcd-4bf5-4beb-aab7-2dfd813070f8@188.166.150.199:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#Rayan%20-%20RVP%20-%20UK%20-%20II%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
@@ -88,7 +92,15 @@ vless://a0ac9cf5-f8c8-43cf-a09b-908455fb2b4b@mybb.com:443?security=tls&sni=rAyAn
 
 vless://a0ac9cf5-f8c8-43cf-a09b-908455fb2b4b@poloniex.com:443?security=tls&sni=rAyAn-cOnFiG-07.rAyAn-iIi.dNs-dYnAmIc.nEt&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-config-07.rayan-iii.dns-dynamic.net&encryption=none#@Rayan_Config%20-%20MIX-R-NS-1
 
+vless://a34aad27-6d0e-43ab-8e18-0d50fd6a01cf@adf.ly:2052?security=&fp=chrome&type=ws&path=@Rayan_Config&host=rAyAn-cOnFiG-TeLeGrAm-cLuB-5.RaYaN-5.ClOuDnS.ClUb&encryption=none#@Rayan_Config%20-%20MIX-80-NS-5
+
+vless://a83b75d7-6b87-4201-a12a-8105fad6a8da@www.speedtest.net:2082?security=&fp=chrome&type=ws&path=@Rayan_Config&host=rAyAn-cOnFiG-TeLeGrAm-cLuB-6.RaYaN-6.ClOuDnS.ClUb&encryption=none#@Rayan_Config%20-%20MIX-80-NS-6
+
+vless://b14b76c2-c5fd-46c2-ae58-bf80b1abdad7@change.org:80?security=&fp=chrome&type=ws&path=@Rayan_Config&host=rAyAn-cOnFiG-TeLeGrAm-cLuB-2.RaYaN-2.ClOuDnS.ClUb&encryption=none#@Rayan_Config%20-%20MIX-80-NS-2
+
 vless://cbef22b9-f7fb-48b5-acc3-7044736ed83a@134.209.90.171:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=152.42.139.83&encryption=none#Rayan%20-%20RVP%20-%20NL%20-%20II%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
+
+vless://ced68db6-637d-4128-a2a3-02238d5c50bd@feedly.com:8080?security=&fp=chrome&type=ws&path=@Rayan_Config&host=rAyAn-cOnFiG-TeLeGrAm-cLuB-3.RaYaN-3.ClOuDnS.ClUb&encryption=none#@Rayan_Config%20-%20MIX-80-NS-3
 
 vless://f3939d9d-6638-4c28-a6d0-950f392766af@51.195.202.129:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#Rayan%20-%20RVP%20-%20UK%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
 
