@@ -28,6 +28,8 @@ vless://286a5f83-f8e6-47b4-a47e-5f7a6bec71fc@glassdoor.com:443?security=tls&sni=
 
 vless://286a5f83-f8e6-47b4-a47e-5f7a6bec71fc@www.speedtest.net:443?security=tls&sni=rAyAn-cOnFiC-10.rAyAn-iV.DnS-DyNaMiC.NeT&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-confic-10.rayan-iv.dns-dynamic.net&encryption=none#@Rayan_Config%20-%20MIX-R-NS-4
 
+vless://29192cdd-d0bb-4347-8c1d-049d92827871@bitpay.com:80?security=&fp=chrome&type=ws&path=@Rayan_Config&host=rAyAn-cOnFiG-TeLeGrAm-pRo-1.rAyAn-1.cLoUdNs.pRo&encryption=none#@Rayan_Config%20-%20EU-80-NS-1
+
 vless://2bb5518a-5937-44b7-87ed-8987dddbdd19@139.59.213.120:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#Rayan%20-%20RVP%20-%20FR%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
 
 vless://2d14a080-54b1-4d69-9a5e-0eaf3538d0d8@57.128.219.105:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#Rayan%20-%20RVP%20-%20PL%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
