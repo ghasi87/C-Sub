@@ -164,16 +164,16 @@
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 443,
-            "uuid": "58621af7-5668-41bf-8ae8-8fff583cf08f",
+            "uuid": "b14b76c2-c5fd-46c2-ae58-bf80b1abdad7",
             "network": "tcp",
             "packet_encoding": "",
             "transport": {
                 "early_data_header_name": "Sec-WebSocket-Protocol",
                 "max_early_data": 2560,
                 "headers": {
-                    "Host": "rayan-nb-2.sanaz.dpdns.org"
+                    "Host": "rAyAn-sB-02.rAyAn-cOnFiG-Sb-02.ClOuDnS.PrO"
                 },
-                "path": "/GBjITx61lr10uGSw",
+                "path": "/@Rayan_Config",
                 "type": "ws"
             },
             "domain_resolver": {
@@ -187,7 +187,7 @@
                 "alpn": "http/1.1",
                 "enabled": true,
                 "insecure": true,
-                "server_name": "RAYAN-nb-2.SanaZ.DPdnS.OrG",
+                "server_name": "rAyAn-sB-02.rAyAn-cOnFiG-Sb-02.ClOuDnS.PrO",
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
