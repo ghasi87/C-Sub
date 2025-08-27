@@ -151,7 +151,7 @@
             "tls": {
                 "alpn": "http/1.1",
                 "enabled": true,
-                "insecure": true,
+                "insecure": false,
                 "server_name": "rAyAn-sB-01.rAyAn-cOnFiG-Sb-01.ClOuDnS.PrO",
                 "utls": {
                     "enabled": true,
@@ -199,16 +199,16 @@
             "type": "vless",
             "server": "iplocation.net",
             "server_port": 443,
-            "uuid": "58621af7-5668-41bf-8ae8-8fff583cf08f",
+            "uuid": "5c9d0b1b-4075-40d0-baf0-85cb03722586",
             "network": "tcp",
             "packet_encoding": "",
             "transport": {
                 "early_data_header_name": "Sec-WebSocket-Protocol",
                 "max_early_data": 2560,
                 "headers": {
-                    "Host": "rayan-nb-3.sanaz.dpdns.org"
+                    "Host": "rAyAn-sB-03.rAyAn-cOnFiG-Sb-03.ClOuDnS.PrO"
                 },
-                "path": "/Se7TOzYGCPHBjYsH",
+                "path": "/@Rayan_Config",
                 "type": "ws"
             },
             "domain_resolver": {
@@ -222,7 +222,7 @@
                 "alpn": "http/1.1",
                 "enabled": true,
                 "insecure": true,
-                "server_name": "rAyAN-Nb-3.SAnAZ.DpdNS.ORG",
+                "server_name": "rAyAn-sB-03.rAyAn-cOnFiG-Sb-03.ClOuDnS.PrO",
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
