@@ -324,9 +324,9 @@
                 "early_data_header_name": "Sec-WebSocket-Protocol",
                 "max_early_data": 2560,
                 "headers": {
-                    "Host": "rayan-sb-2.medicalhistory.ir"
+                    "Host": "rAYan-sB-2.meDIcalHIstoRY.iR"
                 },
-                "path": "/iCg12pKQfUjwwdUj",
+                "path": "/@Rayan_Config",
                 "type": "ws"
             },
             "domain_resolver": {
@@ -359,9 +359,9 @@
                 "early_data_header_name": "Sec-WebSocket-Protocol",
                 "max_early_data": 2560,
                 "headers": {
-                    "Host": "rayan-nb-1.pejman.dpdns.org"
+                    "Host": "RaYan-Nb-1.pEjmAn.dPdNs.oRg"
                 },
-                "path": "/iCg12pKQfUjwwdUj",
+                "path": "/@Rayan_Config",
                 "type": "ws"
             },
             "domain_resolver": {
@@ -394,9 +394,9 @@
                 "early_data_header_name": "Sec-WebSocket-Protocol",
                 "max_early_data": 2560,
                 "headers": {
-                    "Host": "rayan-nb-2.pejman.dpdns.org"
+                    "Host": "RaYan-Nb-2.pEjmAn.dPdNs.oRg"
                 },
-                "path": "/iCg12pKQfUjwwdUj",
+                "path": "/@Rayan_Config",
                 "type": "ws"
             },
             "domain_resolver": {
@@ -429,9 +429,9 @@
                 "early_data_header_name": "Sec-WebSocket-Protocol",
                 "max_early_data": 2560,
                 "headers": {
-                    "Host": "rayan-nb-3.pejman.dpdns.org"
+                    "Host": "RaYan-Nb-3.pEjmAn.dPdNs.oRg"
                 },
-                "path": "/iCg12pKQfUjwwdUj",
+                "path": "/@Rayan_Config",
                 "type": "ws"
             },
             "domain_resolver": {
@@ -464,9 +464,9 @@
                 "early_data_header_name": "Sec-WebSocket-Protocol",
                 "max_early_data": 2560,
                 "headers": {
-                    "Host": "rayan-nb-4.pejman.dpdns.org"
+                    "Host": "RaYan-Nb-4.pEjmAn.dPdNs.oRg"
                 },
-                "path": "/iCg12pKQfUjwwdUj",
+                "path": "/@Rayan_Config",
                 "type": "ws"
             },
             "domain_resolver": {
@@ -499,9 +499,9 @@
                 "early_data_header_name": "Sec-WebSocket-Protocol",
                 "max_early_data": 2560,
                 "headers": {
-                    "Host": "rayan-config-sb-01.rayan-vii.dns-dynamic.net"
+                    "Host": "rAyAn-cOnFiG-Sb-01.RaYaN-ViI.DnS-DyNaMiC.NeT"
                 },
-                "path": "/iCg12pKQfUjwwdUj",
+                "path": "/@Rayan_Config",
                 "type": "ws"
             },
             "domain_resolver": {
@@ -534,9 +534,9 @@
                 "early_data_header_name": "Sec-WebSocket-Protocol",
                 "max_early_data": 2560,
                 "headers": {
-                    "Host": "rayan-sb-1.medicalhistory.ir"
+                    "Host": "rAyAn-Sb-1.mEdicAlhisTorY.Ir"
                 },
-                "path": "/iCg12pKQfUjwwdUj",
+                "path": "/@Rayan_Config",
                 "type": "ws"
             },
             "domain_resolver": {
