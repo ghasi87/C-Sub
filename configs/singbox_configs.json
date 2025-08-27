@@ -282,16 +282,16 @@
             "type": "vless",
             "server": "sourceforge.net",
             "server_port": 443,
-            "uuid": "58621af7-5668-41bf-8ae8-8fff583cf08f",
+            "uuid": "c3e53cee-eb2e-4b5f-b934-faeb702f6d2d",
             "network": "tcp",
             "packet_encoding": "",
             "transport": {
                 "early_data_header_name": "Sec-WebSocket-Protocol",
                 "max_early_data": 2560,
                 "headers": {
-                    "Host": "rayan-nb-5.sanaz.dpdns.org"
+                    "Host": "rAyAn-sB-05.rAyAn-cOnFiG-Sb-05.ClOuDnS.ClUb"
                 },
-                "path": "/qiCar0akAB06yWxg",
+                "path": "/@Rayan_Config",
                 "type": "ws"
             },
             "domain_resolver": {
@@ -305,7 +305,7 @@
                 "alpn": "http/1.1",
                 "enabled": true,
                 "insecure": true,
-                "server_name": "RAYAN-Nb-5.sAnaz.DpdnS.Org",
+                "server_name": "rAyAn-sB-05.rAyAn-cOnFiG-Sb-05.ClOuDnS.ClUb",
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
