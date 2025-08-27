@@ -8,7 +8,7 @@
             {
                 "type": "https",
                 "server": "8.8.8.8",
-                "detour": "👑 @Rayan_Config 👑",
+                "detour": "✅ Selector",
                 "tag": "dns-remote"
             },
             {
@@ -16,6 +16,11 @@
                 "server": "8.8.8.8",
                 "server_port": 53,
                 "tag": "dns-direct"
+            },
+            {
+                "type": "fakeip",
+                "tag": "dns-fake",
+                "inet4_range": "198.18.0.0/15"
             }
         ],
         "rules": [
@@ -54,9 +59,18 @@
                     "geosite-cryptominers"
                 ],
                 "action": "reject"
+            },
+            {
+                "disable_cache": true,
+                "inbound": "tun-in",
+                "query_type": [
+                    "A",
+                    "AAAA"
+                ],
+                "server": "dns-fake"
             }
         ],
-        "strategy": "prefer_ipv4",
+        "strategy": "ipv4_only",
         "independent_cache": true
     },
     "inbounds": [
@@ -64,8 +78,7 @@
             "type": "tun",
             "tag": "tun-in",
             "address": [
-                "172.18.0.1/30",
-                "fdfe:dcba:9876::1/126"
+                "172.18.0.1/30"
             ],
             "mtu": 9000,
             "auto_route": true,
