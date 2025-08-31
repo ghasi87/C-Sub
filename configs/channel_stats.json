@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-08-31T07:10:52.301365+00:00",
+  "timestamp": "2025-08-31T08:14:02.779131+00:00",
   "channels": [
     {
       "url": "https://Rayan-Config.github.io/ALL",
@@ -11,8 +11,8 @@
         "avg_response_time": 0.1,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 76.93,
-        "last_success": "2025-08-31T07:10:35.929095+00:00",
+        "overall_score": 76.94,
+        "last_success": "2025-08-31T08:13:46.300636+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -34,8 +34,8 @@
         "avg_response_time": 0.08,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 75.97,
-        "last_success": "2025-08-31T07:10:38.008044+00:00",
+        "overall_score": 75.96,
+        "last_success": "2025-08-31T08:13:48.387936+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 18,
@@ -54,11 +54,11 @@
         "total_configs": 500,
         "valid_configs": 20,
         "unique_configs": 20,
-        "avg_response_time": 0.04,
+        "avg_response_time": 0.05,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 75.94,
-        "last_success": "2025-08-31T07:10:40.054803+00:00",
+        "overall_score": 75.93,
+        "last_success": "2025-08-31T08:13:50.439059+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 20,
@@ -104,7 +104,7 @@
         "success_count": 1,
         "fail_count": 0,
         "overall_score": 78.0,
-        "last_success": "2025-08-31T07:10:44.134542+00:00",
+        "last_success": "2025-08-31T08:13:54.587037+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 1,
@@ -127,7 +127,7 @@
         "success_count": 1,
         "fail_count": 0,
         "overall_score": 81.19,
-        "last_success": "2025-08-31T07:10:46.177120+00:00",
+        "last_success": "2025-08-31T08:13:56.629982+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
