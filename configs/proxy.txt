@@ -80,8 +80,6 @@ vless://ff8d20d1-db9d-4cbe-9fef-ea10a474cd6c@83.217.9.233:443?security=reality&s
 
 vless://vw6hjp6qlg@npmjs.com:2053?security=tls&sni=vw6hjp6qlg-525340125.zamam.co&fp=randomized&type=httpupgrade&path=/download/cdn&host=vw6hjp6qlg-525340125.zamam.co&encryption=none#@Rayan_Config%2041
 
-hysteria2://07c122ad-50b2-4f61-9435-efcf112bb10b@185.126.255.78:43429/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
-
 hysteria2://0cb527d9-6117-4bcf-a52b-1704b3458cef@185.126.255.78:43429/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
 
 hysteria2://1045aedf-053c-4585-875d-e2fc3f3ea6dd@185.126.255.78:43429/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
@@ -132,13 +130,13 @@ hysteria2://ebbeef45-0fd8-40cd-aca5-1e2ce18abeff@185.126.255.78:43429/?sni=real.
 
 hysteria2://f901861b-6491-450c-b500-606b2e921625@185.126.255.78:43429/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@135.225.124.80:48172/?POST%20#Ainita%20Server%203
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@135.225.124.80:48172/?POST%20#Ainita%20Server%204
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.100.248:48172/?POST%20#Ainita%20Server%204
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.100.248:48172/?POST%20#Ainita%20Server%201
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.106.151:48172/?POST%20#Ainita%20Server%202
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.106.240:48172/?POST%20#Ainita%20Server%201
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.106.240:48172/?POST%20#Ainita%20Server%203
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@de.vpnsparta.pro:57456#@Rayan_Config%2012
 
