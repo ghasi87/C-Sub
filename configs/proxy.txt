@@ -170,8 +170,6 @@ hysteria2://1045aedf-053c-4585-875d-e2fc3f3ea6dd@185.126.255.78:43429/?sni=real.
 
 hysteria2://23125f6e-ec56-4c26-9714-0bbacdb53d01@185.126.255.78:43429/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
 
-hysteria2://29fbd51f-03c8-4d76-849a-436e54d58317@185.126.255.78:43429/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
-
 hysteria2://413c8b50-96bf-4457-82f2-54dfa8685f53@185.126.255.78:43429/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
 
 hysteria2://45cc0b3a-0adb-4dcc-8f54-4ba3d2cc274e@185.126.255.78:43429/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
@@ -183,8 +181,6 @@ hysteria2://48c2c901-72e6-46d4-ac78-169d73264cbf@185.126.255.78:43429/?sni=real.
 hysteria2://52816135-d3bc-46bc-a915-09886a2e2b2e@185.126.255.78:43429/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
 
 hysteria2://55ca7a9e-cf90-49df-b14a-9346c59b73b9@185.126.255.78:43429/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
-
-hysteria2://6bf726db-fb0b-405b-899a-3e263f092eda@185.126.255.78:43429/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
 
 hysteria2://7GEEGxAfgQaVPQX0PGk7lIuj3I@158.41.110.234:10820?insecure=1#%40Rayan_Config%202
 
@@ -206,13 +202,13 @@ hysteria2://joindailyconfigs:EXxpthn9kvpRUlvJBg5uOLNCBU0ZMbdS@176.124.204.248:44
 
 hysteria2://joindailyconfigs:EXxpthn9kvpRUlvJBg5uOLNCBU0ZMbdS@[2a0b:4140:b6c4::2]:443?obfs=salamander&obfs-password=5zcstyddEr2HrwDFUGsF87IdN4eokPcN&insecure=1&sni=slack.com#%40Rayan_Config%2069
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@135.225.124.80:48172/?POST%20#Ainita%20Server%204
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@135.225.124.80:48172/?POST%20#Ainita%20Server%203
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.100.248:48172/?POST%20#Ainita%20Server%201
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.100.248:48172/?POST%20#Ainita%20Server%204
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.106.151:48172/?POST%20#Ainita%20Server%202
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.106.240:48172/?POST%20#Ainita%20Server%203
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.106.240:48172/?POST%20#Ainita%20Server%201
 
 vmess://eyJhZGQiOiI0NS4xMjguNTQuODQiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiNzJmZWI4MzMtNDE5Ni00YTcwLWEzZjUtYWViMDExZjdkNTM0IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIzNzMxMyIsInBzIjoiQFJheWFuX0NvbmZpZyA2MSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 
