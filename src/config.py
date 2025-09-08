@@ -12,16 +12,14 @@ class ProxyConfig:
         self.TELEGRAM_CHANNELS = [
             ChannelConfig("https://t.me/s/v2ray_free_conf"),
             ChannelConfig("https://t.me/s/v2rayngvpn"),
-            ChannelConfig("https://t.me/s/V2ray_Alpha"),
-            ChannelConfig("https://t.me/s/SvnV2ray"),
+            ChannelConfig("https://t.me/s/ConfigV2rayNG"),
+            ChannelConfig("https://t.me/s/oneclickvpnkeys"),
             ChannelConfig("https://t.me/s/RadixVPN")
         ]
 
         self.SUPPORTED_PROTOCOLS: Dict[str, Dict] = {
-            "wireguard://": {"min_configs": 2, "max_configs": 10},
             "hysteria2://": {"min_configs": 2, "max_configs": 10},
             "vless://": {"min_configs": 2, "max_configs": 10},
-            "vmess://": {"min_configs": 2, "max_configs": 10},
             "ss://": {"min_configs": 2, "max_configs": 10},
             "trojan://": {"min_configs": 2, "max_configs": 10}
         }
